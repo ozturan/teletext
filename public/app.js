@@ -1002,12 +1002,15 @@ const ALL_LEAGUES = [
 ];
 
 function parseGames(events, tag) {
+  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
   return events.map(e => {
     const comp = e.competitions[0];
     const [home, away] = [comp.competitors[0], comp.competitors[1]];
     const state = comp.status.type;
     const live = state.state === 'in', final = state.state === 'post';
     if (!live && !final) return '';
+    const startMs = new Date(comp.date || e.date).getTime();
+    if (!startMs || startMs < cutoff) return '';
 
     const awayWin = final && parseInt(away.score) > parseInt(home.score);
     const homeWin = final && parseInt(home.score) > parseInt(away.score);
