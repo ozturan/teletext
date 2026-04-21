@@ -1,0 +1,21 @@
+{
+  "name": "teletext",
+  "short_name": "teletext",
+  "description": "Live information service — news, markets, scores, weather",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1214",
+  "theme_color": "#0e1214",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>teletext — brand picker</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500&family=Courier+Prime:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500&family=Fira+Code:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;500&family=Azeret+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #09090b; color: #aaa; font-family: 'Inter', sans-serif; font-size: 14px; padding: 40px 20px; }
+  h1 { text-align: center; font-size: 24px; color: #eee; margin-bottom: 4px; letter-spacing: 0.1em; }
+  .sub { text-align: center; color: #555; font-size: 14px; margin-bottom: 40px; }
+  .grid { display: grid; grid-template-columns: 1fr; gap: 32px; max-width: 1100px; margin: 0 auto; }
+
+  .brand {
+    border: 1px solid #1a1a1e;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+  .brand:hover { border-color: #333; }
+
+  .brand-head {
+    padding: 14px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    background: #0e0e12;
+    border-bottom: 1px solid #1a1a1e;
+  }
+  .brand-num { color: #444; font-size: 12px; font-family: 'IBM Plex Mono', monospace; }
+  .brand-domain { color: #666; font-size: 12px; font-family: 'IBM Plex Mono', monospace; }
+  .brand-mood { color: #555; font-size: 12px; }
+  .brand-fonts { color: #444; font-size: 11px; font-family: 'IBM Plex Mono', monospace; }
+
+  /* Mock screen */
+  .mock {
+    height: 320px;
+    display: grid;
+    grid-template-columns: 240px 1fr 220px;
+    overflow: hidden;
+  }
+  .m-sidebar, .m-main, .m-wall {
+    padding: 16px 14px;
+    overflow: hidden;
+  }
+  .m-sidebar { border-right: 1px solid; }
+  .m-wall { border-left: 1px solid; }
+
+  .m-logo { letter-spacing: 0.15em; padding-bottom: 12px; }
+  .m-clock { font-size: 36px; font-weight: 500; line-height: 1; }
+  .m-date { font-size: 11px; margin-top: 6px; letter-spacing: 0.08em; }
+  .m-label { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; margin-top: 16px; margin-bottom: 4px; }
+  .m-temp { font-size: 14px; margin-bottom: 2px; }
+  .m-detail { font-size: 11px; }
+  .m-hol { font-size: 11px; display: flex; gap: 8px; padding: 1px 0; }
+
+  .m-header { display: flex; justify-content: space-between; padding-bottom: 10px; font-size: 12px; }
+  .m-ticker { font-size: 11px; padding: 6px 0; white-space: nowrap; overflow: hidden; }
+  .m-headline { font-size: 22px; font-weight: 400; line-height: 1.2; margin: 12px 0 10px; }
+  .m-bullet { font-size: 12px; padding: 2px 0; }
+  .m-progress { display: flex; gap: 2px; margin-top: auto; padding-top: 10px; }
+  .m-pip { flex: 1; height: 2px; }
+
+  .m-wtitle { font-size: 11px; letter-spacing: 0.1em; padding-bottom: 8px; }
+  .m-input { width: 100%; font-size: 11px; padding: 4px 6px; border: 1px solid; margin-bottom: 6px; background: transparent; }
+  .m-post { padding: 6px 0; font-size: 11px; }
+  .m-postname { font-size: 12px; }
+  .m-posttext { font-size: 11px; padding: 2px 0; }
+  .m-postmeta { font-size: 10px; }
+</style>
+</head>
+<body>
+<h1>BRAND PICKER</h1>
+<div class="sub">20 combinations — name, fonts, colors, mood</div>
+<div class="grid" id="grid"></div>
+
+<script>
+var brands = [
+  {
+    num: 1, mood: "Warm editorial — DM Sans + DM Mono",
+    sans: "'DM Sans'", mono: "'DM Mono'", clock: "'DM Mono'",
+    bg: "#0f0e0c", text: "#c8c0b4", dim: "#5a5448", accent: "#c4a060", accent2: "#8a7a60",
+    up: "#7a9a6a", down: "#a87060", border: "#1e1a16", surface: "#161410"
+  },
+  {
+    num: 2, mood: "Cool Scandinavian — Inter + Source Code Pro",
+    sans: "'Inter'", mono: "'Source Code Pro'", clock: "'Source Code Pro'",
+    bg: "#0a0e14", text: "#b4bcc4", dim: "#404a58", accent: "#88b4cc", accent2: "#607888",
+    up: "#70aa84", down: "#c47a6e", border: "#161e28", surface: "#101820"
+  },
+  {
+    num: 3, mood: "Vignelli red — Space Grotesk + Space Mono",
+    sans: "'Space Grotesk'", mono: "'Space Mono'", clock: "'Space Mono'",
+    bg: "#101010", text: "#c4c4c4", dim: "#505458", accent: "#cc6b5a", accent2: "#8898a4",
+    up: "#6b9e78", down: "#cc6b5a", border: "#202020", surface: "#161616"
+  },
+  {
+    num: 4, mood: "Industrial copper — Outfit + Fira Code",
+    sans: "'Outfit'", mono: "'Fira Code'", clock: "'Fira Code'",
+    bg: "#0e0c0c", text: "#b8b0a8", dim: "#504840", accent: "#cc8860", accent2: "#7a7068",
+    up: "#70a070", down: "#b06050", border: "#201a18", surface: "#161210"
+  },
+  {
+    num: 5, mood: "Blue-black ink — IBM Plex Sans + IBM Plex Mono",
+    sans: "'IBM Plex Sans'", mono: "'IBM Plex Mono'", clock: "'IBM Plex Mono'",
+    bg: "#0c0e12", text: "#a8b0b8", dim: "#404850", accent: "#8aa0b8", accent2: "#687888",
+    up: "#70a080", down: "#a87070", border: "#181e24", surface: "#121820"
+  },
+  {
+    num: 6, mood: "Terminal green — Manrope + JetBrains Mono",
+    sans: "'Manrope'", mono: "'JetBrains Mono'", clock: "'JetBrains Mono'",
+    bg: "#0a0c0a", text: "#90a898", dim: "#3a4a3e", accent: "#5abf78", accent2: "#5abf78",
+    up: "#5abf78", down: "#bf6a5a", border: "#161c16", surface: "#101410"
+  },
+  {
+    num: 7, mood: "Concrete — Libre Franklin + Inconsolata",
+    sans: "'Libre Franklin'", mono: "'Inconsolata'", clock: "'Inconsolata'",
+    bg: "#101010", text: "#a0a0a0", dim: "#484848", accent: "#c0c0c0", accent2: "#808080",
+    up: "#70a078", down: "#a07070", border: "#1e1e1e", surface: "#161616"
+  },
+  {
+    num: 8, mood: "Purple SaaS — Inter + Azeret Mono",
+    sans: "'Inter'", mono: "'Azeret Mono'", clock: "'Azeret Mono'",
+    bg: "#0f0f18", text: "#c0c0d0", dim: "#484860", accent: "#a08ee0", accent2: "#6878b0",
+    up: "#60b880", down: "#d07070", border: "#1e1e30", surface: "#141420"
+  },
+  {
+    num: 9, mood: "Rams orange — DM Sans + Courier Prime",
+    sans: "'DM Sans'", mono: "'Courier Prime'", clock: "'Courier Prime'",
+    bg: "#0e0f10", text: "#b8bcc0", dim: "#4a5058", accent: "#d4a072", accent2: "#7090a0",
+    up: "#6a9a78", down: "#a07068", border: "#1c1e20", surface: "#141618"
+  },
+  {
+    num: 10, mood: "Rosewood literary — IBM Plex Sans + IBM Plex Mono",
+    sans: "'IBM Plex Sans'", mono: "'IBM Plex Mono'", clock: "'IBM Plex Mono'",
+    bg: "#141018", text: "#c4bcc8", dim: "#504860", accent: "#e0a0a0", accent2: "#8090b0",
+    up: "#80b8a0", down: "#d08888", border: "#221c2a", surface: "#1a1420"
+  },
+  {
+    num: 11, mood: "Data Tufte — Manrope + Fira Code",
+    sans: "'Manrope'", mono: "'Fira Code'", clock: "'Fira Code'",
+    bg: "#0c0e10", text: "#b0b4b8", dim: "#484c54", accent: "#d0d0d0", accent2: "#7898a8",
+    up: "#5aaa6e", down: "#c06058", border: "#1a1e22", surface: "#121618"
+  },
+  {
+    num: 12, mood: "Gold shrine — Outfit + Source Code Pro",
+    sans: "'Outfit'", mono: "'Source Code Pro'", clock: "'Source Code Pro'",
+    bg: "#100e0c", text: "#b0a898", dim: "#504a3e", accent: "#c4a060", accent2: "#806848",
+    up: "#7a9a6a", down: "#9a6a5a", border: "#1e1a16", surface: "#181410"
+  },
+  {
+    num: 13, mood: "Jade celadon — DM Sans + Inconsolata",
+    sans: "'DM Sans'", mono: "'Inconsolata'", clock: "'Inconsolata'",
+    bg: "#0a0e10", text: "#a8b4b0", dim: "#3e4e4a", accent: "#70b8a8", accent2: "#508880",
+    up: "#70b8a8", down: "#b87870", border: "#162020", surface: "#101a18"
+  },
+  {
+    num: 14, mood: "Kodak Portra — Space Grotesk + Azeret Mono",
+    sans: "'Space Grotesk'", mono: "'Azeret Mono'", clock: "'Azeret Mono'",
+    bg: "#100e0e", text: "#c0b8b0", dim: "#504c48", accent: "#d4a880", accent2: "#6898a0",
+    up: "#78a878", down: "#c47868", border: "#1e1a18", surface: "#181414"
+  },
+  {
+    num: 15, mood: "Fog monochrome — Libre Franklin + Source Code Pro",
+    sans: "'Libre Franklin'", mono: "'Source Code Pro'", clock: "'Source Code Pro'",
+    bg: "#101214", text: "#a0a4a8", dim: "#484c54", accent: "#a0a8b0", accent2: "#808890",
+    up: "#7aa088", down: "#a07878", border: "#1c1e22", surface: "#161820"
+  },
+  {
+    num: 16, mood: "Pentagram B&W — Inter + JetBrains Mono",
+    sans: "'Inter'", mono: "'JetBrains Mono'", clock: "'JetBrains Mono'",
+    bg: "#0e0e0e", text: "#c8c8c8", dim: "#484848", accent: "#e8e8e8", accent2: "#808080",
+    up: "#68a878", down: "#c07060", border: "#1e1e1e", surface: "#161616"
+  },
+  {
+    num: 17, mood: "Amber Muji — IBM Plex Sans + Courier Prime",
+    sans: "'IBM Plex Sans'", mono: "'Courier Prime'", clock: "'Courier Prime'",
+    bg: "#111110", text: "#c8c4bc", dim: "#5a5850", accent: "#c8a96e", accent2: "#8a8a7e",
+    up: "#7a9a7a", down: "#9a7a7a", border: "#1e1e1c", surface: "#181816"
+  },
+  {
+    num: 18, mood: "Cream light — DM Sans + DM Mono",
+    sans: "'DM Sans'", mono: "'DM Mono'", clock: "'DM Mono'",
+    bg: "#f4f1ec", text: "#2c2c2c", dim: "#9a9590", accent: "#2c2c2c", accent2: "#5a7a7a",
+    up: "#4a8a5a", down: "#b85a4a", border: "#ddd8d0", surface: "#eae6e0"
+  },
+  {
+    num: 19, mood: "Wabi-sabi — Outfit + Inconsolata",
+    sans: "'Outfit'", mono: "'Inconsolata'", clock: "'Inconsolata'",
+    bg: "#110f0c", text: "#a8a498", dim: "#4e4c40", accent: "#b89870", accent2: "#808060",
+    up: "#80a06a", down: "#a87060", border: "#201c18", surface: "#181410"
+  },
+  {
+    num: 20, mood: "Navy Bloomberg — Manrope + Azeret Mono",
+    sans: "'Manrope'", mono: "'Azeret Mono'", clock: "'Azeret Mono'",
+    bg: "#0a0c14", text: "#b0b4c0", dim: "#404858", accent: "#d4a872", accent2: "#6080a0",
+    up: "#60a878", down: "#c07060", border: "#181e28", surface: "#101420"
+  }
+];
+
+var grid = document.getElementById('grid');
+
+brands.forEach(function(b) {
+  var el = document.createElement('div');
+  el.className = 'brand';
+
+  var isLight = b.bg.charAt(1) > '9';
+  var borderC = b.border;
+
+  el.innerHTML =
+    '<div class="brand-head">' +
+      '<div>' +
+        '<span class="brand-num">#' + b.num + '</span> ' +
+        '<span style="color:#ddd; font-size:16px;">#' + b.num + '</span>' +
+      '</div>' +
+      '<div style="text-align:right;">' +
+        '<div class="brand-mood">' + b.mood + '</div>' +
+        '<div class="brand-fonts">' + b.sans.replace(/'/g,'') + ' + ' + b.mono.replace(/'/g,'') + '</div>' +
+      '</div>' +
+    '</div>' +
+    '<div class="mock" style="background:' + b.bg + '; color:' + b.text + ';">' +
+
+      /* Sidebar */
+      '<div class="m-sidebar" style="border-color:' + borderC + ';">' +
+        '<div class="m-logo" style="font-family:' + b.mono + ',monospace; font-size:13px; color:' + b.dim + ';">teletext</div>' +
+        '<div class="m-clock" style="font-family:' + b.clock + ',monospace; color:' + b.text + ';">12:30</div>' +
+        '<div class="m-date" style="color:' + b.dim + '; font-family:' + b.mono + ',monospace;">Sat 12 Apr 2026</div>' +
+        '<div class="m-label" style="color:' + b.dim + '; font-family:' + b.mono + ',monospace;">Weather</div>' +
+        '<div class="m-temp" style="font-family:' + b.sans + ',sans-serif; color:' + b.text + ';">14°C Cloudy</div>' +
+        '<div class="m-detail" style="color:' + b.dim + '; font-family:' + b.mono + ',monospace;">Wind 12km/h · UV 3.2</div>' +
+        '<div class="m-label" style="color:' + b.dim + '; font-family:' + b.mono + ',monospace;">Holidays</div>' +
+        '<div class="m-hol"><span style="color:' + b.accent2 + '; font-family:' + b.mono + ',monospace;">Apr 18</span><span style="font-family:' + b.sans + ',sans-serif;">Good Friday</span></div>' +
+        '<div class="m-hol"><span style="color:' + b.accent2 + '; font-family:' + b.mono + ',monospace;">Apr 21</span><span style="font-family:' + b.sans + ',sans-serif;">Easter Monday</span></div>' +
+      '</div>' +
+
+      /* Main */
+      '<div class="m-main" style="display:flex; flex-direction:column;">' +
+        '<div class="m-header"><span style="font-family:' + b.sans + ',sans-serif; color:' + b.accent + ';">Headlines</span><span style="color:' + b.dim + ';">⚙</span></div>' +
+        '<div class="m-ticker" style="border-bottom:1px solid ' + borderC + '; padding-bottom:6px; font-family:' + b.mono + ',monospace;">' +
+          '<span style="color:' + b.accent2 + ';">BTC</span> <span style="color:' + b.text + ';">84,210</span> <span style="color:' + b.up + ';">+2.1%</span>' +
+          '<span style="color:' + borderC + ';"> · </span>' +
+          '<span style="color:' + b.accent2 + ';">S&P</span> <span style="color:' + b.text + ';">5,420</span> <span style="color:' + b.down + ';">-0.3%</span>' +
+          '<span style="color:' + borderC + ';"> · </span>' +
+          '<span style="color:' + b.accent2 + ';">GOLD</span> <span style="color:' + b.text + ';">2,348</span> <span style="color:' + b.up + ';">+0.5%</span>' +
+        '</div>' +
+        '<div style="font-family:' + b.mono + ',monospace; font-size:10px; color:' + b.accent2 + '; padding-top:10px;">BBC · 2h ago</div>' +
+        '<div class="m-headline" style="font-family:' + b.sans + ',sans-serif; color:' + b.accent + ';">Global leaders gather for climate summit in Berlin</div>' +
+        '<div class="m-bullet" style="font-family:' + b.sans + ',sans-serif; font-weight:300;"><span style="color:' + b.up + ';">▶</span> Delegates from 140 nations discuss targets</div>' +
+        '<div class="m-bullet" style="font-family:' + b.sans + ',sans-serif; font-weight:300;"><span style="color:' + b.up + ';">▶</span> New framework to replace Paris timeline</div>' +
+        '<div class="m-progress">' +
+          '<span class="m-pip" style="background:' + b.accent + ';"></span>' +
+          '<span class="m-pip" style="background:' + borderC + ';"></span>' +
+          '<span class="m-pip" style="background:' + borderC + ';"></span>' +
+          '<span class="m-pip" style="background:' + borderC + ';"></span>' +
+          '<span class="m-pip" style="background:' + borderC + ';"></span>' +
+        '</div>' +
+      '</div>' +
+
+      /* Wall */
+      '<div class="m-wall" style="border-color:' + borderC + ';">' +
+        '<div class="m-wtitle" style="font-family:' + b.mono + ',monospace; color:' + b.accent + '; text-transform:uppercase;">Wall <span style="color:' + b.up + ';">●</span> 3</div>' +
+        '<input class="m-input" style="font-family:' + b.mono + ',monospace; color:' + b.text + '; border-color:' + borderC + ';" value="hello world" readonly>' +
+        '<div class="m-post" style="border-bottom:1px solid ' + borderC + ';">' +
+          '<div style="display:flex; justify-content:space-between;"><span class="m-postname" style="color:' + b.accent + '; font-family:' + b.sans + ',sans-serif;">maya 🇩🇪</span><span style="color:' + b.dim + ';">2m</span></div>' +
+          '<div class="m-posttext" style="font-family:' + b.sans + ',sans-serif;">anyone watching the summit?</div>' +
+          '<div class="m-postmeta" style="color:' + b.dim + ';"><span style="color:' + b.down + ';">♥</span> 3 · reply</div>' +
+        '</div>' +
+        '<div class="m-post" style="border-bottom:1px solid ' + borderC + ';">' +
+          '<div style="display:flex; justify-content:space-between;"><span class="m-postname" style="color:' + b.accent + '; font-family:' + b.sans + ',sans-serif;">kai 🇯🇵</span><span style="color:' + b.dim + ';">14m</span></div>' +
+          '<div style="color:' + b.accent2 + '; font-size:10px;">↳ maya</div>' +
+          '<div class="m-posttext" style="font-family:' + b.sans + ',sans-serif;">the speeches are really good</div>' +
+          '<div class="m-postmeta" style="color:' + b.dim + ';">♥ 1 · reply</div>' +
+        '</div>' +
+        '<div class="m-post">' +
+          '<div style="display:flex; justify-content:space-between;"><span class="m-postname" style="color:' + b.accent + '; font-family:' + b.sans + ',sans-serif;">leo 🇧🇷</span><span style="color:' + b.dim + ';">1h</span></div>' +
+          '<div class="m-posttext" style="font-family:' + b.sans + ',sans-serif;">first post ✌️</div>' +
+          '<div class="m-postmeta" style="color:' + b.dim + ';">♥ 0 · reply</div>' +
+        '</div>' +
+      '</div>' +
+
+    '</div>';
+
+  grid.appendChild(el);
+});
+</script>
+</body>
+</html>

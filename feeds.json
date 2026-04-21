@@ -1,0 +1,846 @@
+[
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+    "source": "NYT"
+  },
+  {
+    "url": "https://feeds.washingtonpost.com/rss/world",
+    "source": "Washington Post"
+  },
+  {
+    "url": "https://feeds.washingtonpost.com/rss/politics",
+    "source": "Washington Post"
+  },
+  {
+    "url": "https://feeds.washingtonpost.com/rss/business/technology",
+    "source": "Washington Post"
+  },
+  {
+    "url": "https://feeds.washingtonpost.com/rss/national",
+    "source": "Washington Post"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition_world.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/money_latest.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition_entertainment.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition_technology.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition_space.rss",
+    "source": "CNN"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1001",
+    "source": "NPR"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1004",
+    "source": "NPR"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1014",
+    "source": "NPR"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1007",
+    "source": "NPR"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1032",
+    "source": "NPR"
+  },
+  {
+    "url": "https://abcnews.go.com/abcnews/topstories",
+    "source": "ABC News"
+  },
+  {
+    "url": "https://abcnews.go.com/abcnews/internationalheadlines",
+    "source": "ABC News"
+  },
+  {
+    "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+    "source": "NBC News"
+  },
+  {
+    "url": "https://feeds.nbcnews.com/nbcnews/public/world",
+    "source": "NBC News"
+  },
+  {
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "source": "CNBC"
+  },
+  {
+    "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "source": "CNBC"
+  },
+  {
+    "url": "https://fortune.com/feed/",
+    "source": "Fortune"
+  },
+  {
+    "url": "https://www.marketwatch.com/rss/topstories",
+    "source": "MarketWatch"
+  },
+  {
+    "url": "https://www.businessinsider.com/rss",
+    "source": "Business Insider"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/news/education/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+    "source": "BBC Sport"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "source": "BBC Sport"
+  },
+  {
+    "url": "https://www.theguardian.com/world/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/science/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/football/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/culture/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/environment/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.theguardian.com/business/rss",
+    "source": "The Guardian"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/world/rss",
+    "source": "The Independent"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/uk/rss",
+    "source": "The Independent"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/science/rss",
+    "source": "The Independent"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-politics",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-technology",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-health",
+    "source": "CBC"
+  },
+  {
+    "url": "https://www.cbc.ca/webfeed/rss/rss-business",
+    "source": "CBC"
+  },
+  {
+    "url": "https://globalnews.ca/feed/",
+    "source": "Global News"
+  },
+  {
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "source": "Al Jazeera"
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "source": "Times of India"
+  },
+  {
+    "url": "https://www.scmp.com/rss/91/feed",
+    "source": "South China Morning Post"
+  },
+  {
+    "url": "https://www.japantimes.co.jp/feed/",
+    "source": "Japan Times"
+  },
+  {
+    "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+    "source": "ABC Australia"
+  },
+  {
+    "url": "https://www.rnz.co.nz/rss/national.xml",
+    "source": "RNZ"
+  },
+  {
+    "url": "https://www.spiegel.de/international/index.rss",
+    "source": "Der Spiegel"
+  },
+  {
+    "url": "https://www.france24.com/en/rss",
+    "source": "France 24"
+  },
+  {
+    "url": "https://www.rfi.fr/en/rss",
+    "source": "RFI"
+  },
+  {
+    "url": "https://www.euronews.com/rss",
+    "source": "Euronews"
+  },
+  {
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "source": "Ars Technica"
+  },
+  {
+    "url": "https://www.theverge.com/rss/index.xml",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://techcrunch.com/feed/",
+    "source": "TechCrunch"
+  },
+  {
+    "url": "https://www.wired.com/feed/rss",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.engadget.com/rss.xml",
+    "source": "Engadget"
+  },
+  {
+    "url": "https://www.cnet.com/rss/news/",
+    "source": "CNET"
+  },
+  {
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "source": "ZDNet"
+  },
+  {
+    "url": "https://9to5mac.com/feed/",
+    "source": "9to5Mac"
+  },
+  {
+    "url": "https://9to5google.com/feed/",
+    "source": "9to5Google"
+  },
+  {
+    "url": "https://www.tomshardware.com/feeds/all",
+    "source": "Tom's Hardware"
+  },
+  {
+    "url": "https://www.nature.com/nature.rss",
+    "source": "Nature"
+  },
+  {
+    "url": "https://www.science.org/rss/news_current.xml",
+    "source": "Science"
+  },
+  {
+    "url": "https://www.newscientist.com/feed/home/",
+    "source": "New Scientist"
+  },
+  {
+    "url": "https://www.nasa.gov/feed/",
+    "source": "NASA"
+  },
+  {
+    "url": "https://phys.org/rss-feed/",
+    "source": "Phys.org"
+  },
+  {
+    "url": "https://www.livescience.com/feeds/all",
+    "source": "Live Science"
+  },
+  {
+    "url": "https://www.sciencedaily.com/rss/all.xml",
+    "source": "Science Daily"
+  },
+  {
+    "url": "https://www.statnews.com/feed/",
+    "source": "STAT News"
+  },
+  {
+    "url": "https://www.smithsonianmag.com/rss/latest_articles/",
+    "source": "Smithsonian"
+  },
+  {
+    "url": "https://www.espn.com/espn/rss/news",
+    "source": "ESPN"
+  },
+  {
+    "url": "https://www.espn.com/espn/rss/soccer/news",
+    "source": "ESPN"
+  },
+  {
+    "url": "https://www.espn.com/espn/rss/nba/news",
+    "source": "ESPN"
+  },
+  {
+    "url": "https://www.espn.com/espn/rss/nfl/news",
+    "source": "ESPN"
+  },
+  {
+    "url": "https://www.espn.com/espn/rss/mlb/news",
+    "source": "ESPN"
+  },
+  {
+    "url": "https://www.skysports.com/rss/12040",
+    "source": "Sky Sports"
+  },
+  {
+    "url": "https://variety.com/feed/",
+    "source": "Variety"
+  },
+  {
+    "url": "https://www.hollywoodreporter.com/feed/",
+    "source": "Hollywood Reporter"
+  },
+  {
+    "url": "https://www.polygon.com/rss/index.xml",
+    "source": "Polygon"
+  },
+  {
+    "url": "https://www.rollingstone.com/feed/",
+    "source": "Rolling Stone"
+  },
+  {
+    "url": "https://pitchfork.com/feed/feed-news/rss",
+    "source": "Pitchfork"
+  },
+  {
+    "url": "https://kotaku.com/rss",
+    "source": "Kotaku"
+  },
+  {
+    "url": "https://lifehacker.com/rss",
+    "source": "Lifehacker"
+  },
+  {
+    "url": "https://www.eater.com/rss/index.xml",
+    "source": "Eater"
+  },
+  {
+    "url": "https://www.theatlantic.com/feed/all/",
+    "source": "The Atlantic"
+  },
+  {
+    "url": "https://slate.com/feeds/all.rss",
+    "source": "Slate"
+  },
+  {
+    "url": "https://www.vox.com/rss/index.xml",
+    "source": "Vox"
+  },
+  {
+    "url": "https://www.propublica.org/feeds/propublica/main",
+    "source": "ProPublica"
+  },
+  {
+    "url": "https://www.economist.com/international/rss.xml",
+    "source": "The Economist"
+  },
+  {
+    "url": "https://foreignpolicy.com/feed/",
+    "source": "Foreign Policy"
+  },
+  {
+    "url": "https://www.newyorker.com/feed/news",
+    "source": "The New Yorker"
+  },
+  {
+    "url": "https://feeds.feedburner.com/brainpickings/rss",
+    "source": "The Marginalian"
+  },
+  {
+    "url": "https://restofworld.org/feed/",
+    "source": "Rest of World"
+  },
+  {
+    "url": "https://www.404media.co/rss/",
+    "source": "404 Media"
+  },
+  {
+    "url": "https://defector.com/feed",
+    "source": "Defector"
+  },
+  {
+    "url": "https://www.axios.com/feeds/feed.rss",
+    "source": "Axios"
+  },
+  {
+    "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+    "source": "PBS"
+  },
+  {
+    "url": "https://time.com/feed/",
+    "source": "TIME"
+  },
+  {
+    "url": "https://www.ft.com/?format=rss",
+    "source": "Financial Times"
+  },
+  {
+    "url": "https://qz.com/feed",
+    "source": "Quartz"
+  },
+  {
+    "url": "https://thehill.com/feed/",
+    "source": "The Hill"
+  },
+  {
+    "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/",
+    "source": "Globe and Mail"
+  },
+  {
+    "url": "https://www.straitstimes.com/news/world/rss.xml",
+    "source": "Straits Times"
+  },
+  {
+    "url": "https://www.bangkokpost.com/rss/data/topstories.xml",
+    "source": "Bangkok Post"
+  },
+  {
+    "url": "https://www.thehindu.com/feeder/default.rss",
+    "source": "The Hindu"
+  },
+  {
+    "url": "https://www.irishtimes.com/cmlink/the-irish-times-news-1.1319192",
+    "source": "Irish Times"
+  },
+  {
+    "url": "https://www.scotsman.com/rss",
+    "source": "The Scotsman"
+  },
+  {
+    "url": "https://feeds.feedburner.com/ndtv/latest",
+    "source": "NDTV"
+  },
+  {
+    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "source": "CNA"
+  },
+  {
+    "url": "https://www.bellingcat.com/feed/",
+    "source": "Bellingcat"
+  },
+  {
+    "url": "https://arstechnica.com/science/feed/",
+    "source": "Ars Science"
+  },
+  {
+    "url": "https://spectrum.ieee.org/feeds/feed.rss",
+    "source": "IEEE Spectrum"
+  },
+  {
+    "url": "https://www.technologyreview.com/feed/",
+    "source": "MIT Tech Review"
+  },
+  {
+    "url": "https://www.vice.com/en/rss",
+    "source": "Vice"
+  },
+  {
+    "url": "https://www.dazeddigital.com/rss",
+    "source": "Dazed"
+  },
+  {
+    "url": "https://hyperallergic.com/feed/",
+    "source": "Hyperallergic"
+  },
+  {
+    "url": "https://www.curbed.com/rss/index.xml",
+    "source": "Curbed"
+  },
+  {
+    "url": "https://gizmodo.com/rss",
+    "source": "Gizmodo"
+  },
+  {
+    "url": "https://www.theguardian.com/australia-news/rss",
+    "source": "Guardian AU"
+  },
+  {
+    "url": "https://www.macrumors.com/macrumors.xml",
+    "source": "MacRumors"
+  },
+  {
+    "url": "https://www.androidcentral.com/feed",
+    "source": "Android Central"
+  },
+  {
+    "url": "https://www.gamespot.com/feeds/mashup/",
+    "source": "GameSpot"
+  },
+  {
+    "url": "https://www.eurogamer.net/feed",
+    "source": "Eurogamer"
+  },
+  {
+    "url": "https://www.destructoid.com/feed/",
+    "source": "Destructoid"
+  },
+  {
+    "url": "https://aeon.co/feed.rss",
+    "source": "Aeon"
+  },
+  {
+    "url": "https://nautil.us/feed/",
+    "source": "Nautilus"
+  },
+  {
+    "url": "https://www.thedrive.com/feed",
+    "source": "The Drive"
+  },
+  {
+    "url": "https://insideclimatenews.org/feed/",
+    "source": "Inside Climate"
+  },
+  {
+    "url": "https://www.carbonbrief.org/feed",
+    "source": "Carbon Brief"
+  },
+  {
+    "url": "https://www.atlasobscura.com/feeds/latest",
+    "source": "Atlas Obscura"
+  },
+  {
+    "url": "https://www.mentalfloss.com/feed",
+    "source": "Mental Floss"
+  },
+  {
+    "url": "https://longreads.com/feed/",
+    "source": "Longreads"
+  },
+  {
+    "url": "https://theconversation.com/articles.atom",
+    "source": "The Conversation"
+  },
+  {
+    "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
+    "source": "NZ Herald"
+  },
+  {
+    "url": "https://www.designboom.com/feed/",
+    "source": "Designboom"
+  },
+  {
+    "url": "https://www.creativebloq.com/feed",
+    "source": "Creative Bloq"
+  },
+  {
+    "url": "https://www.archdaily.com/feed",
+    "source": "ArchDaily"
+  },
+  {
+    "url": "https://lithub.com/feed/",
+    "source": "Literary Hub"
+  },
+  {
+    "url": "https://www.openculture.com/feed",
+    "source": "Open Culture"
+  },
+  {
+    "url": "https://boingboing.net/feed",
+    "source": "Boing Boing"
+  },
+  {
+    "url": "https://www.theguardian.com/world/africa/rss",
+    "source": "Guardian Africa"
+  },
+  {
+    "url": "https://www.taipeitimes.com/xml/index.rss",
+    "source": "Taipei Times"
+  },
+  {
+    "url": "https://www.space.com/feeds/all",
+    "source": "Space.com"
+  },
+  {
+    "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss",
+    "source": "NASA Earth"
+  },
+  {
+    "url": "https://www.quantamagazine.org/feed/",
+    "source": "Quanta"
+  },
+  {
+    "url": "https://www.outsideonline.com/feed/",
+    "source": "Outside"
+  },
+  {
+    "url": "https://www.fastcompany.com/latest/rss",
+    "source": "Fast Company"
+  },
+  {
+    "url": "https://www.inverse.com/rss",
+    "source": "Inverse"
+  },
+  {
+    "url": "https://torrentfreak.com/feed/",
+    "source": "TorrentFreak"
+  },
+  {
+    "url": "https://hackernoon.com/feed",
+    "source": "HackerNoon"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "source": "BleepingComputer"
+  },
+  {
+    "url": "https://krebsonsecurity.com/feed/",
+    "source": "Krebs on Security"
+  },
+  {
+    "url": "https://www.darkreading.com/rss.xml",
+    "source": "Dark Reading"
+  },
+  {
+    "url": "https://www.newyorker.com/feed/humor",
+    "source": "New Yorker Humor"
+  },
+  {
+    "url": "https://mg.co.za/feed/",
+    "source": "Mail & Guardian"
+  },
+  {
+    "url": "https://www.premiumtimesng.com/feed",
+    "source": "Premium Times"
+  },
+  {
+    "url": "https://www.batimes.com.ar/feed",
+    "source": "Buenos Aires Times"
+  },
+  {
+    "url": "https://riotimesonline.com/feed/",
+    "source": "Rio Times"
+  },
+  {
+    "url": "https://mexiconewsdaily.com/feed/",
+    "source": "Mexico News Daily"
+  },
+  {
+    "url": "https://www.thaienquirer.com/feed/",
+    "source": "Thai Enquirer"
+  },
+  {
+    "url": "https://www.rappler.com/feed/",
+    "source": "Rappler"
+  },
+  {
+    "url": "https://vietnamnews.vn/rss/all.rss",
+    "source": "Vietnam News"
+  },
+  {
+    "url": "https://www.bangkokpost.com/rss/data/world.xml",
+    "source": "Bangkok Post World"
+  },
+  {
+    "url": "https://balkaninsight.com/feed/",
+    "source": "BIRN"
+  },
+  {
+    "url": "https://emerging-europe.com/feed/",
+    "source": "Emerging Europe"
+  },
+  {
+    "url": "https://www.dutchnews.nl/feed/",
+    "source": "Dutch News"
+  },
+  {
+    "url": "https://www.arabnews.com/rss.xml",
+    "source": "Arab News"
+  },
+  {
+    "url": "https://www.sciencenews.org/feed",
+    "source": "Science News"
+  },
+  {
+    "url": "https://www.popsci.com/feed/",
+    "source": "Popular Science"
+  },
+  {
+    "url": "https://hakaimagazine.com/feed/",
+    "source": "Hakai"
+  },
+  {
+    "url": "https://www.anthropocenemagazine.org/feed/",
+    "source": "Anthropocene"
+  },
+  {
+    "url": "https://www.thehackernews.com/feeds/posts/default",
+    "source": "The Hacker News"
+  },
+  {
+    "url": "https://www.tomshardware.com/feeds/all",
+    "source": "Tom's Guide"
+  },
+  {
+    "url": "https://www.digitaltrends.com/feed/",
+    "source": "Digital Trends"
+  },
+  {
+    "url": "https://www.howtogeek.com/feed/",
+    "source": "How-To Geek"
+  },
+  {
+    "url": "https://petapixel.com/feed/",
+    "source": "PetaPixel"
+  },
+  {
+    "url": "https://www.thisiscolossal.com/feed/",
+    "source": "This Is Colossal"
+  },
+  {
+    "url": "https://mymodernmet.com/feed/",
+    "source": "My Modern Met"
+  },
+  {
+    "url": "https://www.juxtapoz.com/feed/",
+    "source": "Juxtapoz"
+  },
+  {
+    "url": "https://www.nme.com/feed",
+    "source": "NME"
+  },
+  {
+    "url": "https://consequenceofsound.net/feed/",
+    "source": "Consequence"
+  },
+  {
+    "url": "https://www.indiewire.com/feed/",
+    "source": "IndieWire"
+  },
+  {
+    "url": "https://www.adventure-journal.com/feed/",
+    "source": "Adventure Journal"
+  },
+  {
+    "url": "https://grist.org/feed/",
+    "source": "Grist"
+  },
+  {
+    "url": "https://news.mongabay.com/feed/",
+    "source": "Mongabay"
+  },
+  {
+    "url": "https://kffhealthnews.org/feed/",
+    "source": "KFF Health News"
+  },
+  {
+    "url": "https://www.who.int/rss-feeds/news-english.xml",
+    "source": "WHO"
+  },
+  {
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "source": "DW News"
+  },
+  {
+    "url": "https://thediplomat.com/feed/",
+    "source": "The Diplomat"
+  }
+]

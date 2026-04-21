@@ -1,0 +1,15 @@
+[
+  {"symbol": "BTC-USD",   "label": "BTC"},
+  {"symbol": "ETH-USD",   "label": "ETH"},
+  {"symbol": "GC=F",      "label": "GOLD"},
+  {"symbol": "SI=F",      "label": "SILVER"},
+  {"symbol": "CL=F",      "label": "OIL"},
+  {"symbol": "^GSPC",     "label": "S&P 500"},
+  {"symbol": "^DJI",      "label": "DOW"},
+  {"symbol": "^IXIC",     "label": "NASDAQ"},
+  {"symbol": "^GSPTSE",   "label": "TSX"},
+  {"symbol": "EURUSD=X",  "label": "EUR/USD"},
+  {"symbol": "GBPUSD=X",  "label": "GBP/USD"},
+  {"symbol": "USDCAD=X",  "label": "USD/CAD"},
+  {"symbol": "USDJPY=X",  "label": "USD/JPY"}
+]

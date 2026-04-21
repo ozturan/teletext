@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>teletext</title>
+<meta name="description" content="teletext — live information service">
+<link rel="icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0e1214">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<!-- Self-hosted fonts for all 6 themes -->
+<link rel="stylesheet" href="/fonts.css?v=1">
+<style>
+  @font-face {
+    font-family: 'Departure Mono';
+    src: url('/DepartureMono-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Doto';
+    src: url('/Doto.woff2') format('woff2');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+  }
+</style>
+
+<!-- Apply saved theme before paint to prevent flash -->
+<script>
+  (function() {
+    var t = localStorage.getItem('teletext-theme');
+    if (t) document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+
+<link rel="stylesheet" href="/style.css?v=7">
+</head>
+<body>
+
+
+<!-- =====================================================
+     LAYOUT — 3-column grid
+     ===================================================== -->
+<div class="layout">
+
+  <!-- =====================================================
+       LEFT SIDEBAR — Clock, Weather, Holidays, On This Day
+       ===================================================== -->
+  <div class="sidebar">
+
+    <!-- Clock — the hero -->
+    <div class="clock">
+      <div class="sidebar-logo-row">
+        <div style="display:flex; align-items:center; gap:8px;">
+          <div class="sidebar-logo" id="logoBtn" title="About teletext"><span class="logo-alt">t</span>ele<span class="logo-alt">t</span>e<span class="logo-alt">x</span><span class="logo-alt">t</span></div>
+          <span class="logo-online"><span class="logo-online-dot"></span><span id="wOnlineSidebar"></span></span>
+        </div>
+        <div style="display:flex; align-items:center; gap:8px; position:relative;">
+          <div style="position:relative;">
+            <button class="settings-toggle" id="radioBtn" title="Radio"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M8 4h2v2H8zm2 2h2v2h-2zm2-2h2v2h-2zm2 2h2v2h-2zM4 8h16v2H4zm0 2h2v10H4zm16 0h2v10h-2zM6 20h14v2H6zm2-8h2v2H8zm-2 2h2v2H6zm2 2h2v2H8zm6-4h2v6h-2zm2 2h2v2h-2z"/></svg></button>
+            <!-- Radio dropdown panel anchored here -->
+            <audio id="radioAudio" preload="none" playsinline webkit-playsinline></audio>
+            <div class="radio-panel" id="radioPanel">
+              <div class="radio-presets" id="radioPresets"></div>
+            </div>
+          </div>
+          <button class="settings-toggle" id="refreshBtn" title="Refresh"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M16 4h2v6h-2zm-2-2h2v2h-2zm0 2h2v8h-2zM4 8H2v5h2z"/><path d="M4 6h16v2H4zm4 14H6v-6h2zm2 2H8v-2h2zm0-2H8v-8h2zm10-4h2v-5h-2z"/><path d="M20 18H4v-2h16z"/></svg></button>
+          <button class="settings-toggle" id="fullscreenBtn" title="Fullscreen"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M13 9h2v2h-2zm2-2h2v2h-2zm2-2h2v2h-2zm2-2h2v8h-2z"/><path d="M13 3h8v2h-8zm-2 12H9v-2h2zm-2 2H7v-2h2zm-2 2H5v-2h2zm-2 2H3v-8h2z"/><path d="M11 21H3v-2h8z"/></svg></button>
+          <button class="settings-toggle" id="settingsBtn" title="Settings"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M13 22h-2v-6h2v6Zm-6-3H5v-2h2v2Zm12 0h-2v-2h2v2ZM9 17H7v-2h2v2Zm8 0h-2v-2h2v2Zm-9-4H2v-2h6v2Zm14 0h-6v-2h6v2ZM9 9H7V7h2v2Zm8 0h-2V7h2v2Zm-4-1h-2V2h2v6ZM7 7H5V5h2v2Zm12 0h-2V5h2v2Z"/></svg></button>
+        </div>
+      </div>
+      <div class="clock-time" id="topClock">00:00:00</div>
+      <div class="clock-date"><span id="topDate"></span> <span id="cityLabel" class="clock-city"></span></div>
+    </div>
+
+    <!-- Weather -->
+    <div class="sidebar-section weather-block">
+      <div class="weather-main">
+        <span id="weatherIcon" class="weather-icon"></span>
+        <span id="weatherMain">&mdash;</span>
+      </div>
+      <div class="weather-extra" id="weatherExtra"></div>
+    </div>
+
+    <!-- Holidays (next 30 days) -->
+    <div class="sidebar-section holidays-block">
+      <div class="section-label">Holidays <span id="holCountry"></span></div>
+      <div id="holList"><div class="loading-state">Loading</div></div>
+    </div>
+
+    <!-- Countdowns -->
+    <div class="sidebar-section countdown-block">
+      <div class="section-label">Countdowns</div>
+      <div id="countdownList"></div>
+    </div>
+
+    <!-- On This Day -->
+    <div class="sidebar-section otd-block" id="otdBlock">
+      <div class="section-label">On This Day</div>
+      <div id="otd"><div class="loading-state">Loading</div></div>
+    </div>
+
+    <!-- Settings overlay (inside sidebar for mobile) -->
+    <div class="settings-overlay" id="settingsPanel">
+
+      <div class="set-tabs" id="setTabs">
+        <button class="set-tab active" data-tab="content">Content</button>
+        <button class="set-tab" data-tab="markets">Markets</button>
+        <button class="set-tab" data-tab="sports">Sports</button>
+        <button class="set-tab" data-tab="display">Display</button>
+      </div>
+
+      <div class="set-tab-content" id="tabContent"></div>
+
+      <div class="set-footer">
+        <div style="display:flex; gap:8px;">
+          <button class="set-close" id="settingsClose" style="flex:1;">Done</button>
+          <button class="set-close" id="shareBtn" style="flex:1;">Copy link</button>
+        </div>
+        <div style="display:flex; gap:6px; margin-top:8px;">
+          <button class="set-util-btn" id="resetPrefsBtn">Reset</button>
+          <button class="set-util-btn" id="exportPrefsBtn">Export</button>
+          <button class="set-util-btn" id="importPrefsBtn">Import</button>
+        </div>
+        <div id="shareMsg" style="font-family:var(--font-mono); font-size:var(--text-md); color:var(--status-green); text-align:center; padding-top:6px; display:none;">Link copied</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Resize handle: left sidebar ↔ main -->
+  <div class="resize-handle" id="resizeLeft"></div>
+
+  <!-- =====================================================
+       CENTER — Main content (tickers + news carousel)
+       ===================================================== -->
+  <div class="main">
+
+    <!-- Modules — each can be toggled on/off via settings -->
+    <div class="module" data-module="finance" id="modFinance">
+      <div class="ticker-bar" id="finTicker" style="display:none;"></div>
+    </div>
+    <div class="module" data-module="sports" id="modSports">
+      <div class="ticker-bar" id="sportsTicker" style="display:none;"></div>
+    </div>
+    <div class="module" data-module="predict" id="modPredict">
+      <div class="ticker-bar" id="polyTicker" style="display:none;"></div>
+    </div>
+    <div class="module" data-module="news" id="modNews">
+      <div class="news-area" id="newsArea">
+        <div class="loading-state">Loading<span class="cursor"></span></div>
+      </div>
+      <div class="news-prog" id="newsProg"></div>
+    </div>
+
+
+
+  </div>
+
+  <!-- Resize handle: main ↔ wall -->
+  <div class="resize-handle" id="resizeRight"></div>
+
+  <!-- =====================================================
+       RIGHT SIDEBAR — Wall (live ephemeral posts)
+       ===================================================== -->
+  <div class="wall">
+
+    <div class="wall-header"><span class="wall-title">wall</span></div>
+
+    <!-- Compose -->
+    <div class="w-compose">
+      <div class="w-reply-bar" id="wReplyBar">
+        <span id="wReplyText"></span>
+        <button class="w-reply-x" id="wReplyX">&times;</button>
+      </div>
+      <input type="text" class="w-input w-name" id="wName"
+             placeholder="name" maxlength="30" autocomplete="off">
+      <div class="w-msg-row">
+        <textarea class="w-input w-msg" id="wMsg"
+                  placeholder="write on the wall..." maxlength="280" rows="1"></textarea>
+        <button class="w-send" id="wSend">&rarr;</button>
+      </div>
+      <div class="w-meta">
+        <span class="w-error" id="wErr"></span>
+        <span><span id="wChars">0</span>/280</span>
+      </div>
+    </div>
+
+    <!-- Posts -->
+    <div class="w-posts" id="wPosts">
+      <div class="w-empty" id="wEmpty">The wall is empty</div>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Mobile tab bar — fixed at bottom on small screens -->
+<div class="mobile-tabs" id="mobileTabs">
+  <div class="mobile-tabs-inner">
+    <button class="mobile-tab" data-panel="sidebar">Info</button>
+    <button class="mobile-tab active" data-panel="main">News</button>
+    <button class="mobile-tab" data-panel="wall">Wall</button>
+  </div>
+</div>
+
+
+<!-- Vignette overlay for ambient display feel -->
+<div class="vignette"></div>
+
+<script src="/app.js?v=15"></script>
+</body>
+</html>

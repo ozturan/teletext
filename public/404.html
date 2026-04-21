@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>teletext — nothing here</title>
+<link rel="icon" href="/favicon.ico">
+<link href="https://fonts.googleapis.com/css2?family=Doto:wght@400;700&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    height: 100vh;
+    background: #0e1214;
+    color: #e8eaec;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .void {
+    max-width: 400px;
+    padding: 40px;
+  }
+  .void-logo {
+    font-family: 'Doto', monospace;
+    font-size: 14px;
+    line-height: 1.4;
+    color: rgba(255,255,255,0.15);
+    margin-bottom: 32px;
+  }
+  .void-title {
+    font-family: 'Doto', monospace;
+    font-size: 28px;
+    font-weight: 700;
+    color: #e8eaec;
+    margin-bottom: 8px;
+  }
+  .void-blink {
+    font-family: 'Doto', monospace;
+    font-size: 20px;
+    color: rgba(255,255,255,0.3);
+    animation: blink 1s step-end infinite;
+    margin-bottom: 32px;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+  .void-back {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.5);
+    text-decoration: none;
+    border: 1px solid rgba(255,255,255,0.1);
+    padding: 8px 24px;
+    transition: all 0.2s;
+  }
+  .void-back:hover {
+    color: #e8eaec;
+    border-color: rgba(255,255,255,0.3);
+  }
+</style>
+</head>
+<body>
+<div class="void">
+  <pre class="void-logo">
+    . . .
+  .       .
+ .         .
+.     0     .
+ .         .
+  .       .
+    . . .</pre>
+  <div class="void-title">nothing here.</div>
+  <div class="void-blink">_</div>
+  <a href="/" class="void-back">&larr; return to teletext</a>
+</div>
+</body>
+</html>
