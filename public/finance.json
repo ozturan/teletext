@@ -1,23 +1,23 @@
 {
   "BTC": {
-    "price": 75676.35,
-    "change": -0.24
+    "price": 77432.07,
+    "change": 1.43
   },
   "ETH": {
-    "price": 2314.56,
-    "change": 0.01
+    "price": 2360.11,
+    "change": 1.4
   },
   "GOLD": {
-    "price": 4737.1,
-    "change": -1.9
+    "price": 4776.6,
+    "change": 1.21
   },
   "SILVER": {
-    "price": 76.735,
-    "change": -4.13
+    "price": 78.055,
+    "change": 2.05
   },
   "OIL": {
-    "price": 90.46,
-    "change": 3.48
+    "price": 89.38,
+    "change": -0.32
   },
   "S&P 500": {
     "price": 7064.01,
@@ -36,19 +36,19 @@
     "change": -1.61
   },
   "EUR/USD": {
-    "price": 1.175,
-    "change": -0.32
+    "price": 1.1745,
+    "change": 0.02
   },
   "GBP/USD": {
-    "price": 1.3505,
-    "change": -0.24
+    "price": 1.3512,
+    "change": 0.08
   },
   "USD/CAD": {
-    "price": 1.3663,
-    "change": 0.12
+    "price": 1.3659,
+    "change": -0.01
   },
   "USD/JPY": {
-    "price": 159.355,
-    "change": 0.39
+    "price": 159.377,
+    "change": -0.01
   }
 }
