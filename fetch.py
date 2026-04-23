@@ -15,7 +15,6 @@ OUTPUT     = PUBLIC / 'data.json'
 OPENAI_KEY = os.environ.get('OPENAI_API_KEY', '')
 SSL_CTX    = ssl.create_default_context()
 
-MAX_STORIES    = 300
 BATCH_SIZE     = 10
 MAX_PER_FEED   = 2
 MAX_OG_SCRAPES = 50
@@ -422,13 +421,13 @@ if __name__ == '__main__':
                 pass
         recent.append(s)
 
-    # Sort newest first, cap at MAX_STORIES
+    # Sort newest first
     def sort_key(s):
         try: return -parsedate_to_datetime(s['pubDate']).timestamp()
         except: return 0
     recent.sort(key=sort_key)
-    stories = recent[:MAX_STORIES]
-    print(f'  {len(existing)} existing + {len(fresh)} fresh → {len(merged)} merged → {len(recent)} in 24h → {len(stories)} capped')
+    stories = recent
+    print(f'  {len(existing)} existing + {len(fresh)} fresh → {len(merged)} merged → {len(stories)} in 24h')
 
     # Split: those with valid summaries vs needing one
     needs_summary = [s for s in stories if not (s.get('bullets') and s['bullets'] != ['Summary unavailable'])]
