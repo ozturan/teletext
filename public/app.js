@@ -172,8 +172,8 @@ function savePrefs(prefs) {
   localStorage.setItem('teletext-prefs', JSON.stringify(prefs));
   clearTimeout(savePrefs._t);
   savePrefs._t = setTimeout(() => {
-    if (!myCode) return;
-    fetch('/api/config', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ...prefs, _code: myCode }) })
+    const body = myCode ? { ...prefs, _code: myCode } : prefs;
+    fetch('/api/config', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
       .then(r => r.json())
       .then(data => {
         if (data.code && !myCode) {
@@ -2156,25 +2156,30 @@ async function initUserCode() {
       myCode = '';
     }
   } else {
-    // Fresh visit to / — reset to defaults
-    localStorage.removeItem('teletext-prefs');
-    localStorage.removeItem('teletext-code');
-    localStorage.removeItem('teletext-theme');
-    document.documentElement.removeAttribute('data-theme');
-    myCode = '';
-
-    try {
-      const data = await (await fetch('/api/config', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(getPrefs()),
-      })).json();
-      if (data.code) {
-        myCode = data.code;
-        localStorage.setItem('teletext-code', myCode);
-        history.replaceState(null, null, '/' + myCode);
+    // No code in URL. If browser remembers one, send the user back to it
+    // (link is the source of truth for settings). Otherwise leave them on /
+    // with defaults; a code will be minted on first savePrefs.
+    const existing = localStorage.getItem('teletext-code') || '';
+    if (/^[a-z0-9]{4}$/.test(existing)) {
+      history.replaceState(null, null, '/' + existing);
+      try {
+        const res = await fetch(`/api/config/${existing}`);
+        if (res.ok) {
+          const config = await res.json();
+          myCode = existing;
+          savePrefs(config);
+          if (config.theme) {
+            localStorage.setItem('teletext-theme', config.theme);
+            document.documentElement.setAttribute('data-theme', config.theme);
+            deriveTheme();
+          }
+        } else {
+          myCode = existing;
+        }
+      } catch {
+        myCode = existing;
       }
-    } catch {}
+    }
   }
 
   applyModules();
