@@ -1,4 +1,4 @@
-const CACHE = 'teletext-v18';
+const CACHE = 'teletext-v19';
 const PRECACHE = ['/', '/style.css', '/app.js', '/favicon.ico', '/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {

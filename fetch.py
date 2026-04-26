@@ -205,16 +205,17 @@ def fetch_all_news():
             seen.add(key)
             unique.append(s)
 
-    # Filter old stories
+    # Filter old stories — require a parseable pubDate within window
     cutoff = datetime.now(timezone.utc) - STORY_MAX_AGE
     recent = []
     for s in unique:
-        if s['pubDate']:
-            try:
-                if parsedate_to_datetime(s['pubDate']) < cutoff:
-                    continue
-            except Exception:
-                pass
+        if not s.get('pubDate'):
+            continue
+        try:
+            if parsedate_to_datetime(s['pubDate']) < cutoff:
+                continue
+        except Exception:
+            continue
         recent.append(s)
 
     # Cap per source to ensure diversity
@@ -409,16 +410,17 @@ if __name__ == '__main__':
         by_key[key] = s
     merged = list(by_key.values())
 
-    # Filter to last 24h
+    # Filter to last 24h — require a parseable pubDate within window
     cutoff = datetime.now(timezone.utc) - STORY_MAX_AGE
     recent = []
     for s in merged:
-        if s.get('pubDate'):
-            try:
-                if parsedate_to_datetime(s['pubDate']) < cutoff:
-                    continue
-            except Exception:
-                pass
+        if not s.get('pubDate'):
+            continue
+        try:
+            if parsedate_to_datetime(s['pubDate']) < cutoff:
+                continue
+        except Exception:
+            continue
         recent.append(s)
 
     # Sort newest first

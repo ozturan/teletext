@@ -690,6 +690,12 @@ async function loadData() {
 
     stories = stories.filter(s => (s.bullets || []).some(b => b && b !== 'Summary unavailable'));
 
+    const maxAgeMs = 24 * 60 * 60 * 1000;
+    stories = stories.filter(s => {
+      const t = s.pubDate ? new Date(s.pubDate).getTime() : NaN;
+      return !isNaN(t) && Date.now() - t <= maxAgeMs;
+    });
+
     // Update source count in info modal
     const srcCount = new Set((data.stories || []).map(s => s.source)).size;
     const el = $('sourceCount');
