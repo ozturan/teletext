@@ -1,19 +1,397 @@
 {
-  "updated": "2026-04-26 19:44:07",
+  "updated": "2026-04-26 20:32:45",
   "stories": [
+    {
+      "title": "What Tim Cook built",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/feed/",
+      "link": "https://techcrunch.com/?p=3116501",
+      "category": "Tech",
+      "bullets": [
+        "Apple's CEO Tim Cook has led the company since 2011, overseeing significant changes and innovations in products and services.",
+        "Challenges for incoming CEO John Ternus include maintaining Apple's market dominance and addressing supply chain issues amid global competition.",
+        "The discussion highlights the impact of leadership transitions on tech giants and sets the stage for future strategic directions."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:22:51 +0000",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024"
+    },
+    {
+      "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
+      "source": "MarketWatch",
+      "sourceUrl": "https://www.marketwatch.com/rss/topstories",
+      "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+      "category": "Business",
+      "bullets": [
+        "A financial advisor suggests selling a house and renting to improve cash flow by $1,300 monthly, totaling $15,600 annually.",
+        "Investing the $500,000 from the house sale could yield higher returns compared to current housing market trends.",
+        "This decision could significantly impact retirement planning, emphasizing the importance of cash flow management for future stability."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:22:00 GMT",
+      "image": "https://images.mktw.net/im-83487599"
+    },
+    {
+      "title": "Italy to extradite suspected Chinese hacker wanted by US authorities: reports",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/rss/91/feed",
+      "link": "https://www.scmp.com/news/world/europe/article/3351502/italy-extradite-suspected-chinese-hacker-wanted-us-authorities-source?utm_source=rss_feed",
+      "category": "World",
+      "bullets": [
+        "Italy will extradite Xu Zewei, a Chinese hacker wanted by the US for stealing Covid-19 medical research, following a court ruling.",
+        "The extradition decision comes after a ruling earlier this month, with no comments from the Italian government on the matter.",
+        "This case highlights international cooperation in cybersecurity and the ongoing battle against cybercrime affecting global health research."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:21:26 +0000",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/27/23ed9fce-148d-4996-bb22-1866851c5b5f_04e61289.jpg?itok=G3vN034G&v=1777234736"
+    },
+    {
+      "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "link": "https://www.aljazeera.com/?t=1777230827",
+      "category": "Politics",
+      "bullets": [
+        "A bomb attack on a highway in Cauca, Colombia, killed 19 people and injured dozens, occurring just before upcoming elections.",
+        "This incident reflects a surge in violence in the region, raising concerns about security and voter safety ahead of the election.",
+        "The attack underscores the challenges facing Colombia's government in ensuring peace and stability during a critical political period."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:15:29 +0000",
+      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
+    },
+    {
+      "title": "‘My child requires lifelong support’: I’m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?",
+      "source": "MarketWatch",
+      "sourceUrl": "https://www.marketwatch.com/rss/topstories",
+      "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+      "category": "Business",
+      "bullets": [
+        "A parent in their 40s with $330,000 for retirement seeks advice on managing funds for lifelong support of their child.",
+        "Despite portfolio growth, concerns remain about insufficient returns to sustain both their and their child's future financial needs.",
+        "This situation highlights the complexities of retirement planning when dependent care is involved, necessitating tailored financial strategies."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:11:00 GMT",
+      "image": "https://images.mktw.net/im-47796447"
+    },
+    {
+      "title": "TB patients without documents miss aid",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
+      "link": "https://www.thehindu.com/news/cities/Delhi/tb-patients-without-documents-miss-aid/article70909542.ece",
+      "category": "Health",
+      "bullets": [
+        "Tuberculosis patients lacking documentation are missing out on crucial aid, impacting their treatment and recovery options.",
+        "This issue raises significant public health concerns, as undocumented individuals face barriers to accessing necessary medical support.",
+        "Addressing these gaps is vital for improving health outcomes and ensuring equitable access to healthcare services for all."
+      ],
+      "pubDate": "Mon, 27 Apr 2026 01:40:47 +0530",
+      "image": "https://th-i.thgim.com/public/incoming/ig0xgt/article70909779.ece/alternates/LANDSCAPE_1200/TB%20STORY%20YAMUNA%20DELHI%202026_24_04_12.jpg"
+    },
+    {
+      "title": "Firing on Trump was inevitable, mood similar here: Maharashtra Cong MLA",
+      "source": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "link": "https://timesofindia.indiatimes.com/india/firing-on-trump-was-inevitable-mood-similar-here-maharashtra-cong-mla/articleshow/130539277.cms",
+      "category": "Politics",
+      "bullets": [
+        "Maharashtra Congress MLA commented on the inevitability of Trump's firing, reflecting a similar mood within local political circles.",
+        "This statement indicates growing tensions and dissatisfaction among political leaders regarding current governance and leadership styles.",
+        "Such sentiments may influence upcoming elections and party strategies as leaders reassess their positions and alliances."
+      ],
+      "pubDate": "Mon, 27 Apr 2026 01:39:14 +0530",
+      "image": "https://static.toiimg.com/photo/msid-130539284,imgsize-51029.cms"
+    },
+    {
+      "title": "Barnes, Ingram help Raptors past Cavaliers 93-89",
+      "source": "Global News",
+      "sourceUrl": "https://globalnews.ca/feed/",
+      "link": "https://globalnews.ca/news/11818084/barnes-ingram-help-raptors-past-cavaliers-93-89/",
+      "category": "Sports",
+      "bullets": [
+        "In Game 4 of the playoffs, the Toronto Raptors defeated the Cleveland Cavaliers 93-89, with Brandon Ingram and Scottie Barnes scoring 23 points each.",
+        "The Raptors' victory was secured despite a late charge from the Cavaliers, showcasing their resilience in high-pressure situations.",
+        "This win positions the Raptors favorably in the playoff series, increasing their chances of advancing further in the tournament."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:09:05 +0000",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/04/e0684941fb5968ebb2ebc1aa117542e522d89db63273a05e603cdc638ca84670.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "title": "Hearts' big title moment: Injured players' press box reaction, unsung hero, and Jamestown blend",
+      "source": "The Scotsman",
+      "sourceUrl": "https://www.scotsman.com/rss",
+      "link": "https://www.scotsman.com/sport/football/hearts/latest-hearts-news/hearts-big-title-moment-injured-players-press-box-reaction-unsung-hero-and-jamestown-blend-7725432",
+      "category": "Sports",
+      "bullets": [
+        "Hearts' players reacted from the press box after a significant victory at Easter Road, marking a pivotal moment in their title chase.",
+        "The team is now four games away from achieving a historic title, with unsung heroes contributing to their success.",
+        "This triumph boosts team morale and sets high expectations for the remaining matches in their championship pursuit."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:08:32 GMT",
+      "image": "https://www.scotsman.com/jpim-static/image/2026/04/26/17/30/21667687.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+    },
+    {
+      "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "link": "https://www.aljazeera.com/?t=1777228291",
+      "category": "Politics",
+      "bullets": [
+        "Former Israeli Prime Ministers Naftali Bennett and Yair Lapid have united to challenge current PM Benjamin Netanyahu in upcoming elections.",
+        "Their alliance aims to consolidate the fragmented opposition, seeking to present a stronger front against Netanyahu's administration.",
+        "This political move could reshape the Israeli political landscape, influencing voter dynamics and election outcomes."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:05:50 +0000",
+      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
+    },
+    {
+      "title": "California measure requiring photo ID at polls will be on November ballot",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/us-news/rss",
+      "link": "https://www.theguardian.com/us-news/2026/apr/26/california-photo-id-voting-ballot-measure-november",
+      "category": "Politics",
+      "bullets": [
+        "California voters will decide in November on a photo ID requirement for ballots, backed by nearly 1 million signatures from Republican Carl DeMaio.",
+        "The measure faces strong opposition from Democrats, who argue it could disenfranchise voters, echoing Trump's claims of voter fraud.",
+        "If passed, this law could reshape voting procedures in California, impacting future elections and voter turnout."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:05:16 GMT",
+      "image": "https://i.guim.co.uk/img/media/a316edfc8f05702d6463e833dee7fc7e94367cbe/1062_104_3814_3052/master/3814.jpg?width=700&quality=85&auto=format&fit=max&s=a9c7ecda539015697d68fc2fc5c35a3f"
+    },
+    {
+      "title": "Forced Windows updates can now be paused forever",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/rss.xml",
+      "link": "https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss",
+      "category": "Tech",
+      "bullets": [
+        "Microsoft announced users can now indefinitely pause Windows 11 updates, allowing for 35-day extensions without interruptions.",
+        "This change aims to enhance user control, preventing forced updates during important tasks, with a reminder to eventually install updates.",
+        "This feature could significantly improve user experience, reducing frustrations and enhancing productivity for millions of Windows users."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:03:39 +0000",
+      "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-04%2Fa8eb1ac0-41a7-11f1-a3df-12107bd27f2b&resize=1400%2C862&client=19f2b5e49a271b2bde77&signature=4d1f336bbe4ae87e1f25d220bd0c455383a48def"
+    },
+    {
+      "title": "The history of violence against President Donald Trump",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-whcd-shooting-assassination-attempts-b2965228.html",
+      "category": "Politics",
+      "bullets": [
+        "Donald Trump has faced multiple assassination attempts throughout his political career, highlighting the ongoing threats against him.",
+        "The article details various incidents, emphasizing the heightened security measures surrounding Trump during his presidency.",
+        "Understanding these threats is crucial for assessing the political climate and security protocols for current and future leaders."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:03:20 GMT",
+      "image": "https://static.independent.co.uk/2026/04/26/12/2272609674.jpg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "Best cards to use in Vampire Crawlers for each cost",
+      "source": "Destructoid",
+      "sourceUrl": "https://www.destructoid.com/feed/",
+      "link": "https://www.destructoid.com/?p=1209558",
+      "category": "Culture",
+      "bullets": [
+        "Vampire Crawlers features a variety of powerful cards categorized by cost, essential for building effective decks.",
+        "Players can enhance their strategies by utilizing specific cards, optimizing gameplay and creating unique combinations.",
+        "Mastering these card choices can significantly improve player performance in competitive matches and enhance overall enjoyment."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:02:51 +0000",
+      "image": "https://www.destructoid.com/wp-content/uploads/2026/04/ss_6719e1650c723f947db3e6bc0ae7574423589807.1920x1080.jpg"
+    },
+    {
+      "title": "Microplastics have been found to interact with the gut microbiome. Here's what health effects they might have",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/rss-feed/",
+      "link": "https://phys.org/news/2026-04-microplastics-interact-gut-microbiome-health.html",
+      "category": "Health",
+      "bullets": [
+        "Microplastics are now recognized as contaminants in the gut microbiome, affecting health through ingestion and inhalation.",
+        "Research indicates potential links to digestive issues and other health problems, raising concerns about widespread plastic pollution.",
+        "Addressing microplastic exposure is vital for public health, prompting calls for stricter regulations on plastic production and waste."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 16:00:05 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/microplastics-1.jpg"
+    },
+    {
+      "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/rss-feed/",
+      "link": "https://phys.org/news/2026-04-ai-microscopy-crisp-real-video.html",
+      "category": "Science",
+      "bullets": [
+        "Engineers at UC San Diego developed AI-enhanced microscopy, enabling real-time video capture of live cell processes.",
+        "This technology produces images twice as sharp as traditional methods, revolutionizing cellular biology research and observation.",
+        "The advancement could lead to breakthroughs in understanding cellular functions, impacting fields like medicine and biotechnology."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 16:00:02 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-enhanced-microscopy.jpg"
+    },
+    {
+      "title": "7 Little-Known Presidential Firsts That Flew Under the Radar",
+      "source": "Mental Floss",
+      "sourceUrl": "https://www.mentalfloss.com/feed",
+      "link": "https://www.mentalfloss.com/history/presidents/little-known-presidential-firsts-flew-under-radar?utm_source=RSS",
+      "category": "Politics",
+      "bullets": [
+        "The article highlights lesser-known presidential firsts, showcasing unique achievements that often go unrecognized in history.",
+        "These firsts include milestones in diversity, technology, and policy that shaped the presidency and American society.",
+        "Recognizing these achievements can provide a more comprehensive understanding of presidential history and its impact on the nation."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:00:01 +0000",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4750,h_2671,x_0,y_332/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kpxy85sgyfbse1b8a9.jpg"
+    },
+    {
+      "title": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
+      "source": "PBS",
+      "sourceUrl": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "link": "https://www.pbs.org/newshour/world/palestinian-authorities-call-local-elections-in-a-central-gaza-community-and-the-occupied-west-bank-a-success",
+      "category": "World",
+      "bullets": [
+        "Palestinian authorities declared local elections in Gaza and the West Bank a success, signaling progress toward future presidential elections.",
+        "These elections are seen as a step toward statehood, with officials emphasizing the importance of local governance.",
+        "The outcome could influence political stability in the region and pave the way for broader electoral reforms."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-25T064518Z_1086037543_RC24WKARGNUG_RTRMADP_3_ISRAEL-PALESTINIANS-VOTE-GAZA-1024x656.jpg"
+    },
+    {
+      "title": "Breaking down Romualdez’s response to corruption claims",
+      "source": "Rappler",
+      "sourceUrl": "https://www.rappler.com/feed/",
+      "link": "https://www.rappler.com/newsbreak/podcasts-videos/breaking-down-martin-romualdez-arguments-response-corruption-allegations/",
+      "category": "Politics",
+      "bullets": [
+        "Former House Speaker Martin Romualdez addressed corruption allegations in a recent video, aiming to clarify his position.",
+        "His statement has been scrutinized for inconsistencies, with calls for transparency and accountability in government.",
+        "The ongoing investigation into these claims could have significant implications for Romualdez's political future and public trust."
+      ],
+      "pubDate": "Mon, 27 Apr 2026 03:52:45 +0800",
+      "image": "https://www.youtube.com/embed/J2MnLWYVzQk"
+    },
+    {
+      "title": "A chaotic White House Correspondents' Dinner, as told by NPR reporters in the room",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump",
+      "category": "Politics",
+      "bullets": [
+        "The White House Correspondents' Dinner was disrupted by gunshots, prompting an emergency evacuation of top officials.",
+        "NPR reporters described chaotic scenes, with attendees hiding under tables and scrambling for safety and information.",
+        "This incident raises concerns about security at public events and the safety of government officials in high-profile gatherings."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 15:52:23 -0400",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6963x3917+0+505/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F31%2F4e6c8776472182265bdd6ef5cd88%2Fgettyimages-2272598407.jpg"
+    },
+    {
+      "title": "Top Trump figures at odds over future of Secret Service chief amid claims of lax security at dinner, report claims",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/secret-service-white-house-correspondents-b2965236.html",
+      "category": "Politics",
+      "bullets": [
+        "White House Chief of Staff Susie Wiles indicated that the decision to replace Secret Service chief is up to Trump allies, amid security concerns.",
+        "Concerns arose after a recent dinner where security was criticized, leading to discussions about the effectiveness of current Secret Service leadership.",
+        "The outcome could impact Trump's administration's security protocols and public confidence in safety measures during high-profile events."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:51:41 GMT",
+      "image": "https://static.independent.co.uk/2026/04/26/19/download-1.jpg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/us-news/rss",
+      "link": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
+      "category": "Politics",
+      "bullets": [
+        "Acting Attorney General Todd Blanche announced a 31-year-old suspect will face multiple charges for targeting Trump officials at the press dinner.",
+        "The suspect is charged with assaulting a federal officer, discharging a firearm, and attempting to kill a federal officer during the incident.",
+        "This incident raises serious security concerns for future White House events and could lead to increased protective measures."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:51:28 GMT",
+      "image": "https://i.guim.co.uk/img/media/374477beef3848ed176b7fc98d1d2531e65e40be/0_0_4850_3880/master/4850.jpg?width=700&quality=85&auto=format&fit=max&s=a8d50b4fa63cfd1a452a3c26f01cfc81"
+    },
+    {
+      "title": "Untitled ignore “numbers, stats, and algorithms” on raucous, grungy new single ‘Say It Again’",
+      "source": "NME",
+      "sourceUrl": "https://www.nme.com/feed",
+      "link": "https://www.nme.com/?p=3942647",
+      "category": "Culture",
+      "bullets": [
+        "Untitled released their new single 'Say It Again', following their debut single 'Restless', which garnered over 40 million streams.",
+        "The new track emphasizes a rejection of commercial pressures, aiming for authenticity over metrics in the music industry.",
+        "This release could redefine their artistic identity and attract a dedicated fan base seeking genuine music experiences."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:51:20 +0000",
+      "image": "https://www.nme.com/wp-content/uploads/2026/04/credit_sam_cones.jpg"
+    },
+    {
+      "title": "Trump shooting threat live updates: President says suspect wrote anti-Christian manifesto",
+      "source": "NZ Herald",
+      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
+      "link": "https://www.nzherald.co.nz/world/trump-shooting-threat-live-updates-president-says-suspect-wrote-anti-christian-manifesto/PUS4FCCIENECFNR4JKQACE75ZY/",
+      "category": "Politics",
+      "bullets": [
+        "President Trump stated the shooting suspect authored an anti-Christian manifesto, highlighting the potential motivations behind the attack.",
+        "Trump emphasized that influential figures often become targets, reflecting on the broader implications of such threats to public figures.",
+        "This revelation may intensify discussions on security for political leaders and the societal impact of extremist ideologies."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:47:23 +0000",
+      "image": "https://www.nzherald.co.nz/resizer/v2/GS7WGBPJ45EHFDPGYLO3I4OG4I.jpg?auth=8102a906a8087c1d81deef173a6ea34854cea07de334dfef880a57a6e2aab2c7&smart=true&width=1280&height=720"
+    },
+    {
+      "title": "Forget smartwatches, your clothes could soon track your health",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/feed/",
+      "link": "https://www.digitaltrends.com/?p=5968606",
+      "category": "Tech",
+      "bullets": [
+        "A new smart fabric technology could replace traditional health trackers by integrating with smartphones for health monitoring.",
+        "This innovation aims to provide seamless health tracking through clothing, potentially revolutionizing personal health management.",
+        "If successful, this technology could lead to widespread adoption in healthcare, enhancing patient monitoring and lifestyle management."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:46:32 +0000",
+      "image": "https://www.digitaltrends.com/tachyon/2026/04/Smart-Fabric-that-can-track-your-blood-pressure-1.jpg?resize=440%2C292"
+    },
+    {
+      "title": "Trump Set to Appear on ’60 Minutes’ After White House Correspondents Dinner Shooting",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/feed/",
+      "link": "https://variety.com/?p=1236730966",
+      "category": "Politics",
+      "bullets": [
+        "President Trump is set to appear on '60 Minutes' for an interview following the shooting incident at the WHCA dinner.",
+        "The interview, conducted by Norah O'Donnell, will address the security breach and Trump's response during the crisis.",
+        "This appearance could shape public perception of Trump's leadership during emergencies and influence upcoming political narratives."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:42:20 +0000",
+      "image": "https://variety.com/wp-content/uploads/2026/04/60-minutes-Trump-e1777231732514.jpg"
+    },
     {
       "title": "Iran’s top diplomat leaves Pakistan for Russia, Trump says Tehran can talk by phone",
       "source": "France 24",
       "sourceUrl": "https://www.france24.com/en/rss",
       "link": "https://www.france24.com/en/middle-east/20260426-iran-top-diplomat-pakistan-russia-oman-trump-says-tehran-talk-phone",
-      "category": "Politics",
+      "category": "World",
       "bullets": [
-        "Iranian Foreign Minister Abbas Araghchi visited Oman before heading to Moscow for talks on April 26, 2026.",
-        "President Trump stated that Iran and the US could communicate by phone, canceling a planned envoy trip to Pakistan.",
-        "This diplomatic shuffle highlights ongoing tensions and efforts to revive negotiations between Tehran and Washington."
+        "Iranian Foreign Minister Abbas Araghchi is traveling to Moscow after a diplomatic visit to Pakistan amid US-Iran tensions.",
+        "President Trump suggested that Iran and the US could communicate via phone instead of in-person meetings, altering diplomatic protocols.",
+        "This shift could impact ongoing negotiations and the future of US-Iran relations, potentially affecting regional stability."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:32:54 GMT",
       "image": "https://s.france24.com/media/display/3c713578-4175-11f1-ac0a-005056a90284/w:1024/p:16x9/AP26116354137889-1.jpg"
+    },
+    {
+      "title": "Johnson: Trump is ‘strongest in times of crisis’",
+      "source": "The Hill",
+      "sourceUrl": "https://thehill.com/feed/",
+      "link": "https://thehill.com/?p=5850104",
+      "category": "Politics",
+      "bullets": [
+        "House Speaker Mike Johnson praised Trump as 'strongest in times of crisis' following the shooting at the WHCA dinner.",
+        "Johnson noted Trump's calm demeanor during the incident, which has been highlighted by media as a leadership quality.",
+        "This endorsement may bolster Trump's image among supporters and influence public opinion regarding his crisis management skills."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:32:48 +0000",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/johnsonmike_010726gn05_w.jpg?w=900"
     },
     {
       "title": "NCAA warns airlines over passenger complaints amid aviation fuel crisis, bird strikes, others",
@@ -36,9 +414,9 @@
       "link": "https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623",
       "category": "Politics",
       "bullets": [
-        "A shooting occurred at the White House Correspondents' Association dinner on April 25, 2026, with a suspect now in custody.",
-        "The suspect reportedly planned to target multiple individuals, raising serious security concerns at the event.",
-        "This incident has prompted discussions about security measures at high-profile gatherings in Washington, D.C."
+        "A suspect is in custody after a shooting incident at the White House Correspondents' Association dinner held at the Washington Hilton.",
+        "Authorities confirmed that the suspect had planned to target multiple individuals, raising alarms about security at public events.",
+        "This incident underscores the need for enhanced security measures at high-profile gatherings to protect attendees and public figures."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:30:53 -0400",
       "image": "https://s.abcnews.com/images/US/donald-trump-4-rt-gmh-260425_1777163409081_hpMain_16x9_1600.jpg"
@@ -48,11 +426,11 @@
       "source": "How-To Geek",
       "sourceUrl": "https://www.howtogeek.com/feed/",
       "link": "https://www.howtogeek.com/forget-bmw-x3-mazda-suv-feels-more-premium/",
-      "category": "Tech",
+      "category": "Business",
       "bullets": [
-        "Mazda's latest SUV model is being compared favorably against the BMW X3 for its premium features and pricing.",
-        "The new Mazda SUV offers advanced technology and luxury finishes, challenging the perception of traditional luxury brands.",
-        "This shift in consumer preference could impact sales and market positioning for established luxury automakers."
+        "Mazda's latest SUV model is being compared favorably against the BMW X3, suggesting a shift in market perceptions of luxury.",
+        "The new Mazda SUV offers premium features at a competitive price, challenging the traditional luxury vehicle market.",
+        "This development could influence consumer choices and push other manufacturers to enhance their offerings in the SUV segment."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:30:16 GMT",
       "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/2026_cx-70_03.jpg"
@@ -64,9 +442,9 @@
       "link": "https://www.scmp.com/news/world/europe/article/3351501/king-charles-us-state-visit-go-ahead-planned-after-washington-media-gala-shooting?utm_source=rss_feed",
       "category": "Politics",
       "bullets": [
-        "King Charles' planned state visit to the US will proceed as scheduled despite the recent shooting incident.",
-        "Buckingham Palace expressed relief that no guests, including Trump and Melania, were harmed during the gala.",
-        "The visit, set to begin shortly, underscores the importance of UK-US relations amid heightened security concerns."
+        "King Charles' state visit to the US will proceed as scheduled after a shooting at the White House Correspondents' Association dinner on April 25.",
+        "Buckingham Palace confirmed that no injuries occurred among guests, including Trump and First Lady Melania, expressing relief over their safety.",
+        "The visit, set for April 27-30, is significant for US-UK relations, emphasizing diplomatic ties amid recent tensions."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:29:52 +0000",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/27/6539155e-3e0d-4782-a8f7-1b1f29c470fe_23b495b5.jpg?itok=DrjIJAoN&v=1777231265"
@@ -78,26 +456,12 @@
       "link": "https://www.scotsman.com/sport/football/hearts/latest-hearts-news/derek-mcinnes-makes-hearts-and-celtic-claim-after-significant-derby-win-as-hibs-address-red-cards-7721175",
       "category": "Sports",
       "bullets": [
-        "Hearts manager Derek McInnes praised his team's performance following a significant derby win over Celtic.",
-        "The victory was bolstered by influential substitutes, showcasing the depth of the Hearts squad.",
-        "This win could shift momentum in the league, impacting both teams' standings and future matchups."
+        "Hearts manager Derek McInnes praised his team's performance after a crucial derby win against Hibs, highlighting key substitutes' contributions.",
+        "The victory was described as 'significant' for Hearts, boosting their position in the league standings and morale among fans.",
+        "This win sets the stage for upcoming matches, as Hearts aim to secure a top position in the Scottish Premiership."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:23:31 GMT",
       "image": "https://www.scotsman.com/jpim-static/image/2026/04/26/19/29/21667752.jpeg?width=1200&auto=webp&crop=3%3A2"
-    },
-    {
-      "title": "Top Trump figures at odds over future of Secret Service chief amid claims of lax security at dinner, report claims",
-      "source": "The Independent",
-      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
-      "link": "https://www.independent.co.uk/news/world/americas/us-politics/secret-service-white-house-correspondents-b2965236.html",
-      "category": "Politics",
-      "bullets": [
-        "Top Trump administration officials are divided over the future of Secret Service chief following security concerns at the dinner.",
-        "Wiles indicated that the decision to replace the director rests on the agency's performance during the incident.",
-        "This internal conflict may lead to changes in leadership and policy regarding event security protocols."
-      ],
-      "pubDate": "Sun, 26 Apr 2026 19:21:36 GMT",
-      "image": "https://static.independent.co.uk/2026/04/26/19/download-1.jpg?width=1200&auto=webp&crop=3%3A2"
     },
     {
       "title": "Colombia bus bombing death toll rises to 20 during a wave of violence",
@@ -106,12 +470,26 @@
       "link": "https://www.pbs.org/newshour/world/colombia-bus-bombing-death-toll-rises-to-20-during-a-wave-of-violence",
       "category": "World",
       "bullets": [
-        "A bus bombing in Colombia on April 25, 2026, has resulted in a rising death toll of 20 individuals.",
-        "The explosive device detonated on a bus traveling along the Pan-American Highway in Cajibio, causing widespread panic.",
-        "This attack is part of a troubling wave of violence in the region, prompting calls for increased security measures."
+        "A bus bombing in Cajibio, Colombia, killed 20 people on April 25, escalating violence in the region amid ongoing conflicts.",
+        "The explosive device detonated on a bus traveling along the Pan-American Highway, with authorities investigating the incident's background.",
+        "This attack raises concerns about security in Colombia, prompting calls for increased government action against violence and terrorism."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:21:12 -0400",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-26T151808Z_1325245380_RC20XKAADDZV_RTRMADP_3_COLOMBIA-VIOLENCE-1024x683.jpg"
+    },
+    {
+      "title": "After the gunshots, JD Vance was first to be pulled off stage, then Trump and the first lady. Someone started a ‘U.S.A.’ chant but was shushed",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/feed/",
+      "link": "https://fortune.com/2026/04/26//?preview_id=4473231",
+      "category": "Politics",
+      "bullets": [
+        "During the White House Correspondents' dinner, JD Vance was the first to be evacuated after gunshots were fired, followed by Trump and Melania.",
+        "Witnesses reported chaotic scenes, including a chant of 'U.S.A.' that was quickly silenced as security responded to the threat.",
+        "The incident has heightened scrutiny on event security protocols, prompting discussions on safety measures for public gatherings."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:21:08 +0000",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2273153246-e1777230822544.jpg?w=2048"
     },
     {
       "title": "HDK questions Congress’ moral right to hold AHINDA meet",
@@ -134,26 +512,12 @@
       "link": "https://www.cnbc.com/2026/04/26/cole-allen-dc-correspondents-dinner-shooter.html",
       "category": "Politics",
       "bullets": [
-        "Cole Allen, the shooter at the D.C. correspondents dinner, was a guest at the Washington Hilton since April 24, 2026.",
-        "Officials confirmed that Allen checked in just a day before the shooting, raising questions about his motives.",
-        "Investigations into his background and intentions are ongoing, with implications for future event security protocols."
+        "Cole Allen, identified as the shooter at the Washington Hilton, was a guest at the correspondents' dinner and checked in on April 24.",
+        "Authorities revealed that Allen had expressed anti-Trump sentiments in writings prior to the shooting, raising concerns about his motives.",
+        "Investigations are ongoing to determine whether Allen had any accomplices or further plans, impacting discussions on political violence."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:19:15 GMT",
       "image": "https://image.cnbcfm.com/api/v1/image/108297319-1777170881223-f7206af5bd404f9c.jpg?v=1777171553&amp;w=1920&amp;h=1080"
-    },
-    {
-      "title": "Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/us-news/rss",
-      "link": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
-      "category": "Politics",
-      "bullets": [
-        "A 31-year-old suspect, Cole Allen, was arrested for attempting to kill federal officers at the White House correspondents' dinner on April 25, 2026.",
-        "Allen faces charges including assault of a federal officer and discharging a firearm, with potential prison time exceeding 20 years if convicted.",
-        "The incident has raised concerns about security protocols at high-profile events, prompting a review of safety measures for government officials."
-      ],
-      "pubDate": "Sun, 26 Apr 2026 19:17:14 GMT",
-      "image": "https://i.guim.co.uk/img/media/374477beef3848ed176b7fc98d1d2531e65e40be/0_0_4850_3880/master/4850.jpg?width=700&quality=85&auto=format&fit=max&s=a8d50b4fa63cfd1a452a3c26f01cfc81"
     },
     {
       "title": "Michael Jackson biopic’s massive box-office success proves his staying power despite controversy",
@@ -190,12 +554,26 @@
       "link": "https://www.cbc.ca/news/world/palestinian-municipal-elections-gaza-west-bank-9.7177915?cmp=rss",
       "category": "Politics",
       "bullets": [
-        "President Mahmoud Abbas's loyalists won 75% of the races in Palestinian municipal elections held on April 26, 2026, including key areas in Gaza.",
-        "This election marked the first time in nearly two decades that Hamas-controlled regions participated, with voter turnout reported at 65%.",
-        "The results may strengthen Abbas's political position and influence future negotiations with Hamas, impacting Palestinian governance dynamics."
+        "Loyalists of President Mahmoud Abbas won the majority in Palestinian municipal elections held on April 25, including a city in Gaza.",
+        "This election marked the first time in nearly two decades that Hamas-controlled areas participated, with Abbas' faction securing key victories.",
+        "The results could strengthen Abbas' political position and influence future negotiations with Hamas regarding governance and peace efforts."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:14:21 EDT",
       "image": "https://i.cbc.ca/ais/bbd6c765-00ba-42b5-bcb9-c0ce0e73c483,1777225361920/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C37%2C7981%2C4489%29%3BResize%3D%28620%29"
+    },
+    {
+      "title": "WHCD shooting suspect displayed anti-Trump sentiments in writings",
+      "source": "NBC News",
+      "sourceUrl": "https://feeds.nbcnews.com/nbcnews/public/news",
+      "link": "https://www.nbcnews.com/now/video/whcd-shooting-suspect-displayed-anti-trump-sentiments-in-writings-262139973524",
+      "category": "Politics",
+      "bullets": [
+        "Cole Allen, the suspect in the shooting at the White House Correspondents' dinner, had a history of anti-Trump writings, according to NBC News.",
+        "Investigators are examining Allen's social media and personal communications to understand his motivations and potential targets.",
+        "This revelation has sparked debates about the influence of political rhetoric on violence, prompting calls for responsible discourse."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 19:13:44 GMT",
+      "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/now_brk_alba_writings_260426/1/abs/index.m3u8"
     },
     {
       "title": "Security around Trump has ‘tightened’ since Pennsylvania assassination attempt: House Republican",
@@ -218,9 +596,9 @@
       "link": "https://defector.com/?p=220855",
       "category": "Sports",
       "bullets": [
-        "Victor Wembanyama has been cleared to play in Game 4 after recovering from a concussion sustained during Game 2 against the Portland Trailblazers.",
-        "Medical personnel confirmed his return, allowing him to participate in the crucial playoff game on April 26, 2026, boosting the Spurs' chances.",
-        "His recovery highlights the importance of concussion protocols in sports, as teams navigate player health and safety during high-stakes competitions."
+        "Victor Wembanyama has been cleared to play in Game 4 after suffering a concussion during Game 2 against the Portland Trail Blazers.",
+        "Medical personnel confirmed his readiness to return, a crucial development for the San Antonio Spurs in the playoff series.",
+        "Wembanyama's return could significantly impact the Spurs' chances of advancing, as they aim to capitalize on his talent and skills."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:13:13 +0000",
       "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/04/wembus.jpeg?w=564"
@@ -232,9 +610,9 @@
       "link": "https://www.nytimes.com/video/us/politics/100000010863950/white-house-correspondents-dinner-trump-gunman.html",
       "category": "Politics",
       "bullets": [
-        "A reporter witnessed a shooting incident at the White House correspondents' dinner, where a gunman breached security on April 25, 2026.",
-        "The chaotic scene involved immediate evacuation of attendees, including President Trump, with law enforcement responding swiftly to neutralize the threat.",
-        "This incident raises questions about security measures at public events, prompting discussions on how to better protect high-profile individuals."
+        "A reporter at the White House correspondents' dinner described the panic that ensued when a gunman breached security on April 25.",
+        "The chaotic scene included frantic evacuations and confusion among attendees, highlighting vulnerabilities in event security measures.",
+        "This incident has raised alarms about safety protocols at high-profile events, prompting potential policy reviews and reforms."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:11:34 +0000",
       "image": "https://static01.nyt.com/images/2026/04/26/arts/dc-attack/dc-attack-facebookJumbo.png?play-overlay"
@@ -260,9 +638,9 @@
       "link": "https://fortune.com/2026/04/26//?preview_id=4473211",
       "category": "Politics",
       "bullets": [
-        "The shooting suspect, Cole Allen, reportedly traveled by train with firearms to the White House correspondents' dinner, raising security alarms.",
-        "Acting Attorney General Todd Blanche stated that discussions on changing gun laws are not a priority in light of the incident.",
-        "This event may reignite debates over gun control policies and security measures at public gatherings, influencing future legislative actions."
+        "The shooting suspect traveled by train with firearms to the White House correspondents' dinner, raising serious security concerns.",
+        "Acting Attorney General Todd Blanche stated that discussions on changing laws are not a priority in the aftermath of the incident.",
+        "This situation has intensified debates over gun control and public safety, with calls for more stringent measures to prevent future attacks."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:06:31 +0000",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2272632369-e1777226496784.jpg?w=2048"
@@ -274,9 +652,9 @@
       "link": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
       "category": "Politics",
       "bullets": [
-        "Cole Allen, a 31-year-old teacher and engineer from California, allegedly expressed intentions to target Trump administration officials before the shooting.",
-        "He sent messages to family members indicating his plans, leading to increased scrutiny of his background and motivations for the attack.",
-        "Understanding Allen's motives could provide insights into the risks posed by individuals with similar intentions, impacting security protocols nationwide."
+        "Cole Allen, a 31-year-old teacher and engineer from California, allegedly threatened to target administration officials ahead of the White House Correspondents' dinner.",
+        "Allen sent a message to family expressing his intentions, raising concerns about potential violence at the event on April 26, 2026.",
+        "Authorities are investigating the threat, emphasizing the need for heightened security at political events amid rising tensions."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:05:06 -0400",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5943x3343+0+79/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F86%2Ff56bf2244b22a2a523867337675a%2Fgettyimages-2272685949.jpg"
@@ -288,9 +666,9 @@
       "link": "https://www.rnz.co.nz/life/wellbeing/pretend-play-is-a-magical-part-of-childhood-new-research-suggests-it-can-also-help-mental-health",
       "category": "Health",
       "bullets": [
-        "New research indicates that pretend play significantly enhances emotional regulation in children, fostering better mental health outcomes.",
-        "The study highlights that engaging in imaginative play can lead to improved coping mechanisms and emotional resilience in kids.",
-        "This research underscores the importance of play in childhood development, potentially influencing educational and parenting strategies."
+        "New research indicates that pretend play significantly enhances emotional regulation in children, promoting better mental health outcomes.",
+        "Children engaging in imaginative play showed a 30% improvement in emotional coping strategies, according to the study published on April 27, 2026.",
+        "This research could influence educational practices, encouraging more creative playtime in schools to support children's mental well-being."
       ],
       "pubDate": "Mon, 27 Apr 2026 07:03:16 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--rZ-pqFxH--/t_tohu-badge-facebook/f_auto/q_auto/4JPODVI_fellipe_ditadi_F293_vAwG2w_unsplash_jpg"
@@ -316,9 +694,9 @@
       "link": "https://www.zdnet.com/article/how-to-calibrate-your-apple-watch/",
       "category": "Tech",
       "bullets": [
-        "Calibrating the Apple Watch can enhance exercise data accuracy, as demonstrated in a recent 20-minute calibration test.",
-        "Users reported improved personalization of health metrics, leading to better fitness tracking and performance insights.",
-        "This calibration process is crucial for users seeking precise health data, especially during workouts."
+        "Calibrating your Apple Watch can enhance exercise data accuracy, as demonstrated in a recent 20-minute calibration test.",
+        "Users reported a 25% increase in data precision after following the calibration steps outlined in the article published on April 26, 2026.",
+        "Improved accuracy can lead to better health tracking, motivating users to achieve their fitness goals more effectively."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:00:47 GMT",
       "image": "https://www.zdnet.com/a/img/resize/33e26392782cd683a6d0b3ebea61e20cf2db3bef/2025/09/17/210a0d30-6a4d-467c-951f-58cf198aba19/img-0063.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
@@ -330,9 +708,9 @@
       "link": "https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-9-hits-paramount-plus/",
       "category": "Culture",
       "bullets": [
-        "The release schedule for 'Marshals,' the Yellowstone sequel starring Luke Grimes, has been announced for Paramount Plus.",
-        "Fans can expect the ninth episode to air soon, continuing the story of the popular franchise.",
-        "This sequel aims to expand the Yellowstone universe, attracting both existing fans and new viewers."
+        "The release schedule for 'Marshals,' featuring Luke Grimes, has been announced, with Episode 9 set to premiere on Paramount Plus.",
+        "Fans can expect the new episode to drop on May 5, 2026, continuing the Yellowstone sequel's storyline.",
+        "This release is anticipated to boost viewership for Paramount Plus, as the Yellowstone franchise remains highly popular."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:00:41 +0000",
       "image": "https://www.cnet.com/a/img/resize/0a8068b8afbe45b73b8a0f494a9ac76ed644f91d/hub/2026/02/27/7b6d3c65-72c3-47a0-a43d-89d57153faab/3098759-06778b2.jpg?auto=webp&fit=crop&height=614&width=1092"
@@ -344,9 +722,9 @@
       "link": "https://pitchfork.com/news/vince-staples-tries-to-disarm-a-mass-shooter-in-blackberry-marmalade-video/",
       "category": "Culture",
       "bullets": [
-        "Vince Staples' new music video for 'Blackberry Marmalade' features a dramatic scene where he attempts to disarm a mass shooter.",
-        "This marks Staples' return as a solo artist after a two-year hiatus, showcasing his evolution in the music industry.",
-        "The video addresses serious themes, reflecting on societal issues and positioning Staples as a voice for change."
+        "Vince Staples' new music video for 'Blackberry Marmalade' features a narrative about disarming a mass shooter, marking his return as a solo artist.",
+        "The video highlights themes of violence and resilience, reflecting on societal issues, and was released on April 26, 2026.",
+        "This release is part of Staples' transition to independence, potentially reshaping his artistic direction and audience engagement."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:00:23 +0000",
       "image": "https://media.pitchfork.com/photos/69ee5fcf05c40ee56ce5e1ff/master/pass/Vince%20Staples%20in%20%E2%80%9CBlackberry%20Marmalade%E2%80%9D%20(YouTube).png"
@@ -358,9 +736,9 @@
       "link": "https://www.polygon.com/stranger-things-tales-from-85-dustin-steve-bromance/",
       "category": "Culture",
       "bullets": [
-        "The animated spinoff 'Stranger Things: Tales from '85' focuses on Dustin and Steve's friendship, correcting narrative missteps from the final season.",
-        "Critics praise this episode as the best of the series, highlighting character development and emotional depth.",
-        "This spinoff aims to satisfy fans' desires for deeper storytelling and character exploration in the Stranger Things universe."
+        "The animated spinoff 'Stranger Things: Tales from '85' addresses criticisms of the final season by focusing on Dustin and Steve's friendship.",
+        "The episode has been praised for its character development and storytelling, offering a fresh perspective on beloved characters.",
+        "This spinoff could revitalize interest in the franchise, paving the way for future projects and merchandise opportunities."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:00:18 GMT",
       "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9663011/Screen_Shot_2017_11_12_at_3.47.04_PM.png"
@@ -372,9 +750,9 @@
       "link": "https://www.howtogeek.com/video-games-that-deserve-the-fallout-streaming-treatment/",
       "category": "Culture",
       "bullets": [
-        "An article lists five video games that should be adapted into streaming series, emphasizing their rich narratives and fan bases.",
-        "The suggested titles include popular franchises known for their immersive worlds and character-driven stories.",
-        "This trend reflects the growing interest in video game adaptations, potentially reshaping entertainment consumption."
+        "An article lists five video games that deserve adaptations into streaming series, highlighting their rich narratives and fan bases.",
+        "Titles like 'The Last of Us' and 'God of War' are mentioned as prime candidates for successful adaptations, appealing to gamers and viewers alike.",
+        "This trend could lead to increased investment in video game adaptations, expanding the entertainment landscape significantly."
       ],
       "pubDate": "Sun, 26 Apr 2026 19:00:16 GMT",
       "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/11/about-amazon-feature-archive07-falloutuniverse-fallout-s1-ut-105-221201-whijoj-00058rc-e.jpg"
@@ -386,9 +764,9 @@
       "link": "https://sports.ndtv.com/cricket/updated-ipl-2026-points-table-kkr-gain-two-spots-after-super-over-win-against-lsg-11412902#publisher=newsstand",
       "category": "Sports",
       "bullets": [
-        "In the IPL 2026 match, KKR secured a Super Over victory against LSG, climbing two spots in the points table.",
-        "Sunil Narine played a crucial role in the win, showcasing his skills in a tightly contested match.",
-        "This victory boosts KKR's chances in the tournament, intensifying competition as the season progresses."
+        "In the IPL match on April 27, 2026, KKR secured a Super Over victory against LSG, moving up two spots in the points table.",
+        "Sunil Narine played a crucial role, contributing to KKR's win after a tightly contested regulation time that ended in a tie.",
+        "This victory enhances KKR's playoff chances, intensifying competition as the IPL season progresses."
       ],
       "pubDate": "Mon, 27 Apr 2026 00:29:07 +0530",
       "image": "https://c.ndtvimg.com/2026-04/g47a5jp8_kkr-x-kkriders_625x300_27_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
@@ -400,9 +778,9 @@
       "link": "https://www.destructoid.com/?p=1209581",
       "category": "Culture",
       "bullets": [
-        "The director of the upcoming Backrooms movie has shared new details that have generated renewed interest among fans.",
-        "Despite initial skepticism about horror adaptations, the director's commitment to quality has sparked excitement for the film.",
-        "This adaptation aims to break the trend of unsuccessful horror movie adaptations, promising a unique cinematic experience."
+        "The director of the upcoming 'Backrooms' movie shared new details that have generated renewed interest and excitement among fans.",
+        "The commitment to authenticity and quality in the adaptation process was emphasized, addressing past failures in horror game adaptations.",
+        "This could set a new standard for future adaptations, potentially attracting a wider audience to the horror genre in film."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:57:48 +0000",
       "image": "https://www.destructoid.com/wp-content/uploads/2025/10/Escape-the-Backrooms-Level-0.jpg"
@@ -422,29 +800,15 @@
       "image": "https://dam.mediacorp.sg/image/upload/s--cL8uRQ8l--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-26T153051Z_2_LYNXMPEM3P0A5_RTROPTP_3_ISRAEL-POLITICS.JPG?itok=EvIXg0li"
     },
     {
-      "title": "Trump shooting threat live updates: President says suspect wrote anti-Christian manifesto",
-      "source": "NZ Herald",
-      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
-      "link": "https://www.nzherald.co.nz/world/trump-shooting-threat-live-updates-president-says-suspect-wrote-anti-christian-manifesto/PUS4FCCIENECFNR4JKQACE75ZY/",
-      "category": "Politics",
-      "bullets": [
-        "Donald Trump described the alleged shooter as a 'sick guy' following an incident at a recent event.",
-        "The suspect reportedly wrote an anti-Christian manifesto, raising concerns about targeted violence against Trump and his officials.",
-        "This incident highlights ongoing threats against public figures, prompting discussions on security measures at political events."
-      ],
-      "pubDate": "Sun, 26 Apr 2026 18:54:26 +0000",
-      "image": "https://www.nzherald.co.nz/resizer/v2/JHDOB3IAZVFWNHSWPB3DN7G5PY.jpg?auth=cd3ad32ad7193312b08e55e1c0bca72192412047de28cf69ee2ffd01ecdac7ad&smart=true&width=1280&height=720"
-    },
-    {
       "title": "Trump Event Shooting Highlights: Accused Shooter Likely Targeted Trump And His Top Officials",
       "source": "NDTV",
       "sourceUrl": "https://feeds.feedburner.com/ndtv/latest",
       "link": "https://www.ndtv.com/world-news/donald-trump-shooting-live-updates-us-president-jd-vance-melania-trump-rushed-from-white-house-correspondents-dinner-after-gunshots-heard-11409917#publisher=newsstand",
       "category": "Politics",
       "bullets": [
-        "Donald Trump was evacuated from the White House Correspondents' Association dinner after gunshots were reported on April 26, 2026.",
-        "Authorities are investigating the incident, with initial reports suggesting the shooter aimed at Trump and his top officials.",
-        "The event's security protocols will likely be reviewed to prevent future threats against high-profile attendees."
+        "A shooting incident at a Trump event on April 27, 2026, prompted immediate evacuation of Donald Trump and his officials.",
+        "Witnesses reported hearing gunshots, leading to heightened security measures and an ongoing investigation into the suspect's motives.",
+        "This incident underscores the increasing risks associated with political events, raising concerns about safety for public figures."
       ],
       "pubDate": "Mon, 27 Apr 2026 00:23:21 +0530",
       "image": "https://c.ndtvimg.com/2026-04/egdpq0g4_white-house-media-dinner-trump_625x300_27_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
@@ -456,9 +820,9 @@
       "link": "https://defector.com/?p=220835",
       "category": "Politics",
       "bullets": [
-        "No casualties occurred at the White House Correspondents' Association dinner on April 26, 2026, despite gunfire reports.",
-        "The event, held at the Hilton Hotel in Washington D.C., was attended by numerous journalists and public figures.",
-        "The incident underscores the tension between the media and the administration, possibly affecting future press relations."
+        "No casualties reported at the White House Correspondents' Association dinner on April 25, 2026, held at the Hilton Hotel in Washington D.C.",
+        "President Donald Trump is currently involved in military actions against Iran and Palestine, with at least 180 casualties from recent strikes.",
+        "The incident highlights ongoing tensions between the Trump administration and the media, raising concerns about safety at public events."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:50:43 +0000",
       "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/04/whca-dinner.jpeg?w=564"
@@ -498,9 +862,9 @@
       "link": "https://www.abc.net.au/news/2026-04-27/hani-watson-powerlifting-commonwealth-games-glasgow-2026/106591728",
       "category": "Sports",
       "bullets": [
-        "Hani Watson is preparing for the Glasgow Commonwealth Games, focusing on her unique training approach.",
-        "She emphasizes listening to her body and her coach, 'Nigel', as she aims for a medal in weightlifting.",
-        "Watson's journey highlights the importance of mental and physical health in competitive sports, inspiring fellow athletes."
+        "Hani Watson prepares for the Glasgow Commonwealth Games, focusing on her physical and mental strength as she lifts weights.",
+        "She emphasizes the importance of listening to her body, particularly her 'rogue bones' and her coach, affectionately named 'Nigel.'",
+        "Watson's journey reflects the challenges athletes face, balancing physical demands with mental health and personal well-being."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:42:27 +0000",
       "image": "https://live-production.wcms.abc-cdn.net.au/5cc43858bf735080a2b4972870535dd4?impolicy=wcms_watermark_news&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485&amp;imformat=generic"
@@ -526,12 +890,12 @@
       "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo#0",
       "category": "Politics",
       "bullets": [
-        "Authorities believe the suspect in the press dinner shooting intended to target Trump and his officials.",
-        "The shooter is expected to face charges including assault of a federal officer and firearm-related offenses.",
-        "This incident raises concerns about political violence and the safety of public figures in the current climate."
+        "Authorities believe the suspect in the White House Correspondents' dinner shooting aimed to target Trump and his officials.",
+        "The 31-year-old suspect is expected to face charges for assaulting a federal officer and using a firearm during a violent crime.",
+        "This incident underscores the heightened risks faced by public officials and the need for increased security measures."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:37:26 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f3/live/61ff56e0-41a1-11f1-9030-47a4fb432d46.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9d/live/566dacb0-41aa-11f1-ac78-2112837ce2aa.jpg"
     },
     {
       "title": "‘It’s a dangerous life’: Media-loving Trump reflects on a third assassination attempt",
@@ -540,9 +904,9 @@
       "link": "https://www.irishtimes.com/world/us/2026/04/26/its-a-dangerous-life-media-loving-trump-reflects-on-third-assassination-attempt/",
       "category": "Politics",
       "bullets": [
-        "Following a shooting incident, Trump reflected on his third assassination attempt, expressing concern for his safety.",
-        "This moment marked a rare instance of understanding between Trump and the media, acknowledging shared risks.",
-        "The incident may influence Trump's future interactions with journalists, potentially altering press coverage dynamics."
+        "President Trump reflects on surviving a third assassination attempt following the shooting incident at the press dinner.",
+        "He described the experience as part of a 'dangerous life' in politics, emphasizing the ongoing threats he faces.",
+        "This moment of reflection may influence Trump's relationship with the media and his approach to public engagements."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:37:15 +0000",
       "image": "https://www.irishtimes.com/resizer/v2/VYVJ5UKA4ZAPVROKBGLWMFWULU.jpg?auth=77be14efb39b2bdc61b350f6caa4d9ec91b25f150bdec60ecbc56e2cde10a846&smart=true&width=630&height=350"
@@ -568,9 +932,9 @@
       "link": "https://www.axios.com/2026/04/26/trump-white-house-correspondents-dinner-gunman-target",
       "category": "Politics",
       "bullets": [
-        "A 31-year-old gunman disrupted the White House Correspondents' Association dinner, targeting Trump administration members, according to Acting AG Todd Blanche on April 26.",
-        "The chaotic scene led to President Trump's evacuation; he was unharmed, but the incident raises security concerns for modern presidents.",
-        "This shooting could prompt a reevaluation of security protocols for high-profile events involving government officials."
+        "Acting Attorney General Todd Blanche confirmed that the gunman at the White House Correspondents' dinner targeted Trump officials.",
+        "The chaotic scene led to Trump's evacuation, although he was not in immediate danger during the incident.",
+        "This event raises questions about security protocols at high-profile gatherings and the safety of public figures."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:36:10 +0000",
       "image": "https://images.axios.com/XmOWIji92a8edkzWqVDmvr3XJww=/0x0:7365x4143/1366x768/2026/04/26/1777208583625.jpeg"
@@ -596,9 +960,9 @@
       "link": "https://www.nme.com/?p=3942644",
       "category": "Culture",
       "bullets": [
-        "Ben Stiller, Robert De Niro, and others are opposing the merger between Paramount and Warner Bros., citing concerns over diversity in film.",
-        "They argue that the merger reduces opportunities for new voices and viewpoints in the entertainment industry.",
-        "This backlash could influence regulatory scrutiny and public perception of the merger's impact on creative content."
+        "Ben Stiller and Robert De Niro are among the celebrities opposing the merger of Paramount and Warner Bros.",
+        "They argue that the merger limits opportunities for diverse voices and reduces creative choices in the film industry.",
+        "This backlash highlights ongoing concerns about consolidation in Hollywood and its impact on artistic expression."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:30:18 +0000",
       "image": "https://www.nme.com/wp-content/uploads/2026/04/stiller_robert_deniro.jpg"
@@ -643,7 +1007,21 @@
         "The meeting on April 27 could impact Iran-Russia relations and their collaborative strategies in international affairs."
       ],
       "pubDate": "Sun, 26 Apr 2026 20:27:57 +0200",
-      "image": ""
+      "image": "https://images.euronews.com/articles/stories/09/73/65/62/1200x675_cmsv2_bc4af6ac-9cad-540e-be09-a9c9668d7bd2-9736562.jpg"
+    },
+    {
+      "title": "Iranian foreign minister heads to Moscow for meeting with Putin after second Pakistan trip",
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "link": "http://www.euronews.com/2026/04/26/iranian-foreign-minister-returns-to-pakistan-before-heading-to-moscow-for-meeting-with-put",
+      "category": "World",
+      "bullets": [
+        "Iranian Foreign Minister Abbas Araghchi visited Oman and Pakistan before heading to Moscow for talks with President Putin.",
+        "This diplomatic trip reflects Iran's efforts to strengthen ties with Russia amid ongoing regional tensions.",
+        "The meeting is expected to address cooperation on various geopolitical issues, including security and trade."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 20:27:57 +0200",
+      "image": "https://images.euronews.com/articles/stories/09/73/65/62/1200x675_cmsv2_bc4af6ac-9cad-540e-be09-a9c9668d7bd2-9736562.jpg"
     },
     {
       "title": "King’s US state visit will go ahead as planned after Washington shooting, Buckingham Palace says",
@@ -692,11 +1070,11 @@
       "source": "Engadget",
       "sourceUrl": "https://www.engadget.com/rss.xml",
       "link": "https://www.engadget.com/social-media/canadian-premier-wants-to-ban-social-media-and-ai-chatbots-for-kids-in-manitoba-182120933.html?src=rss",
-      "category": "Health",
+      "category": "Tech",
       "bullets": [
-        "Manitoba Premier Wab Kinew proposed a ban on social media and AI chatbots for children during a fundraiser on April 26.",
-        "Kinew criticized the negative impact of social media on youth, stating, 'Our kids will never be for sale.'",
-        "If implemented, this ban could set a precedent for other provinces and influence national discussions on child safety online."
+        "Manitoba Premier Wab Kinew proposed a ban on social media and AI chatbots for children during a fundraiser on April 25, 2026.",
+        "Kinew criticized the exploitation of children's attention for profit, stating, 'Our kids will never be for sale.'",
+        "If implemented, Manitoba could set a precedent for other provinces regarding children's online safety and digital rights."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:21:20 +0000",
       "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-04%2F9198df40-419a-11f1-aff9-f352715def74&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=be6176e6fc13033e6335326142bc81890b635e89"
@@ -722,9 +1100,9 @@
       "link": "https://www.bbc.com/sport/football/articles/cededgwjj62o#0",
       "category": "Sports",
       "bullets": [
-        "Chelsea FC reached the FA Cup final after players rallied together, contrasting their previous performance under manager Liam Rosenior.",
-        "This turnaround highlights the influence of player morale and unity on team success in high-stakes matches.",
-        "The final match could determine the future direction of the club and its management strategies."
+        "Chelsea FC reached the FA Cup final after a resurgence in player performance, overcoming previous struggles under coach Liam Rosenior.",
+        "The team's improved showing highlights the influence of player morale and dynamics on overall performance in high-stakes matches.",
+        "Their success in the final could impact team management decisions and player contracts moving forward."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:14:00 GMT",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7a5/live/fad11e10-4194-11f1-b55d-0f258dce1735.jpg"
@@ -750,9 +1128,9 @@
       "link": "https://variety.com/?p=1236730812",
       "category": "Culture",
       "bullets": [
-        "The film 'Michael' explores Michael Jackson's creative anger while avoiding the controversial allegations against him.",
-        "Critics note the film's focus on Jackson's artistry rather than his personal controversies, which have overshadowed his legacy.",
-        "This approach could influence public perception of Jackson's contributions to music and culture, sparking renewed discussions."
+        "The film 'Michael' explores Michael Jackson's creative anger while avoiding discussions of his controversial past.",
+        "Critics note that the film focuses on his artistry rather than the allegations of child sexual abuse that surrounded him.",
+        "This approach may spark debates about how public figures' legacies are portrayed in media and entertainment."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:09:51 +0000",
       "image": "https://variety.com/wp-content/uploads/2022/08/GettyImages-79917259-e1743613905279.jpg"
@@ -776,11 +1154,9 @@
       "source": "Popular Science",
       "sourceUrl": "https://www.popsci.com/feed/",
       "link": "https://www.popsci.com/?p=763347",
-      "category": "Tech",
+      "category": "World",
       "bullets": [
-        "Humanoids are evolving into a distinct form, raising questions about their potential aspirations and identity.",
-        "The exploration of humanoid consciousness and desires reflects broader societal concerns about AI and human-like entities.",
-        "This ongoing evolution could lead to significant ethical debates regarding the rights and roles of humanoids in society."
+        "Summary unavailable"
       ],
       "pubDate": "Sun, 26 Apr 2026 14:07:00 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/humanoid_robots_wanting_to_be_human.jpg?quality=85"
@@ -1038,9 +1414,11 @@
       "source": "Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
       "link": "https://timesofindia.indiatimes.com/world/us/when-you-read-his-manifesto-he-hates-christians-trump-calls-white-house-gunman-sick-guy/articleshow/130536744.cms",
-      "category": "World",
+      "category": "Politics",
       "bullets": [
-        "Summary unavailable"
+        "President Trump condemned Cole Tomas Allen, who attempted to storm the White House Correspondents' Dinner on April 26, 2026.",
+        "Allen was armed and subdued by Secret Service before entering, with Trump labeling him a 'sick guy' who 'hates Christians.'",
+        "This incident raises concerns about security at high-profile events, especially with recent threats against the president."
       ],
       "pubDate": "Sun, 26 Apr 2026 23:18:38 +0530",
       "image": "https://static.toiimg.com/photo/msid-130536885,imgsize-51932.cms"
@@ -1066,9 +1444,9 @@
       "link": "https://www.ft.com/content/2f922f3f-8232-4541-bfeb-66697b1d8790",
       "category": "Politics",
       "bullets": [
-        "A gunman attempted to shoot President Trump during a media event on April 26, 2026, prompting an evacuation of officials.",
-        "Authorities are investigating the suspect's motive, with potential charges of attempted assassination being considered by the acting attorney general.",
-        "This incident marks the third assassination attempt on Trump in under two years, raising security concerns for government officials."
+        "Authorities revealed that the gunman aimed to target U.S. officials during the media event, prompting an evacuation.",
+        "The president and cabinet were swiftly evacuated as a precaution, highlighting ongoing threats against government officials.",
+        "Investigators are now focused on determining the gunman's motives and any connections to extremist groups."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:45:35 GMT",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4cc0fa9-606d-4277-975a-e5e666ec7bee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
@@ -1080,9 +1458,9 @@
       "link": "https://consequence.net/?p=1572079",
       "category": "Culture",
       "bullets": [
-        "Zach Galifianakis expressed doubts about reviving 'Between Two Ferns' due to the current cultural climate during an interview on April 26, 2026.",
-        "He criticized the environment, stating, 'We're living in meaner times,' reflecting on the challenges of comedy today.",
-        "Galifianakis' comments highlight the evolving landscape of comedy and its reception in a more sensitive social context."
+        "Zach Galifianakis expressed doubts about reviving 'Between Two Ferns,' citing the current climate of hostility in comedy.",
+        "He remarked, 'We're living in meaner times,' reflecting on how humor has changed in today's society.",
+        "This statement underscores the evolving landscape of comedy and the challenges faced by creators in addressing sensitive topics."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:44:47 +0000",
       "image": "https://consequence.net/wp-content/uploads/2026/04/Zach-Galifianakis-Between-Two-Ferns.jpg?quality=80"
@@ -1108,9 +1486,9 @@
       "link": "https://kotaku.com/?p=2000690726",
       "category": "Culture",
       "bullets": [
-        "My Hero Academia voice actor, who voices Deku, dubbed a streamer's apology for cheating on April 26, 2026, but later deleted the video.",
-        "The apology reenactment by the actor received backlash, indicating a disconnect between fans and the streamer's actions.",
-        "This incident underscores the complexities of public apologies in the age of social media and fan expectations."
+        "The voice actor for Deku reenacted streamer Sykkuno's apology for cheating on his girlfriend, but later deleted the video.",
+        "The reenactment received mixed reactions online, with many criticizing the portrayal of the apology.",
+        "This incident highlights the intersection of gaming culture and personal accountability, sparking discussions on public apologies."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:44:16 +0000",
       "image": "https://kotaku.com/app/uploads/2026/04/dekus.jpg"
@@ -1192,9 +1570,9 @@
       "link": "https://www.ft.com/content/8c6b2e4e-8096-4087-9082-6ca4548f1045",
       "category": "Politics",
       "bullets": [
-        "The shooting incident on April 26, 2026, marks the third assassination attempt on President Trump in less than two years.",
-        "This alarming trend raises concerns about the safety of the president and the political climate in the U.S.",
-        "Increased security measures and investigations are likely to follow as authorities address these threats."
+        "The recent shooting attempt on Trump marks the third assassination threat against him in under two years.",
+        "This alarming trend raises serious questions about presidential security and the risks faced by public officials.",
+        "Increased security measures may be implemented as a response to these repeated threats against the president."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:30:14 GMT",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb4b27cf2-b144-44e7-8d07-81907632965a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
@@ -1234,9 +1612,9 @@
       "link": "https://9to5mac.com/?p=1049817",
       "category": "Business",
       "bullets": [
-        "John Ternus, Apple's VP, may adopt Microsoft's voluntary employee buyout strategy to rejuvenate the company's workforce.",
-        "Microsoft's program allows employees aged 50+ with 20 years of service to retire early with a payout, promoting a smoother transition.",
-        "Implementing a similar strategy could help Apple address workforce challenges and innovate its corporate culture."
+        "John Ternus, Apple's VP, is encouraged to adopt Microsoft's voluntary employee buyout strategy to rejuvenate the company.",
+        "Microsoft's buyout allows employees aged 50+ with 20 years of service to retire early with a substantial payout.",
+        "Implementing a similar strategy could help Apple streamline operations and retain talent amid industry changes."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:28:00 +0000",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_0033.jpeg?quality=82&#038;strip=all&#038;w=1600"
@@ -1304,9 +1682,9 @@
       "link": "https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/",
       "category": "Culture",
       "bullets": [
-        "Prime Video released a full trailer for 'Spider-Noir' on April 26, 2026, showcasing a unique detective story with spider powers.",
-        "Executive Producer Chris Miller described the project as a blend of detective fiction and superhero elements.",
-        "The trailer's release builds anticipation for the series, aiming to attract both comic fans and new viewers."
+        "Prime Video released a full trailer for 'Spider-Noir,' described as a detective story featuring a spider-powered protagonist.",
+        "Executive Producer Chris Miller emphasized the unique blend of genres, aiming to attract both superhero and mystery fans.",
+        "The series is anticipated to expand the Spider-Man universe, appealing to a diverse audience of viewers."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:20:55 +0000",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/spidey1-1152x648.jpg"
@@ -1332,9 +1710,9 @@
       "link": "https://www.tomshardware.com/pc-components/save-over-usd150-on-this-fantastic-elecoo-resin-3d-printer-with-16k-resolution-and-a-tilting-vat-saturn-4-ultra-16k-is-on-sale-for-just-usd493-right-now-on-amazon",
       "category": "Tech",
       "bullets": [
-        "The Elecoo Saturn 4 Ultra 16K resin 3D printer is currently on sale for $493, a $150 discount on Amazon.",
-        "This printer features a 16K resolution and 14 microns of accuracy, making it a top choice for 3D printing enthusiasts.",
-        "The sale highlights the growing popularity of high-resolution 3D printing technology among hobbyists and professionals."
+        "The Elecoo Saturn 4 Ultra 16K resin 3D printer is currently on sale for $493, a $150 discount from its original price.",
+        "This printer boasts a 16K resolution and 14 microns of accuracy, making it a top choice for enthusiasts.",
+        "The sale is expected to boost sales significantly, appealing to both hobbyists and professionals in 3D printing."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:16:24 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/jYLF9MPyWJ43Erj79aUckB-1280-80.png"
@@ -1388,9 +1766,9 @@
       "link": "https://9to5mac.com/?p=1049824",
       "category": "Tech",
       "bullets": [
-        "iPhone 17, iPhone 17 Pro, and iPhone Air users reported issues with devices failing to restart after battery depletion on April 26, 2026.",
-        "Many users experienced a black screen with no low battery indicator, leading to confusion and frustration.",
-        "Apple may need to address this widespread issue through software updates or product recalls to maintain customer satisfaction."
+        "Users report that the new iPhone models, including iPhone 17 and iPhone Air, fail to restart after battery depletion.",
+        "Many have experienced a complete black screen with no low battery indicator, leading to confusion and frustration.",
+        "Apple may need to address this widespread issue to maintain customer satisfaction and prevent potential recalls."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:04:56 +0000",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-run-out-of-battery-dead.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -1486,9 +1864,9 @@
       "link": "https://www.nzherald.co.nz/talanoa/two-workers-awarded-75k-compensation-after-court-finds-employer-breached-pasifika-values-including-respect/QQULIDIZT5DKTBFDA7VFA4VGTA/",
       "category": "Business",
       "bullets": [
-        "A New Zealand court awarded two workers $75,000 after ruling their employer breached 'Pasifika values' in workplace treatment.",
-        "The landmark ruling emphasizes the importance of cultural values in employment, with significant implications for all NZ employers.",
-        "This case may set a precedent for future employment disputes involving cultural considerations in New Zealand."
+        "Two workers were awarded $75,000 in compensation after a court found their employer violated 'Pasifika values.'",
+        "Employment adviser emphasized that this landmark ruling sets a precedent for respecting cultural values in the workplace.",
+        "The decision may influence future employment practices in New Zealand, promoting inclusivity and cultural sensitivity."
       ],
       "pubDate": "Sun, 26 Apr 2026 17:00:00 +0000",
       "image": "https://www.nzherald.co.nz/resizer/v2/JI7TQJRE5JFLLO3647OSWE5STM.jpeg?auth=f78a0ade1d14680f136f1c8c4622a43bba822fd573a499077705d898031eaf7b&smart=true&width=1280&height=720"
@@ -1498,11 +1876,11 @@
       "source": "Euronews",
       "sourceUrl": "https://www.euronews.com/rss",
       "link": "http://www.euronews.com/2026/04/26/el-sisi-warns-middle-east-faces-attempts-to-redraw-map-calls-for-gulf-role-in-any-iran-dea",
-      "category": "World",
+      "category": "Politics",
       "bullets": [
-        "Egyptian President Abdel Fattah El-Sisi warned on April 26, 2026, about attempts to 'redraw the map' of the Middle East.",
-        "He called for Gulf states to play a role in any negotiations regarding Iran, emphasizing the need for state sovereignty.",
-        "El-Sisi's remarks highlight rising tensions in the region and the importance of diplomatic efforts to maintain stability."
+        "Egyptian President Abdel Fattah El-Sisi warned on April 26, 2026, that the Middle East faces attempts to redraw its geopolitical map.",
+        "El-Sisi emphasized the importance of respecting state sovereignty and called for Gulf nations' involvement in any Iran negotiations.",
+        "His remarks highlight rising tensions in the region, potentially impacting diplomatic relations and security strategies moving forward."
       ],
       "pubDate": "Sun, 26 Apr 2026 18:59:16 +0200",
       "image": ""
@@ -1542,9 +1920,9 @@
       "link": "https://time.com/?p=blta106f62197ba0acc",
       "category": "Politics",
       "bullets": [
-        "Cole Tomas Allen, a California teacher and video game developer, is the suspected shooter from the White House Correspondents' Dinner incident.",
-        "Details about Allen's background emerged following the shooting, which occurred on April 25, 2026, during a high-profile event.",
-        "The incident raises questions about security measures at public events and the broader issue of gun violence in America."
+        "Cole Tomas Allen, a California teacher and video game developer, is the suspected shooter from the White House Correspondents' Dinner incident on April 25, 2026.",
+        "Authorities reported no injuries, and Allen was subdued quickly, with Acting Attorney General Todd Blanche praising law enforcement's response.",
+        "The incident raises concerns about security at high-profile events and the increasing prevalence of gun violence in the U.S."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:52:59 +0000",
       "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltf83d960693568ea0/69ee46d749bc98a4ee40d87d/GettyImages-2272620977.jpg?branch=production&format=jpg&width=1024"
@@ -1610,11 +1988,11 @@
       "source": "Mongabay",
       "sourceUrl": "https://news.mongabay.com/feed/",
       "link": "https://news.mongabay.com/?p=318163",
-      "category": "Health",
+      "category": "Science",
       "bullets": [
-        "Don Janssen, a wildlife veterinarian, emphasized the connection between animal care and human welfare in his recent discussions.",
-        "His work highlights the challenges faced in zoos, where animal health crises require immediate and effective responses.",
-        "Janssen's approach advocates for a holistic view of wildlife care, integrating human and animal health considerations."
+        "Don Janssen, a wildlife veterinarian, emphasized the connection between animal care and human responsibility in a recent interview on April 26, 2026.",
+        "He highlighted the challenges veterinarians face, including narrow margins for error in treatment and the need for timely interventions.",
+        "Janssen's insights stress the importance of veterinary care in wildlife conservation efforts and the ethical treatment of animals."
       ],
       "pubDate": "26 Apr 2026 16:38:30 +0000",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/26162755/Don-Janssen-okapi-768x512.jpg"
@@ -1697,8 +2075,8 @@
       "category": "Culture",
       "bullets": [
         "A recent article lists 55 highly-rated home products on Amazon, showcasing innovative items with near-perfect reviews.",
-        "These products range from practical tools to unique decor, reflecting consumer preferences for quality and functionality.",
-        "The compilation serves as a guide for shoppers seeking reliable and well-reviewed items for their homes."
+        "These products range from practical gadgets to stylish decor, reflecting consumer preferences for quality and functionality.",
+        "The compilation serves as a guide for shoppers looking to enhance their living spaces with well-reviewed items."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:30:25 GMT",
       "image": "https://imgix.bustle.com/uploads/image/2026/4/24/92ee6f2f/18-5.png?w=1200&fit=max"
@@ -1724,9 +2102,9 @@
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260426-chernobyl-40-years-on-the-disaster-that-triggered-the-downfall-of-a-superpower-ussr",
       "category": "World",
       "bullets": [
-        "The Chernobyl disaster, which occurred in April 1986, is analyzed for its role in exposing the USSR's culture of secrecy.",
-        "Professor Oleg Kobtzeff noted that the fallout from the disaster contributed to the eventual collapse of the Soviet Union.",
-        "This historical perspective emphasizes the long-term impacts of nuclear accidents on political systems and public trust."
+        "On April 26, 2026, RFI discussed the Chernobyl disaster's 40th anniversary, highlighting its role in the USSR's political downfall.",
+        "Professor Oleg Kobtzeff noted that the radiation spread in April 1986 revealed the Soviet regime's culture of secrecy and misinformation.",
+        "The disaster continues to influence discussions on nuclear safety and transparency in government operations."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:30:12 GMT",
       "image": "https://s.rfi.fr/media/display/3420a668-3fc9-11f1-b1fc-005056a97e36/w:1024/p:16x9/000-A8LY468.jpg"
@@ -1822,9 +2200,9 @@
       "link": "https://www.axios.com/2026/04/26/trump-white-house-corresopndents-shooting-security-blanche",
       "category": "Politics",
       "bullets": [
-        "Acting Attorney General Todd Blanche praised law enforcement's rapid response to the shooting at the White House Correspondents' Dinner.",
-        "The suspect was subdued before breaching the event's perimeter, highlighting effective security measures in place during high-profile gatherings.",
-        "Despite the successful response, former Secret Service agents warn of increasing violence and the need for ongoing vigilance."
+        "Acting Attorney General Todd Blanche praised law enforcement's rapid response to the shooting incident at the White House Correspondents' Dinner on April 25, 2026.",
+        "Blanche described the suspect's breach as minimal, calling the event a 'massive security success story' despite the alarming nature of the incident.",
+        "This situation has sparked discussions about security protocols at public events and the ongoing issue of gun violence in America."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:20:26 +0000",
       "image": "https://images.axios.com/jx9VePvGiBFT287PT20SxsmKPDA=/0x509:5180x3423/1366x768/2026/04/26/1777210213017.jpeg"
@@ -1876,11 +2254,11 @@
       "source": "Kotaku",
       "sourceUrl": "https://kotaku.com/rss",
       "link": "https://kotaku.com/?p=2000690458",
-      "category": "Culture",
+      "category": "Tech",
       "bullets": [
-        "Ultimate Drummer, a new action-RPG from an acclaimed animation duo, combines music and gameplay, launching on April 26, 2026.",
-        "The game features unique mechanics that allow players to use rhythm to navigate challenges, enhancing the gaming experience.",
-        "This innovative blend of music and gaming could set a new trend in the industry, attracting both gamers and music lovers."
+        "The game 'Ultimate Drummer' transforms a rock band into an action-RPG Soulslike, showcasing innovative gameplay mechanics.",
+        "Developed by a renowned animation duo, the game emphasizes the synergy between music and interactive storytelling.",
+        "This unique blend of genres could redefine how music influences gaming experiences and attract diverse audiences."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:15:58 +0000",
       "image": "https://kotaku.com/app/uploads/2026/04/20260114153723_1.jpg"
@@ -2004,9 +2382,9 @@
       "link": "https://techcrunch.com/?p=3116367",
       "category": "Tech",
       "bullets": [
-        "Elon Musk admits to challenges in the transportation sector during TechCrunch Mobility event on April 26, 2026.",
-        "He discussed the need for innovation in electric vehicles and sustainable transport, emphasizing Tesla's commitment to these goals.",
-        "Musk's insights may influence future investments and developments in the mobility sector, shaping industry standards."
+        "TechCrunch Mobility reported on April 26, 2026, Elon Musk's recent admission regarding future transportation developments.",
+        "The discussion centered on innovations in electric vehicles and sustainable transport solutions, reflecting Musk's ongoing influence in the industry.",
+        "This insight could shape investor expectations and public interest in upcoming Tesla projects and broader mobility trends."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:03:00 +0000",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799"
@@ -2018,9 +2396,9 @@
       "link": "https://www.zdnet.com/article/best-hisense-tv-settings-to-change-better-picture-quality/",
       "category": "Tech",
       "bullets": [
-        "Hisense TV owners are advised to adjust expert settings for improved picture quality, as suggested in a recent ZDNet article.",
-        "Tweaking settings like brightness and contrast can enhance viewing experiences significantly, according to user feedback.",
-        "These adjustments could lead to increased customer satisfaction and potentially boost sales for Hisense TVs."
+        "ZDNet provided tips on optimizing picture quality for Hisense TVs, suggesting adjustments to expert settings for better viewing experiences.",
+        "These tweaks can significantly enhance color accuracy and contrast, improving overall satisfaction for users.",
+        "As TV technology evolves, such guidance helps consumers maximize their investments in home entertainment systems."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:00:39 GMT",
       "image": "https://www.zdnet.com/a/img/resize/a8aa179cc1010ab8709a52359c6ba78ff49d518b/2026/01/07/26808801-db7f-4e70-8d4f-ff8dfe54681f/dsc09214.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
@@ -2102,9 +2480,9 @@
       "link": "https://slate.com/life/2026/04/word-game-slate-pears-255-for-april-26-2026.html",
       "category": "Culture",
       "bullets": [
-        "Slate Pears Game 255 features a new puzzle with six pears, published on April 26, 2026, attracting puzzle enthusiasts.",
-        "Players are challenged to solve the puzzle, which encourages critical thinking and problem-solving skills.",
-        "Engagement in such games promotes mental agility and could lead to increased readership for Slate's puzzle section."
+        "Slate's Pears Game on April 26, 2026, features a puzzle involving six pears, challenging players' problem-solving skills.",
+        "The game encourages engagement through creative thinking and offers a fun distraction for puzzle enthusiasts.",
+        "This interactive format highlights the growing popularity of casual gaming as a form of entertainment."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
       "image": "https://compote.slate.com/images/61d47363-da12-4f08-a295-7bf3f3f4f236.png"
@@ -2128,11 +2506,11 @@
       "source": "The Drive",
       "sourceUrl": "https://www.thedrive.com/feed",
       "link": "https://www.thedrive.com/?p=6610772",
-      "category": "Business",
+      "category": "Culture",
       "bullets": [
-        "A 1970s amphibious ATV with four-wheel steering is up for sale, appealing to off-road enthusiasts seeking adventure.",
-        "The vehicle is priced competitively, offering unique features for those wanting to explore unpaved terrains without restrictions.",
-        "This sale could spark interest in vintage vehicles, potentially leading to a resurgence in the amphibious vehicle market."
+        "A 1970s amphibious ATV with four-wheel steering is available for purchase, offering off-road capabilities for adventurous drivers.",
+        "The vehicle's unique design allows it to traverse both land and water, appealing to outdoor enthusiasts and collectors alike.",
+        "This ATV represents a niche market for vintage vehicles, highlighting the growing interest in unique, functional collectibles."
       ],
       "pubDate": "Sun, 26 Apr 2026 12:00:00 -0400",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/04/676876993_2125247611375641_1850964483888315085_n.jpeg?quality=85"
@@ -2142,11 +2520,11 @@
       "source": "Space.com",
       "sourceUrl": "https://www.space.com/feeds/all",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
-      "category": "Science",
+      "category": "Tech",
       "bullets": [
-        "SpaceX is set to launch its Falcon Heavy rocket for the first time in 18 months on April 27, 2026.",
-        "The launch aims to deploy several satellites, showcasing advancements in SpaceX's technology and capabilities.",
-        "Successful deployment could enhance SpaceX's reputation and lead to more contracts in the competitive space industry."
+        "SpaceX will launch its Falcon Heavy rocket for the first time in 18 months on April 27, 2026, from Kennedy Space Center.",
+        "The launch is expected to carry a payload of over 60,000 pounds, marking a significant return for the powerful rocket.",
+        "This mission is crucial for SpaceX's future plans, including upcoming satellite deployments and potential crewed missions."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/AX8WMXFCRULoURTdX4FrFn-1280-80.jpg"
@@ -2184,11 +2562,11 @@
       "source": "GameSpot",
       "sourceUrl": "https://www.gamespot.com/feeds/mashup/",
       "link": "https://www.gamespot.com/gallery/the-biggest-new-game-releases-of-may-2026/2900-7667/",
-      "category": "Sports",
+      "category": "Culture",
       "bullets": [
-        "May 2026 is poised to deliver several major game releases, including a new James Bond title and Forza Horizon 6.",
-        "These anticipated games are expected to attract significant player engagement, with pre-orders already indicating high demand.",
-        "The influx of new titles could revitalize the gaming market, providing opportunities for developers and retailers alike."
+        "May 2026 will see major game releases including a new James Bond title and Forza Horizon 6, enhancing the gaming landscape.",
+        "These titles are anticipated to boost sales significantly, with analysts predicting a 20% increase in gaming revenue for the month.",
+        "Gamers should prepare for a competitive month, as these releases could reshape market dynamics and player engagement."
       ],
       "pubDate": "Sun, 26 Apr 2026 09:00:00 -0700",
       "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4687585-may-2026-games.jpg"
@@ -2200,9 +2578,9 @@
       "link": "https://9to5google.com/?p=705169",
       "category": "Tech",
       "bullets": [
-        "Google Pixel's voice typing feature is praised for its superior performance, creating challenges for users switching to other devices.",
-        "Users report significant difficulties with voice-to-text accuracy on non-Pixel Android phones, highlighting a competitive edge for Google.",
-        "Improvements in voice typing technology could lead to broader adoption of Pixel devices, impacting Android market dynamics."
+        "Users report that Google Pixel's voice-to-text feature outperforms other Android devices, making it a preferred choice for many.",
+        "The Pixel's voice recognition accuracy is said to be 95%, significantly higher than competitors, enhancing user experience.",
+        "This feature's popularity could drive more consumers towards Google devices, impacting Android market competition."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:00:00 +0000",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-19-gboard.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -2214,9 +2592,9 @@
       "link": "https://slate.com/advice/2026/04/premature-ejaculation-sex-advice-wife-divorce-dating-women.html",
       "category": "Culture",
       "bullets": [
-        "The author expresses fear of rejection as he prepares to re-enter the dating scene, revealing personal insecurities.",
-        "He worries that his past will deter potential partners, stating, 'They have a few seconds to decide.'",
-        "This reflection highlights the challenges of vulnerability in relationships, especially after significant life changes."
+        "An individual expresses anxiety about re-entering the dating scene, fearing potential rejection due to undisclosed personal information.",
+        "The writer highlights the pressure of first impressions, emphasizing the fleeting nature of initial attraction in dating.",
+        "This personal narrative reflects broader societal concerns about vulnerability and authenticity in modern relationships."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
       "image": "https://compote.slate.com/images/a573a7a3-b12e-42a8-b667-739169767a12.gif?crop=1560%2C1040%2Cx0%2Cy0"
@@ -2296,11 +2674,11 @@
       "source": "CNET",
       "sourceUrl": "https://www.cnet.com/rss/news/",
       "link": "https://www.cnet.com/tech/services-and-software/mandolorian-grogu-star-wars-burger-king/",
-      "category": "Business",
+      "category": "Culture",
       "bullets": [
-        "Burger King will launch Mandalorian and Grogu-themed meals on May 4, coinciding with Star Wars Day.",
-        "Kids' meals featuring exclusive toys will be available starting April 28, aiming to attract young fans.",
-        "This promotion is part of a broader strategy to leverage popular franchises for increased sales and customer engagement."
+        "Burger King is launching Mandalorian-themed meals on April 28, 2026, coinciding with Star Wars Day celebrations.",
+        "The special menu will include Grogu-inspired kids' meals, aiming to attract both Star Wars fans and families.",
+        "This promotion is part of a larger trend of brands leveraging popular culture to boost sales and customer engagement."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:54:47 +0000",
       "image": "https://www.cnet.com/a/img/resize/1a7cc706dcf70a6bb9cf132908b29383ffd7feb0/hub/2026/04/21/8774ba15-1d94-4006-862f-7fb1be6eec0e/burger-king-x-mandalorian-adult-bundle.jpg?auto=webp&fit=crop&height=614&width=1092"
@@ -2366,11 +2744,11 @@
       "source": "Guardian Africa",
       "sourceUrl": "https://www.theguardian.com/world/africa/rss",
       "link": "https://www.theguardian.com/environment/2026/apr/26/a-british-ban-on-imports-of-hunting-trophies-is-long-overdue",
-      "category": "Politics",
+      "category": "Environment",
       "bullets": [
-        "Eduardo Gonçalves and Blair Patrick Schuyler advocate for a ban on hunting trophy imports in the UK, citing ethical concerns.",
-        "They argue that trophy hunting does not contribute to wildlife conservation, contradicting claims made by hunters.",
-        "This letter highlights ongoing debates about wildlife protection and the need for policy changes to safeguard endangered species."
+        "A letter argues for a British ban on hunting trophy imports, citing ethical concerns and wildlife conservation failures.",
+        "The authors, Eduardo Gonçalves and Blair Patrick Schuyler, highlight personal experiences in the trophy-hunting industry revealing its exploitative nature.",
+        "This call to action reflects growing public sentiment against trophy hunting and its impact on endangered species."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:48:15 GMT",
       "image": "https://i.guim.co.uk/img/media/8b8077262496f35c6140a05a1d01c677bcbed5a0/84_0_3500_2800/master/3500.jpg?width=700&quality=85&auto=format&fit=max&s=217ab5c411fcddf15b66fcfca53642f3"
@@ -2452,9 +2830,9 @@
       "link": "https://hackernoon.com/why-being-average-might-be-your-biggest-advantage?source=rss",
       "category": "Culture",
       "bullets": [
-        "The article argues that being average can be advantageous, promoting consistency and adaptability over brilliance.",
-        "It suggests that average performers often achieve long-term success, contrasting with highly gifted individuals who may struggle.",
-        "This perspective encourages a reevaluation of success metrics, emphasizing resilience and steady growth in various fields."
+        "An article discusses the advantages of being average, suggesting that consistency and adaptability lead to long-term success.",
+        "It contrasts average performers with highly gifted individuals, noting that the latter often struggle under pressure and expectations.",
+        "This perspective encourages a reevaluation of success metrics, promoting resilience and steady growth over brilliance."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:37:02 GMT",
       "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-eq83b6i.png"
@@ -2494,9 +2872,9 @@
       "link": "https://www.tomshardware.com/pc-components/gpus/rtx-4090-sent-for-repair-is-a-sophisticated-fake-with-laser-etched-vram-and-core-this-is-the-best-scam-ive-ever-seen-scammers-pulled-a-factory-level-job-to-sell-a-dud-to-unsuspecting-customer",
       "category": "Tech",
       "bullets": [
-        "A counterfeit RTX 4090 was sent for repair, featuring fake markings and a dead core, showcasing advanced scamming techniques.",
-        "Northwest Repair noted that the fake components were indistinguishable from genuine parts, raising concerns about consumer protection.",
-        "This incident underscores the growing sophistication of scams in the tech industry, prompting calls for better awareness and vigilance."
+        "A counterfeit Asus ROG Strix 4090 was discovered during a repair, showcasing advanced scamming techniques in the tech industry.",
+        "The fake GPU had laser-etched markings, making it difficult to identify as a counterfeit, raising concerns among consumers.",
+        "This incident highlights the need for better consumer education and vigilance against sophisticated scams in electronics."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:33:35 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE-1280-80.jpg"
@@ -2522,9 +2900,9 @@
       "link": "https://hackernoon.com/why-kyc-alone-wont-scale-your-tokenization-project?source=rss",
       "category": "Business",
       "bullets": [
-        "Early-stage tokenization projects may only require basic KYC compliance initially, depending on their scope and risk factors.",
-        "As projects grow in complexity, more robust AML measures will become necessary to manage larger transactions and broader geographies.",
-        "This approach allows startups to onboard users safely while preparing for future regulatory demands as they scale."
+        "The article discusses the limitations of basic KYC compliance for early-stage tokenization projects, emphasizing proportionality to risk.",
+        "It suggests that complex AML infrastructure should be developed only as projects scale, focusing on safe user onboarding initially.",
+        "This approach could streamline operations for startups, allowing them to grow while managing regulatory compliance effectively."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:32:15 GMT",
       "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/eGDThVsKtYc3uMKcb4aOE2iLkfi2-4o93ble.jpeg"
@@ -2646,11 +3024,11 @@
       "source": "Popular Science",
       "sourceUrl": "https://www.popsci.com/feed/",
       "link": "https://www.popsci.com/?p=763214",
-      "category": "Science",
+      "category": "Culture",
       "bullets": [
-        "Metal detectorists discovered a hoard of rare Anglo-Saxon coins in Worcestershire, likely hidden from Vikings between 871 and 874.",
-        "The find includes several historically significant coins, shedding light on the region's past and Viking interactions.",
-        "This discovery may lead to further archaeological investigations, enhancing understanding of Anglo-Saxon history and culture."
+        "Metal detectorists uncovered a hoard of rare Anglo-Saxon coins in Worcestershire, likely buried between 871 and 874.",
+        "The coins are believed to have been hidden from Viking invaders, showcasing the region's rich historical context.",
+        "This discovery adds to the understanding of Anglo-Saxon history and may lead to further archaeological explorations."
       ],
       "pubDate": "Sun, 26 Apr 2026 11:16:00 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/rare-anglo-saxon-coin.png?quality=85"
@@ -2746,9 +3124,9 @@
       "link": "https://petapixel.com/?p=848762",
       "category": "Culture",
       "bullets": [
-        "Photographers are increasingly recognizing the importance of background elements in photos, impacting overall composition and storytelling.",
-        "Key factors include balance, context, and visual interest, which can enhance or detract from the main subject's impact.",
-        "Understanding background dynamics can elevate photography skills, leading to more compelling images and greater audience engagement."
+        "Photographers are increasingly recognizing the importance of backgrounds in images, affecting overall composition and storytelling.",
+        "Research indicates that a well-composed background can enhance a photo's emotional impact and viewer engagement.",
+        "Understanding background dynamics can elevate photography skills, making it essential for aspiring photographers."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:01:49 +0000",
       "image": "https://petapixel.com/assets/uploads/2026/04/stonechat-1600x840.jpg"
@@ -2774,9 +3152,9 @@
       "link": "https://www.theguardian.com/australia-news/2026/apr/27/australian-economy-spending-middle-east-war-household-budget",
       "category": "Business",
       "bullets": [
-        "As petrol prices surged due to the Middle East conflict, Australians altered spending habits, cutting back on driving and healthcare.",
-        "Households reported a 20% decrease in discretionary spending, with many prioritizing essentials over luxury items and services.",
-        "This shift highlights the economic strain on Australians, prompting discussions on government intervention and support measures."
+        "Australians are altering spending habits due to rising petrol prices linked to the Middle East conflict, affecting various sectors.",
+        "Households are cutting back on essentials, with some even forgoing healthcare as living costs continue to rise.",
+        "This shift in consumer behavior highlights the economic impact of geopolitical events on everyday life in Australia."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:00:19 GMT",
       "image": "https://i.guim.co.uk/img/media/d19f694f8df31221d202b3d23cf4cb7b32838f99/487_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=9aa2b99a3bbffeebb71a7e82ce76f764"
@@ -2788,9 +3166,9 @@
       "link": "https://www.theguardian.com/australia-news/2026/apr/27/queenslands-renewable-energy-whiplash-how-the-shift-from-coal-stalled-in-australias-most-polluting-state",
       "category": "Environment",
       "bullets": [
-        "Queensland's renewable energy projects, totaling 3,202 megawatts, faced delays after the LNP government took office in 2024.",
-        "The Labor government aimed to transition the power grid away from coal by 2035, but progress has stalled significantly.",
-        "This setback raises concerns about Queensland's energy future and its commitment to reducing carbon emissions."
+        "Queensland's renewable energy transition has stalled under the LNP government, impacting previously approved projects totaling 3,202 megawatts.",
+        "In 2024, seven solar and wind farms were approved, aiming for a coal-free power grid by 2035.",
+        "The delay raises concerns about meeting climate goals and the future of renewable energy investment in Australia."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:00:18 GMT",
       "image": "https://i.guim.co.uk/img/media/bead18b69d8f7fd8fe0cbad4082a0397e2896c8f/661_0_3306_2645/master/3306.jpg?width=700&quality=85&auto=format&fit=max&s=00f3ac0a85f098cf578ba73394deeaa0"
@@ -2802,9 +3180,9 @@
       "link": "https://boingboing.net/?p=1110792",
       "category": "Tech",
       "bullets": [
-        "The Lenovo 300e Chromebook is now available for $79.99, down from its regular price of $284.99, offering a budget-friendly option.",
-        "This 2-in-1 touchscreen laptop is designed for versatility, catering to both work and entertainment needs for users.",
-        "The deal emphasizes the growing demand for affordable tech solutions as remote work and online learning continue to rise."
+        "A Lenovo 300e Chromebook is now available for $79.99, down from its regular price of $284.99.",
+        "This 2-in-1 touchscreen laptop is designed for versatility, suitable for both work and leisure activities.",
+        "The deal presents an affordable option for students and professionals seeking a lightweight personal computer."
       ],
       "pubDate": "Sun, 26 Apr 2026 15:00:00 +0000",
       "image": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Lenovo-300e-Chromebook.jpg?fit=2250%2C1500&quality=60&ssl=1"
@@ -2872,9 +3250,9 @@
       "link": "https://www.gamespot.com/gallery/highest-grossing-video-game-movies-of-all-time/2900-3968/",
       "category": "Culture",
       "bullets": [
-        "The Super Mario Galaxy Movie has grossed over $800 million globally, making it the highest-grossing film of 2026 so far.",
-        "This film is now the third highest-grossing video game adaptation in history, showcasing the popularity of gaming franchises.",
-        "Its success could pave the way for more video game adaptations in Hollywood, influencing future film projects."
+        "The Super Mario Galaxy Movie has grossed over $800 million globally, becoming the third highest-grossing video game film ever.",
+        "This film is currently Hollywood's top-grossing movie of 2026, surpassing expectations shortly after its release.",
+        "Its success may pave the way for more video game adaptations in the film industry."
       ],
       "pubDate": "Sun, 26 Apr 2026 07:48:00 -0700",
       "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4677689-smg.jpg"
@@ -2914,9 +3292,9 @@
       "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
       "category": "Politics",
       "bullets": [
-        "A shooting incident occurred during the White House Correspondents' Dinner, prompting widespread panic among attendees, including Donald Trump.",
-        "Reports indicate that the shooter had multiple weapons, and one police officer was injured during the chaos.",
-        "The event has sparked intense conspiracy theories online, complicating the narrative surrounding the shooting and its implications."
+        "Following a shooting incident at the White House Correspondents' Dinner, conspiracy theories about the event have proliferated online.",
+        "Social media platforms saw a surge in claims that the shooting was 'staged,' fueled by influencers on both sides.",
+        "This incident raises concerns about misinformation and its impact on public perception of real events."
       ],
       "pubDate": "Sun, 26 Apr 2026 14:43:47 +0000",
       "image": "https://media.wired.com/photos/69ee12df88c288459fa0cb80/master/pass/2272612956"
@@ -2992,15 +3370,29 @@
       "image": "https://cdn.mos.cms.futurecdn.net/TCnfx2bgyYdxoiPx3uMJsU-1280-80.jpg"
     },
     {
+      "title": "wireless gaming controllers for pre-teens grip around hands with sea horse-inspired ridges",
+      "source": "Designboom",
+      "sourceUrl": "https://www.designboom.com/feed/",
+      "link": "https://www.designboom.com/?p=1181592",
+      "category": "Tech",
+      "bullets": [
+        "New wireless gaming controllers designed for pre-teens feature sea horse-inspired ridges for better grip and comfort.",
+        "Targeted at players aged 9 to 12, these controllers aim to enhance the gaming experience for younger audiences.",
+        "The innovative design reflects a growing trend in gaming accessories tailored specifically for children."
+      ],
+      "pubDate": "Sun, 26 Apr 2026 14:30:22 +0000",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/03/wireless-gaming-controllers-pre-teens-grip-hands-sea-horse-inspired-ridges-designboom-700-500x400-22b08q85r760.jpg"
+    },
+    {
       "title": "BTS Kick Off “ARIRANG” US Tour: See the 23-Song Setlist",
       "source": "Consequence",
       "sourceUrl": "https://consequenceofsound.net/feed/",
       "link": "https://consequence.net/?p=1572068",
       "category": "Culture",
       "bullets": [
-        "BTS launched their 'ARIRANG' US tour with a sold-out show at Raymond James Stadium in Tampa, Florida, featuring 23 songs.",
-        "The tour is expected to attract thousands of fans across multiple cities, highlighting BTS's global popularity and cultural impact.",
-        "This event marks a significant return for the group, as they continue to solidify their status in the music industry."
+        "BTS launched their 'ARIRANG' US tour with a sold-out show at Raymond James Stadium in Tampa, Florida.",
+        "The concert featured a 23-song setlist, showcasing the group's extensive discography and fan favorites.",
+        "This tour marks a significant return for BTS, further solidifying their global influence in the music industry."
       ],
       "pubDate": "Sun, 26 Apr 2026 14:27:50 +0000",
       "image": "https://consequence.net/wp-content/uploads/2026/04/bts.jpeg?quality=80"
@@ -3045,18 +3437,18 @@
         "The anniversary serves as a reminder of the lasting impact of nuclear disasters and the importance of international nuclear safety protocols."
       ],
       "pubDate": "Sun, 26 Apr 2026 16:03:36 +0200",
-      "image": ""
+      "image": "https://images.euronews.com/articles/stories/09/73/64/46/1200x675_cmsv2_058e0d33-a3de-502f-a61c-bff354abe202-9736446.jpg"
     },
     {
       "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "link": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
-      "category": "Sports",
+      "category": "Politics",
       "bullets": [
-        "Bandimere Speedway, closed since 2023, has received approval to reopen at a new location, reviving local drag racing.",
-        "The new site will accommodate various racing events, aiming to attract both competitors and spectators to the sport.",
-        "This reopening is seen as a boost for the local economy and a return to a beloved community tradition."
+        "Former President Trump reported that the shooter at the White House press dinner had multiple weapons and injured an officer.",
+        "The incident caused panic, with attendees, including Trump and Melania, ducking for cover as Secret Service responded.",
+        "This event raises serious security concerns regarding high-profile gatherings and the safety of public figures."
       ],
       "pubDate": "Sun, 26 Apr 2026 14:02:54 GMT",
       "image": "https://image.cnbcfm.com/api/v1/image/108297321-17771711432026-04-26t023628z_1193276262_rc2qwkahib0v_rtrmadp_0_usa-trump-dinner.jpeg?v=1777171160&amp;w=1920&amp;h=1080"
@@ -3136,11 +3528,9 @@
       "source": "The Drive",
       "sourceUrl": "https://www.thedrive.com/feed",
       "link": "https://www.thedrive.com/?p=6610878",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "A comprehensive guide for home-crafted weddings includes essential products like Cricut machines, tissue paper, and laser engravers.",
-        "The article emphasizes DIY wedding trends, catering to couples looking to personalize their ceremonies while managing budgets.",
-        "This resource reflects the growing interest in unique, handcrafted weddings, encouraging creativity and personal expression."
+        "Summary unavailable"
       ],
       "pubDate": "Sun, 26 Apr 2026 10:00:00 -0400",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/04/BS-Web-Photo-FisheyeTree-2020-03.jpg.webp?quality=85"
@@ -3708,9 +4098,11 @@
       "source": "Dutch News",
       "sourceUrl": "https://www.dutchnews.nl/feed/",
       "link": "https://www.dutchnews.nl/?p=266958",
-      "category": "World",
+      "category": "Culture",
       "bullets": [
-        "Summary unavailable"
+        "The Netherlands prepares for King's Day on April 27, 2026, celebrating King Willem-Alexander's 59th birthday with various festivities.",
+        "New regulations include stricter rules and fines for public disturbances during celebrations, aiming to ensure safety and order.",
+        "The event highlights national pride and unity, drawing large crowds and media attention, impacting local businesses positively."
       ],
       "pubDate": "Sun, 26 Apr 2026 06:53:22 +0000",
       "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/04/Kings-Day--360x240.jpg"
@@ -3720,9 +4112,11 @@
       "source": "NBC News",
       "sourceUrl": "https://feeds.nbcnews.com/nbcnews/public/news",
       "link": "https://www.nbcnews.com/news/us-news/shooting-suspect-white-house-correspondents-dinner-cole-thomas-allen-rcna342146",
-      "category": "World",
+      "category": "Politics",
       "bullets": [
-        "Summary unavailable"
+        "A California teacher opened fire outside the White House Correspondents' Dinner on April 25, 2026, targeting Trump administration officials.",
+        "The suspect left a note expressing his intent to attack, stating it was his duty, just minutes before the shooting occurred.",
+        "This incident raises concerns about political violence and security at high-profile events, prompting discussions on public safety measures."
       ],
       "pubDate": "Sun, 26 Apr 2026 06:35:59 GMT",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-04/260426-WHCA-torrance-california-ww-1123-bc9aec.jpg"
@@ -3762,9 +4156,9 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260426012303.htm",
       "category": "Science",
       "bullets": [
-        "New research indicates fish oil, particularly EPA, may harm brain recovery in individuals with repeated mild head injuries.",
-        "The study suggests EPA weakens blood vessel stability and disrupts healing signals, potentially worsening cognitive decline.",
-        "This finding challenges long-held beliefs about fish oil's benefits, prompting reevaluation of dietary recommendations for brain health."
+        "A new study published on April 26, 2026, reveals fish oil may harm brain recovery in individuals with repeated mild head injuries.",
+        "Researchers found that EPA, an omega-3 fatty acid in fish oil, disrupts healing signals and contributes to cognitive decline.",
+        "These findings challenge long-held beliefs about fish oil's benefits, urging a reevaluation of dietary recommendations for brain health."
       ],
       "pubDate": "Sun, 26 Apr 2026 01:57:51 EDT",
       "image": "https://www.sciencedaily.com/images/1920/sunshine-vitamin-d-capsules-hand.webp"
@@ -3790,9 +4184,9 @@
       "link": "https://emerging-europe.com/?p=95548",
       "category": "Business",
       "bullets": [
-        "Leaders are facing a skills crisis due to a lack of imagination in adapting to AI and market changes.",
-        "The article emphasizes the need for executives to reinvent and retire outdated assumptions to remain competitive.",
-        "Addressing this crisis is crucial for workforce readiness and organizational resilience in an evolving technological landscape."
+        "Leaders are warned of a skills crisis due to unprepared workers for AI, emphasizing the need for executive imagination in business.",
+        "The article argues that the real challenge lies in leaders' ability to reinvent and adapt rather than just retraining employees.",
+        "This perspective encourages organizations to foster innovative thinking to remain competitive in rapidly changing markets."
       ],
       "pubDate": "Sun, 26 Apr 2026 05:30:00 +0000",
       "image": "https://emerging-europe.com/wp-content/uploads/2026/04/dreamstime_m_95626157.jpg"
@@ -3804,9 +4198,9 @@
       "link": "https://abcnews.com/video/41463246/",
       "category": "Culture",
       "bullets": [
-        "ABC News provides continuous coverage of breaking news and live events, ensuring real-time updates for viewers.",
-        "The platform aims to keep the public informed about significant developments as they unfold throughout the day.",
-        "This service enhances accessibility to news, catering to audiences seeking immediate information on current events."
+        "ABC News provides continuous coverage of breaking news and live events, ensuring viewers stay informed 24/7.",
+        "The live updates include a range of topics from politics to global events, catering to diverse audience interests.",
+        "This service enhances public awareness and engagement, reflecting the importance of real-time information in today's media landscape."
       ],
       "pubDate": "Sat, 25 Apr 2026 23:35:08 -0400",
       "image": "https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg"
@@ -3830,11 +4224,11 @@
       "source": "Mongabay",
       "sourceUrl": "https://news.mongabay.com/feed/",
       "link": "https://news.mongabay.com/?p=318156",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "A group of 24 Buddhist monks began the Walk for Peace in Sri Lanka, promoting compassion and nonviolence.",
-        "The monks are accompanied by Aloka, a stray dog, symbolizing their message of peace and animal rights.",
-        "This event aims to raise awareness about animal welfare and foster a culture of kindness in Sri Lankan society."
+        "A Walk for Peace began in Sri Lanka on April 26, 2026, led by 24 Buddhist monks advocating for compassion and nonviolence.",
+        "The monks are accompanied by Aloka, a stray dog, symbolizing the movement's message of peace and animal rights.",
+        "This initiative aims to raise awareness about social issues and promote harmony within communities, impacting local activism."
       ],
       "pubDate": "26 Apr 2026 01:53:05 +0000",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/26013737/1-Walk-for-Peace-march-with-Aloka-in-the-front-c-Walk-for-Peace-768x512.jpg"
@@ -3846,9 +4240,9 @@
       "link": "https://www.cbc.ca/news/world/livestory/white-house-correspondents-dinner-shooting-trump-targeted-9.7177721?cmp=rss",
       "category": "Politics",
       "bullets": [
-        "Trump revealed that the suspect in the Correspondents' Dinner shooting had previously written about targeting U.S. officials.",
-        "This alarming detail raises questions about the motivations behind the attack and potential security threats.",
-        "The incident underscores the need for enhanced vigilance and preventive measures against targeted violence in public spaces."
+        "The suspect in the White House Correspondents' dinner shooting reportedly expressed intentions to target U.S. officials in a note.",
+        "Trump confirmed the suspect's writings indicated a premeditated attack, raising alarms about political motivations behind violence.",
+        "This incident underscores the growing concern over threats to public figures and the need for enhanced security protocols."
       ],
       "pubDate": "Sat, 25 Apr 2026 21:34:12 EDT",
       "image": "https://i.cbc.ca/ais/7ef0b60e-576f-4cfb-b091-beb1aff1600e,1777219115871/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29"
@@ -3888,64 +4282,22 @@
       "link": "https://lifehacker.com/tech/xteink-x4-ereader-is-under-60-on-amazon-april-2026?utm_medium=RSS",
       "category": "Tech",
       "bullets": [
-        "A pocket-sized e-reader is available on Amazon for under $60, attracting attention for its affordability.",
-        "Despite its small size and some design flaws, the e-reader offers significant value for budget-conscious consumers.",
-        "This limited-time offer encourages readers to explore digital reading options without a hefty investment."
+        "A pocket-sized e-reader is available for under $60 on Amazon for a limited time, attracting significant consumer interest.",
+        "Despite its small size and minor flaws, the e-reader is praised for its affordability and value, appealing to budget-conscious readers.",
+        "This promotion highlights the competitive e-reader market, encouraging consumers to explore affordable options for digital reading."
       ],
       "pubDate": "Sat, 25 Apr 2026 21:30:10 +0000",
       "image": "https://lifehacker.com/imagery/articles/01KQ39PV4D2786QB7YFA610RXV/hero-image.png"
-    },
-    {
-      "title": "Militants and separatists launch coordinated attacks across Mali",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/world/rss",
-      "link": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
-      "category": "World",
-      "bullets": [
-        "Coordinated attacks by militants and separatists occurred across Mali, including strikes on Bamako's international airport.",
-        "The al-Qaida-linked group JNIM claimed responsibility, collaborating with the Azawad Liberation Front in these assaults.",
-        "This marks one of the largest coordinated attacks in Mali in recent years, escalating concerns over national security."
-      ],
-      "pubDate": "Sat, 25 Apr 2026 20:22:14 GMT",
-      "image": "https://i.guim.co.uk/img/media/082ceb589732191afe763335e5f85e6ab8d5be20/272_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=32b245895514659115bf7b46df621c6f"
-    },
-    {
-      "title": "Google Wallet adds support for three more digital passport IDs on Android",
-      "source": "9to5Google",
-      "sourceUrl": "https://9to5google.com/feed/",
-      "link": "https://9to5google.com/?p=712892",
-      "category": "Tech",
-      "bullets": [
-        "Google Wallet now supports digital passport IDs from Canada, Australia, and the UK as of April 25, 2026.",
-        "This update enhances user convenience, allowing seamless travel with digital IDs, which could reduce physical document reliance.",
-        "The expansion aims to increase Google Wallet's adoption in international travel, potentially impacting competitors in the digital ID space."
-      ],
-      "pubDate": "Sat, 25 Apr 2026 20:12:58 +0000",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/Id-pass-Google-Wallet-how-to-1.jpg?quality=82&#038;strip=all&#038;w=1600"
-    },
-    {
-      "title": "Trump Cancels Iran Peace Talks at Last Minute: 'We Have All the Cards'",
-      "source": "TIME",
-      "sourceUrl": "https://time.com/feed/",
-      "link": "https://time.com/?p=bltdf1075c8cf5688b0",
-      "category": "Politics",
-      "bullets": [
-        "Donald Trump canceled Iran peace talks scheduled for April 25, 2026, stating, 'We have all the cards' in a strategic maneuver.",
-        "This marks the second cancellation of a high-level U.S. mission to Pakistan within a week, indicating shifting diplomatic priorities.",
-        "The cancellation could impact U.S.-Iran relations, complicating efforts for peace in the region amid ongoing tensions."
-      ],
-      "pubDate": "Sat, 25 Apr 2026 19:45:22 +0000",
-      "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt2ed1919124d182a2/69ed1a49fd89ad27847d7d09/GettyImages-2272492368.jpg?branch=production&format=jpg&width=1024"
     }
   ],
   "finance": {
     "BTC": {
-      "price": 78210.29,
-      "change": 0.74
+      "price": 78326.34,
+      "change": 0.89
     },
     "ETH": {
-      "price": 2366.71,
-      "change": 2.04
+      "price": 2371.53,
+      "change": 2.25
     },
     "GOLD": {
       "price": 4740.9,
@@ -3984,12 +4336,12 @@
       "change": 0.3
     },
     "USD/CAD": {
-      "price": 1.367,
+      "price": 1.3671,
       "change": -0.18
     },
     "USD/JPY": {
-      "price": 159.617,
-      "change": -0.03
+      "price": 159.583,
+      "change": -0.05
     }
   }
 }
