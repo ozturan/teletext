@@ -688,6 +688,8 @@ async function loadData() {
       stories = stories.filter(s => !s.category || !excluded.includes(s.category));
     }
 
+    stories = stories.filter(s => (s.bullets || []).some(b => b && b !== 'Summary unavailable'));
+
     // Update source count in info modal
     const srcCount = new Set((data.stories || []).map(s => s.source)).size;
     const el = $('sourceCount');
