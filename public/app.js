@@ -161,7 +161,7 @@ function randomShuffle(arr) {
 
 
 // ─── SETTINGS ENGINE ────────────────────────────────
-let myCode = localStorage.getItem('teletext-code') || '';
+let myCode = '';
 
 function getPrefs() {
   try { return JSON.parse(localStorage.getItem('teletext-prefs')) || {}; }
@@ -178,7 +178,6 @@ function savePrefs(prefs) {
       .then(data => {
         if (data.code && !myCode) {
           myCode = data.code;
-          localStorage.setItem('teletext-code', myCode);
           history.replaceState(null, null, '/' + myCode);
         }
       })
@@ -2127,59 +2126,39 @@ $('importPrefsBtn').addEventListener('click', () => {
 });
 
 
-// ─── USER CODE (persistent config links) ────────────
+// ─── USER CODE (URL is the only source of truth) ──────
 async function initUserCode() {
   const path = window.location.pathname.slice(1);
-  const hasCodeInUrl = /^[a-z0-9]{4}$/.test(path);
 
-  if (hasCodeInUrl) {
-    // Visiting a code URL — load its config if it exists
+  if (/^[a-z0-9]{4}$/.test(path)) {
+    // /<code> — load that config
     try {
       const res = await fetch(`/api/config/${path}`);
       if (res.ok) {
         const config = await res.json();
         myCode = path;
-        localStorage.setItem('teletext-code', myCode);
         savePrefs(config);
         if (config.theme) {
           localStorage.setItem('teletext-theme', config.theme);
           document.documentElement.setAttribute('data-theme', config.theme);
           deriveTheme();
         }
-      } else {
-        // Code doesn't exist — redirect to fresh
-        history.replaceState(null, null, '/');
-        myCode = '';
       }
-    } catch {
-      history.replaceState(null, null, '/');
-      myCode = '';
-    }
+      // 404 → leave URL as-is, defaults render
+    } catch {}
   } else {
-    // No code in URL. If browser remembers one, send the user back to it
-    // (link is the source of truth for settings). Otherwise leave them on /
-    // with defaults; a code will be minted on first savePrefs.
-    const existing = localStorage.getItem('teletext-code') || '';
-    if (/^[a-z0-9]{4}$/.test(existing)) {
-      history.replaceState(null, null, '/' + existing);
-      try {
-        const res = await fetch(`/api/config/${existing}`);
-        if (res.ok) {
-          const config = await res.json();
-          myCode = existing;
-          savePrefs(config);
-          if (config.theme) {
-            localStorage.setItem('teletext-theme', config.theme);
-            document.documentElement.setAttribute('data-theme', config.theme);
-            deriveTheme();
-          }
-        } else {
-          myCode = existing;
-        }
-      } catch {
-        myCode = existing;
+    // / — mint a fresh code (with whatever prefs are in localStorage) and pin URL
+    try {
+      const data = await (await fetch('/api/config', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(getPrefs()),
+      })).json();
+      if (data.code) {
+        myCode = data.code;
+        history.replaceState(null, null, '/' + data.code);
       }
-    }
+    } catch {}
   }
 
   applyModules();
