@@ -1,6 +1,622 @@
 {
-  "updated": "2026-05-02 09:58:25",
+  "updated": "2026-05-02 10:45:43",
   "stories": [
+    {
+      "title": "300 verbal warnings issued to Sharp Island visitors on Labour Day",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/rss/91/feed",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352225/300-verbal-warnings-issued-sharp-island-visitors-labour-day?utm_source=rss_feed",
+      "category": "Culture",
+      "bullets": [
+        "Hong Kong authorities issued 300 verbal warnings to visitors at Sharp Island on May 1, 2026, during Labour Day holiday.",
+        "Approximately 3,000 visitors flocked to Sharp Island, prompting the Agriculture, Fisheries and Conservation Department to deploy additional staff.",
+        "The influx of visitors highlights the growing popularity of Hong Kong's Unesco Global Geopark during holiday periods."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:40:00 +0000",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/02/3372dc56-debf-4004-ade8-7bcf44a4be15_42856f4a.jpg?itok=irBy17tX&v=1777718393"
+    },
+    {
+      "title": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity",
+      "source": "Tom's Guide",
+      "sourceUrl": "https://www.tomshardware.com/feeds/all",
+      "link": "https://www.tomshardware.com/desktops/apple-warns-mac-mini-and-mac-studio-shortages-could-last-for-months-local-ai-boom-and-memory-crunch-drive-demand-beyond-apples-manufacturing-capacity",
+      "category": "Tech",
+      "bullets": [
+        "Apple CEO Tim Cook announced potential shortages of Mac mini and Mac Studio could last for months due to high demand.",
+        "The surge in demand is driven by developers needing high-memory Apple Silicon systems for local AI workloads.",
+        "This situation may impact Apple's market share as competitors capitalize on the supply constraints."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:40:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/8EWhpjGLPVJMhRYohmTmJS-1280-80.jpg"
+    },
+    {
+      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
+      "category": "Business",
+      "bullets": [
+        "Spirit Airlines ceased operations on May 2, 2026, after failing to secure a government bailout from bondholders.",
+        "The airline's closure marks the end of an era for discount travel, affecting thousands of employees and customers.",
+        "This failure may lead to increased airfares and reduced competition in the low-cost travel sector."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:36:06 GMT",
+      "image": "https://image.cnbcfm.com/api/v1/image/108296377-17769656712026-04-23t171341z_2015087744_rc22vka7xf3k_rtrmadp_0_usa-airlines-spirit.jpeg?v=1777674790&amp;w=1920&amp;h=1080"
+    },
+    {
+      "title": "Kejriwal resorting to ‘vendetta politics’, says BJP after Punjab Police books defected MP",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
+      "link": "https://www.thehindu.com/news/national/kejriwal-resorting-to-vendetta-politics-says-bjp-after-defected-mp-gets-booked-in-punjab/article70931380.ece",
+      "category": "Politics",
+      "bullets": [
+        "BJP spokesperson Shehzad Poonawalla accused AAP leader Arvind Kejriwal of using Punjab Police for political vendetta on May 2, 2026.",
+        "The accusation follows the booking of a defected MP by Punjab Police, raising concerns over political misuse of law enforcement.",
+        "This conflict may escalate tensions between AAP and BJP, impacting upcoming elections in Punjab."
+      ],
+      "pubDate": "Sat, 02 May 2026 16:05:30 +0530",
+      "image": "https://th-i.thgim.com/public/incoming/h2ahn/article70931429.ece/alternates/LANDSCAPE_1200/05th-DEVSH-BJP-GGUFD9U6T.3.jpg.jpg"
+    },
+    {
+      "title": "Can Trump's latest pick for surgeon general make it through confirmation?",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation",
+      "category": "Politics",
+      "bullets": [
+        "Nicole Saphier, nominated for surgeon general, faces confirmation challenges as the president's third nominee for the position.",
+        "Saphier is a breast cancer radiologist, and her confirmation process will be closely watched by health policy advocates.",
+        "The outcome could influence future health initiatives and the administration's public health strategy."
+      ],
+      "pubDate": "Sat, 02 May 2026 06:32:00 -0400",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F83%2Fdcd4b8954a4890f8f9aeecd43aa1%2Fgettyimages-2188445138.jpg"
+    },
+    {
+      "title": "New Mexico trial citing ‘public nuisance’ laws against Meta, social platforms",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/rss/91/feed",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3352224/new-mexico-trial-citing-public-nuisance-laws-against-meta-social-platforms?utm_source=rss_feed",
+      "category": "Politics",
+      "bullets": [
+        "A trial in New Mexico starting on May 2, 2026, could impose significant changes on Meta's operations across its platforms.",
+        "New Mexico Attorney General Raúl Torrez accuses Meta of designing addictive products and failing to protect children online.",
+        "A ruling against Meta could set a precedent for regulating social media companies nationwide."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:31:24 +0000",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/02/deab964e-9a82-4512-b3a1-ff575b974dec_717f2319.jpg?itok=3xleGX1e&v=1777717883"
+    },
+    {
+      "title": "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "link": "https://www.aljazeera.com/?t=1777716202",
+      "category": "Sports",
+      "bullets": [
+        "Former Formula One driver Alex Zanardi passed away on May 2, 2026, at age 59 after a long battle following a racing accident.",
+        "Zanardi was celebrated for changing perceptions of disability in Italy and inspiring many with his Paralympic achievements.",
+        "His legacy will influence future discussions on disability rights and representation in sports."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:31:05 +0000",
+      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
+    },
+    {
+      "title": "6 clever ways to 3D print photos (and why lithophanes are just the start)",
+      "source": "How-To Geek",
+      "sourceUrl": "https://www.howtogeek.com/feed/",
+      "link": "https://www.howtogeek.com/clever-ways-to-3d-print-photos-and-why-lithophanes-are-just-the-start/",
+      "category": "Tech",
+      "bullets": [
+        "Innovative techniques for 3D printing photos are explored, showcasing lithophanes as just the beginning of this technology.",
+        "These methods allow users to transform digital images into tangible objects, expanding creative possibilities.",
+        "The growing interest in 3D printing could lead to new markets and applications in art and design."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:30:31 GMT",
+      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/a-spool-of-bambu-lab-pla-matte-filament-1.jpg"
+    },
+    {
+      "title": "Starmer urges ban on some protests in antisemitism crackdown",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/uk/rss",
+      "link": "https://www.independent.co.uk/news/uk/politics/starmer-ban-protest-antisemitism-palestine-b2969129.html",
+      "category": "Politics",
+      "bullets": [
+        "UK Prime Minister Keir Starmer called for a ban on certain protests amid rising antisemitism concerns on May 2, 2026.",
+        "He urged participants to reflect on chants like 'globalise the Intifada' and their implications for community safety.",
+        "This move may spark debates on free speech versus public safety in the context of political protests."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:30:16 GMT",
+      "image": "https://static.independent.co.uk/2026/05/01/07/Britain_Antisemitism_Attack_25293.jpg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
+      "source": "MarketWatch",
+      "sourceUrl": "https://www.marketwatch.com/rss/topstories",
+      "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
+      "category": "Health",
+      "bullets": [
+        "A letter published on May 2, 2026, highlights the frustrations of patients waiting for medical appointments, including CT scans.",
+        "The author emphasizes the emotional toll on families, citing the deaths of patients due to delayed care.",
+        "This issue underscores the need for healthcare reform to improve access and reduce wait times."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:30:00 GMT",
+      "image": "https://images.mktw.net/im-54293842"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026), Tested and Reviewed",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/feed/rss",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "category": "Tech",
+      "bullets": [
+        "Wired reviews eight top travel adapters for international travel, focusing on functionality and compatibility with various devices.",
+        "Adapters tested include models from brands like Anker and Ceptics, with prices ranging from $15 to $40, ensuring travelers stay connected.",
+        "Choosing the right adapter can prevent device damage and enhance travel convenience, making informed choices essential for globetrotters."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
+      "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg"
+    },
+    {
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/feed/rss",
+      "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "category": "Tech",
+      "bullets": [
+        "Disneyland has implemented face recognition technology for visitors, enhancing security and streamlining entry processes.",
+        "The system aims to improve guest experience while raising privacy concerns; Disneyland assures data will be securely managed.",
+        "This move reflects a growing trend in theme parks adopting advanced tech to enhance visitor safety and operational efficiency."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:30:00 +0000",
+      "image": "https://media.wired.com/photos/69f53066ed110137695d66cd/master/pass/security_disney_getty.jpg"
+    },
+    {
+      "title": "Americans aren't sleeping enough. Here's what could help",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5807074/americans-sleep-better-hours-insomnia",
+      "category": "Health",
+      "bullets": [
+        "Nearly 30% of Americans report sleeping less than seven hours nightly, impacting health and productivity.",
+        "Experts recommend strategies like reducing screen time and establishing bedtime routines to improve sleep quality.",
+        "Addressing sleep deprivation is crucial for public health, as chronic lack of sleep can lead to serious health issues."
+      ],
+      "pubDate": "Sat, 02 May 2026 06:30:00 -0400",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+221/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F0b%2F14f43d7345b6bcb9ac4c8e6427be%2Fgettyimages-471426556.jpg"
+    },
+    {
+      "title": "Rescue group set to buy 1,500 beagles from Wisconsin facility targeted by violent protests",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
+      "link": "https://www.independent.co.uk/news/world/americas/wisconsin-madison-florida-alabama-b2969393.html",
+      "category": "Culture",
+      "bullets": [
+        "Big Dog Ranch Rescue plans to purchase 1,500 beagles from Ridglan Farms, a facility facing protests over animal welfare.",
+        "The agreement aims to rescue the dogs from a controversial breeding operation, highlighting ongoing animal rights issues.",
+        "This rescue effort underscores the importance of animal welfare advocacy and the need for reform in breeding practices."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:29:57 GMT",
+      "image": "https://static.independent.co.uk/2024/12/13/02/iStock-492683105.jpg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "Ice Spice stars in Wendy’s ad following viral McDonald’s fight video",
+      "source": "NME",
+      "sourceUrl": "https://www.nme.com/feed",
+      "link": "https://www.nme.com/?p=3943705",
+      "category": "Culture",
+      "bullets": [
+        "Ice Spice stars in a new Wendy's advertisement, marking her return to the brand after her previous employment there.",
+        "The ad follows a viral video of a fight at McDonald's, showcasing Ice Spice's rise in popularity and cultural relevance.",
+        "This collaboration highlights the intersection of celebrity culture and fast food marketing, appealing to younger audiences."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:29:35 +0000",
+      "image": "https://www.nme.com/wp-content/uploads/2026/05/Ice-Spice.-CREDIT_-Gilbert-Flores_WWD-via-Getty-Images.jpg"
+    },
+    {
+      "title": "Billie Eilish fans are moshing at cinema screenings for new concert film",
+      "source": "NME",
+      "sourceUrl": "https://www.nme.com/feed",
+      "link": "https://www.nme.com/?p=3943697",
+      "category": "Culture",
+      "bullets": [
+        "Billie Eilish's new concert film has fans moshing at cinema screenings, creating a unique live experience in theaters.",
+        "At the London premiere, Eilish humorously acknowledged the enthusiastic crowd, reflecting her strong fan engagement.",
+        "This trend of interactive film screenings could reshape how concert films are marketed and experienced in cinemas."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:28:03 +0000",
+      "image": "https://www.nme.com/wp-content/uploads/2025/11/live-billie-eilish-james-cameron.jpg"
+    },
+    {
+      "title": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
+      "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo#0",
+      "category": "Politics",
+      "bullets": [
+        "UK Prime Minister suggests some pro-Palestinian protests may need to cease due to their impact on the Jewish community.",
+        "The PM expressed concern over the cumulative effects of ongoing demonstrations, indicating a potential policy shift.",
+        "This statement highlights the delicate balance between free speech and community safety in politically charged environments."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:25:06 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a58/live/40ab4c50-45f8-11f1-849c-31633e0e0c7e.jpg"
+    },
+    {
+      "title": "Clip this: Netflix's new mobile design is all about short videos and scrolling",
+      "source": "Android Central",
+      "sourceUrl": "https://www.androidcentral.com/feed",
+      "link": "https://www.androidcentral.com/streaming-tv/netflix/clip-this-netflixs-new-mobile-design-is-all-about-short-videos-and-scrolling",
+      "category": "Tech",
+      "bullets": [
+        "Netflix has launched a redesigned mobile app focusing on short videos and scrolling features to enhance user engagement.",
+        "The new 'Clips' feature aims to attract younger audiences, reflecting changing consumption habits in digital media.",
+        "This redesign is part of Netflix's strategy to remain competitive in the evolving streaming landscape dominated by quick content."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:23:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/2Zz49wgpEHSbgQVQrmQMY9-1280-80.jpg"
+    },
+    {
+      "title": "BJP-dominant India or ... ? Decoding layers of saffron supremacy across country",
+      "source": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "link": "https://timesofindia.indiatimes.com/india/bjp-dominant-india-or-decoding-layers-of-saffron-supremacy-across-country/articleshow/130714003.cms",
+      "category": "Politics",
+      "bullets": [
+        "The BJP continues to dominate Indian politics, controlling most states and the central government as of May 2026.",
+        "Despite strongholds in Uttar Pradesh and Gujarat, the party faces challenges in southern states and West Bengal.",
+        "Upcoming elections will be critical for the BJP to solidify its influence and address regional political dynamics."
+      ],
+      "pubDate": "Sat, 02 May 2026 15:52:47 +0530",
+      "image": "https://static.toiimg.com/photo/msid-130714246,imgsize-8977863.cms"
+    },
+    {
+      "title": "Tech teardown specialist delids a Xeon with a blowtorch and hunting knife — wood chopping block makes a worthy stage for the sacrifice",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/feeds/all",
+      "link": "https://www.tomshardware.com/pc-components/cpus/tech-teardown-specialist-delids-a-xeon-with-a-blowtorch-and-hunting-knife-wood-chopping-block-makes-a-worthy-stage-for-the-sacrifice",
+      "category": "Tech",
+      "bullets": [
+        "A tech teardown specialist used unconventional methods, including a blowtorch, to delid an Intel Xeon Silver 4110 processor.",
+        "The process, showcased on a wood chopping block, emphasizes the lengths enthusiasts go to for performance enhancements.",
+        "Such teardowns provide insights into hardware capabilities, appealing to tech enthusiasts and overclocking communities."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:20:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/yaHGDnybTDJb28ebvi3UoP-1280-80.jpg"
+    },
+    {
+      "title": "How to find the Wandering Trader in Far Far West",
+      "source": "Destructoid",
+      "sourceUrl": "https://www.destructoid.com/feed/",
+      "link": "https://www.destructoid.com/?p=1211630",
+      "category": "Tech",
+      "bullets": [
+        "In Far Far West, players can find the Wandering Trader, an NPC who enhances gameplay by adding Jokers to their loadout.",
+        "The Wandering Trader's location is not fixed, making her difficult to find, especially on Easy difficulty settings.",
+        "Finding the Wandering Trader is crucial for players seeking to improve their damage potential in the game."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:12:06 +0000",
+      "image": "https://www.destructoid.com/wp-content/uploads/2026/04/far-far-west-featured.jpg"
+    },
+    {
+      "title": "See May's full 'Flower Moon' bloom in gorgeous photos from around the world",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/feeds/all",
+      "link": "https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world",
+      "category": "Science",
+      "bullets": [
+        "The Flower Moon, a full moon, is visible worldwide on May 2, 2026, showcasing its beauty in various locations.",
+        "This lunar event will be followed by a rare Blue Moon on May 31, 2026, adding to the month's celestial highlights.",
+        "The Flower Moon signifies spring's arrival, inspiring cultural celebrations and astronomical observations globally."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:11:05 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/W5a8XkCnYmbwM59LXqrrkL-1280-80.jpg"
+    },
+    {
+      "title": "Enugu Example: How Mbah is positioning South-East for shared economic future, By Collins Ogbu",
+      "source": "Premium Times",
+      "sourceUrl": "https://www.premiumtimesng.com/feed",
+      "link": "https://www.premiumtimesng.com/?p=876410",
+      "category": "Politics",
+      "bullets": [
+        "Peter Mbah is leading Enugu State towards a shared economic future, positioning it as a key player in the South-East region.",
+        "Mbah's governance focuses on regional transformation, aiming to create a functional economic model for sustainable development.",
+        "This initiative could serve as a blueprint for other states in Nigeria, fostering collaboration and economic growth."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:09:54 +0000",
+      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/c4ffa889-1e47-45e9-9e16-b2e37cb84857-e1777716290262.jpeg?fit=1280%2C800&amp;ssl=1"
+    },
+    {
+      "title": "3 planets will put on a sky show in May — when and how to see them",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/feeds/all",
+      "link": "https://www.space.com/stargazing/3-planets-will-put-on-a-sky-show-in-may-when-and-how-to-see-them",
+      "category": "Science",
+      "bullets": [
+        "In May 2026, Venus, Jupiter, and Mercury will align, offering a spectacular three-planet display for skywatchers.",
+        "The celestial event includes stunning moon pairings, enhancing the visual experience for astronomy enthusiasts.",
+        "This alignment presents a unique opportunity for educational outreach and public interest in astronomy."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:06:12 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/vnyaPJo4zeFD4qANqXbh7g-1280-80.jpg"
+    },
+    {
+      "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+      "source": "CNA",
+      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "link": "https://www.channelnewsasia.com/business/meta-faces-new-mexico-trial-could-force-changes-facebook-other-platforms-6095951",
+      "category": "Business",
+      "bullets": [
+        "Meta is facing a trial in New Mexico that could mandate significant changes to Facebook and other platforms.",
+        "The trial addresses concerns over user privacy and data management, with potential implications for Meta's business model.",
+        "A ruling against Meta could set a precedent for stricter regulations on social media companies nationwide."
+      ],
+      "pubDate": "Sat, 02 May 2026 18:03:51 +0800",
+      "image": "https://dam.mediacorp.sg/image/upload/s--H9fqsWsN--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-02T100351Z_1_LYNXMPEM4105K_RTROPTP_3_META-YOUTH.JPG?itok=euYpSpIJ"
+    },
+    {
+      "title": "In Vietnam, Japan PM Sanae Takaichi vows more effort to keep Asia 'free and open'",
+      "source": "CNA",
+      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "link": "https://www.channelnewsasia.com/asia/vietnam-japan-sanae-takaichi-speech-free-open-indo-pacific-6095931",
+      "category": "World",
+      "bullets": [
+        "Japanese PM Sanae Takaichi visited Vietnam, emphasizing the need for a 'free and open' Asia amid regional tensions.",
+        "Takaichi urged Asian nations to build resilience and self-determination, highlighting Japan's commitment to regional stability.",
+        "This visit underscores Japan's strategic role in fostering cooperation and addressing security challenges in Asia."
+      ],
+      "pubDate": "Sat, 02 May 2026 18:01:26 +0800",
+      "image": "https://dam.mediacorp.sg/image/upload/s--bRRLjITu--/c_crop,h_900,w_1600,x_0,y_147/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/05/02/000_a9ll663.jpg?itok=PdP2Mdxr"
+    },
+    {
+      "title": "World Relays: Nigeria set for stern test against Netherlands, Jamaica in Gaborone",
+      "source": "Premium Times",
+      "sourceUrl": "https://www.premiumtimesng.com/feed",
+      "link": "https://www.premiumtimesng.com/?p=876404",
+      "category": "Sports",
+      "bullets": [
+        "Nigeria's national relay team is preparing for a challenging competition against the Netherlands and Jamaica in Gaborone.",
+        "D.G. Bukola Olopade conveyed President Bola Tinubu's support, encouraging the team to compete with pride and determination.",
+        "The World Relays will test Nigeria's athletic prowess and could impact future funding and support for sports development."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:52 +0000",
+      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/1003105855.jpg?fit=1280%2C725&amp;ssl=1"
+    },
+    {
+      "title": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "link": "http://www.euronews.com/my-europe/2026/05/02/two-people-killed-and-over-a-dozen-injured-in-russian-attacks-across-ukraine",
+      "category": "World",
+      "bullets": [
+        "Russian attacks across Ukraine resulted in two fatalities and over a dozen injuries as hostilities continue.",
+        "Kyiv reports successful counterstrikes targeting Russian oil facilities, despite stalled ceasefire talks amid the Iran conflict.",
+        "The ongoing violence exacerbates humanitarian crises and complicates diplomatic efforts for peace in the region."
+      ],
+      "pubDate": "Sat, 02 May 2026 12:00:38 +0200",
+      "image": ""
+    },
+    {
+      "title": "Honkai: Star Rail team designs characters with story first, combat second",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/rss/index.xml",
+      "link": "https://www.polygon.com/honkai-star-rail-hsr-character-design-interview-planarcadia/",
+      "category": "Tech",
+      "bullets": [
+        "The developers of Honkai: Star Rail prioritize character storytelling over combat mechanics in their design process.",
+        "This approach allows for the creation of unique characters that resonate with players, enhancing overall gameplay experience.",
+        "The focus on narrative-driven design may influence future game development trends in the industry."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:19 GMT",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/005.png"
+    },
+    {
+      "title": "‘We need more answers’: Rally for N.S. missing kids 1 year after disappearance",
+      "source": "Global News",
+      "sourceUrl": "https://globalnews.ca/feed/",
+      "link": "https://globalnews.ca/?p=11825893",
+      "category": "Culture",
+      "bullets": [
+        "A rally in Nova Scotia marks the one-year anniversary of the disappearance of siblings Lilly and Jack.",
+        "Community members are demanding justice and more information regarding the ongoing investigation into their case.",
+        "This event highlights the emotional toll on families and the community's commitment to finding answers."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:18 +0000",
+      "image": "https://globalnews.ca/wp-content/uploads/2025/06/lilly-jack.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "title": "Latest news bulletin | May 2nd, 2026 – Midday",
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/rss",
+      "link": "http://www.euronews.com/video/2026/05/02/latest-news-bulletin-may-2nd-2026-midday",
+      "category": "World",
+      "bullets": [
+        "Catch up on the latest news from Europe and beyond, including updates on politics, business, and culture as of May 2, 2026.",
+        "This bulletin covers breaking stories impacting various sectors, highlighting key events and developments across the continent.",
+        "Stay informed on significant happenings that could affect international relations, economic trends, and cultural shifts in Europe."
+      ],
+      "pubDate": "Sat, 02 May 2026 12:00:16 +0200",
+      "image": "https://images.euronews.com/articles/stories/09/74/41/99/1200x675_cmsv2_667b57b2-f1f0-58b7-b025-7af41ff30a4a-9744199.jpg"
+    },
+    {
+      "title": "The year that shook the Gulf",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/feeds/feed.rss",
+      "link": "https://www.axios.com/2026/05/02/gulf-countries-saudi-uae-investments-war",
+      "category": "World",
+      "bullets": [
+        "The United Arab Emirates announced its departure from OPEC, while Saudi Arabia is ending its foreign sports ventures amid rising tensions with Iran.",
+        "This geopolitical shift follows President Trump's Gulf tour, jeopardizing trillions in investment pledges aimed at diversifying the region's economy.",
+        "The fallout could destabilize U.S.-Gulf relations and hinder the envisioned post-oil future reliant on tourism and technology."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:06 +0000",
+      "image": "https://images.axios.com/4RDQEoSZ8z2wKnE5QPC5oJLTrIw=/0x0:1920x1080/1366x768/2026/04/30/1777585336396.jpeg"
+    },
+    {
+      "title": "Redditor gambles $20 on a 4TB Temu external HDD — receives a microSD card reader hot-glued inside a plastic box",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/feeds/all",
+      "link": "https://www.tomshardware.com/pc-components/external-hdds/redditor-gambles-usd20-on-a-4tb-temu-external-hdd-receives-a-microsd-card-reader-hot-glued-inside-a-plastic-box",
+      "category": "Tech",
+      "bullets": [
+        "A Reddit user spent $20 on a supposed 4TB external HDD but received a microSD card reader glued inside a plastic box instead.",
+        "The incident highlights ongoing issues with online shopping, where customers often receive counterfeit or misrepresented products.",
+        "This case may prompt discussions on consumer protection and the need for stricter regulations in e-commerce."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/STcgyBhyW4Noozgio6gW2m-1280-80.png"
+    },
+    {
+      "title": "How Voting Rights Groups Are Rallying to Fight After the Supreme Court Hollowed a Landmark Law",
+      "source": "TIME",
+      "sourceUrl": "https://time.com/feed/",
+      "link": "https://time.com/?p=blte811655ee0a1350d",
+      "category": "Politics",
+      "bullets": [
+        "Voting rights groups are mobilizing to counteract the Supreme Court's recent ruling that undermines a landmark voting rights law.",
+        "The decision threatens minority representation and could alter the balance of power in Congress, raising concerns among advocates.",
+        "This mobilization is crucial as upcoming elections could be significantly impacted by these legal changes."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltc109450b5c4f6255/69f5246423c6b4786ebd0561/voting-rights-act-supreme-court.jpg?branch=production&format=jpg&width=1024"
+    },
+    {
+      "title": "The Memo: Trump’s frustration on Iran boils over in attacks against media",
+      "source": "The Hill",
+      "sourceUrl": "https://thehill.com/feed/",
+      "link": "https://thehill.com/?p=5860143",
+      "category": "Politics",
+      "bullets": [
+        "President Trump expressed anger over media coverage of the Iran conflict, labeling The New York Times as 'seditious' and CNN as 'the enemy.'",
+        "His comments reflect deep frustration with media narratives surrounding the ongoing war, intensifying his confrontational stance.",
+        "This escalation could further polarize public opinion and complicate Trump's relationship with the press during his presidency."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26121748250823-e1777717295716.jpg?w=900"
+    },
+    {
+      "title": "GOP war powers resolution argument triggers a furor between Trump, lawmakers over Iran",
+      "source": "The Hill",
+      "sourceUrl": "https://thehill.com/feed/",
+      "link": "https://thehill.com/?p=5859981",
+      "category": "Politics",
+      "bullets": [
+        "The debate over war powers regarding Iran has intensified as the conflict reached the 60-day mark under the 1973 War Powers Act.",
+        "Democrats are leveraging this milestone to challenge Trump's authority and push for clearer congressional oversight on military actions.",
+        "The outcome of this partisan struggle could redefine the balance of power between Congress and the presidency regarding military engagements."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/War-powers_050226_Illo_CJ-GN-Adobe.png?w=900"
+    },
+    {
+      "title": "1998 PS1 Classic Is Getting a Full Remake on PC This Year",
+      "source": "Vice",
+      "sourceUrl": "https://www.vice.com/en/rss",
+      "link": "https://www.vice.com/en/?p=1986435",
+      "category": "Culture",
+      "bullets": [
+        "A beloved 1998 PlayStation classic is set for a full remake on PC, with a release planned for later this year via Steam.",
+        "The remake promises innovative gameplay elements that blend genres, aiming to attract both nostalgic fans and new players.",
+        "This revival could reignite interest in classic gaming titles and expand the audience for retro games in the modern market."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://www.vice.com/wp-content/uploads/sites/2/2026/05/hard-edge-war-zone-title-screen.png"
+    },
+    {
+      "title": "My dream Razer headset is finally on sale",
+      "source": "Creative Bloq",
+      "sourceUrl": "https://www.creativebloq.com/feed",
+      "link": "https://www.creativebloq.com/entertainment/gaming/my-dream-razer-headset-is-finally-on-sale",
+      "category": "Tech",
+      "bullets": [
+        "The Razer Kraken Kitty V3 Pro headset is now available at a 25% discount during Amazon's Gaming Week promotion.",
+        "This sale offers gamers a chance to purchase a popular gaming accessory at a reduced price, enhancing their gaming experience.",
+        "The promotion may drive sales and increase brand visibility for Razer in a competitive gaming accessories market."
+      ],
+      "pubDate": "Sat, 02 May 2026 10:00:00 +0000",
+      "image": "https://cdn.mos.cms.futurecdn.net/HQSvLVNp9YRfMgGnwEjnBF-1280-80.gif"
+    },
+    {
+      "title": "Yappler: The reality of finding a job today",
+      "source": "Rappler",
+      "sourceUrl": "https://www.rappler.com/feed/",
+      "link": "https://www.rappler.com/moveph/fresh-graduates-job-application-market-community-stories-yappler/",
+      "category": "Business",
+      "bullets": [
+        "The job market is increasingly complicated by AI, affecting application processes and candidate evaluations in various industries.",
+        "Discussions are ongoing about the relevance of Latin honors in job-hunting, with many questioning their impact on hiring decisions.",
+        "Understanding these trends is vital for job seekers navigating a rapidly evolving employment landscape influenced by technology."
+      ],
+      "pubDate": "Sat, 02 May 2026 18:00:00 +0800",
+      "image": "https://www.youtube.com/embed/JGneimSu8bc"
+    },
+    {
+      "title": "NZer in flotilla intercepted by Israel has concussion and possible broken rib, wife says",
+      "source": "RNZ",
+      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
+      "link": "https://www.rnz.co.nz/news/political/594051/nzer-in-flotilla-intercepted-by-israel-has-concussion-and-possible-broken-rib-wife-says",
+      "category": "World",
+      "bullets": [
+        "Jay O'Connor, a New Zealander, suffered a concussion and possible broken rib after being intercepted by Israeli forces during a flotilla.",
+        "He was among nearly 180 individuals who disembarked on Crete, highlighting ongoing tensions in the region regarding maritime activities.",
+        "This incident may escalate diplomatic tensions and draw international attention to the humanitarian aspects of the flotilla missions."
+      ],
+      "pubDate": "Sat, 02 May 2026 21:57:08 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--RY6YhDYp--/t_tohu-badge-facebook/v1777529752/4JPCMLM_Flotilla_png?_a=BACCd2AD"
+    },
+    {
+      "title": "Trump to downsize U.S. military presence in Germany",
+      "source": "Washington Post",
+      "sourceUrl": "https://feeds.washingtonpost.com/rss/world",
+      "link": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
+      "category": "Politics",
+      "bullets": [
+        "The U.S. plans to downsize its military presence in Germany, a decision announced by President Trump on May 2, 2026.",
+        "Germany anticipated this move, while NATO is seeking clarity on the implications amid ongoing tensions between Trump and Chancellor Scholz.",
+        "This reduction could impact NATO's strategic posture in Europe, raising concerns about security commitments in the region."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:55:07 +0000",
+      "image": ""
+    },
+    {
+      "title": "Trump picked a fight with the Pope: The one person he can’t fire, can’t outbid, and can’t outlast",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/feed/",
+      "link": "https://fortune.com/2026/05/01//?preview_id=4477315",
+      "category": "Politics",
+      "bullets": [
+        "President Trump has publicly criticized Pope Francis, marking an unprecedented clash between the U.S. leader and the Vatican.",
+        "This conflict arises amid ongoing tensions regarding various global issues, with the Pope remaining a steadfast moral authority.",
+        "The fallout could affect U.S.-Vatican relations, influencing diplomatic efforts on social justice and humanitarian issues."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:55:00 +0000",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2270717460-e1777654784848.jpg?w=2048"
+    },
+    {
+      "title": "Takaichi pledges ‘more proactive’ role for Japan in Indo-Pacific strategy update",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/feed/",
+      "link": "https://www.japantimes.co.jp/article/640867/",
+      "category": "Politics",
+      "bullets": [
+        "Japanese Prime Minister Takaichi announced a more proactive Indo-Pacific strategy during a speech in Vietnam on May 2, 2026.",
+        "The strategy emphasizes strengthening supply chains and security, aiming to uphold a rules-based economic order in the region.",
+        "This shift reflects Japan's commitment to countering regional threats and enhancing its role in international security dynamics."
+      ],
+      "pubDate": "Sat, 02 May 2026 18:54:00 +0900",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538436.jpg"
+    },
+    {
+      "title": "US warns Europe of delays to arms shipments as Iran war drains stockpiles",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/?format=rss",
+      "link": "https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff",
+      "category": "World",
+      "bullets": [
+        "The U.S. has warned European allies of potential delays in arms shipments due to stockpile depletion from the ongoing Iran conflict.",
+        "These delays could affect military support for Ukraine, which relies on U.S. arms in its defense against Russian aggression.",
+        "This situation underscores the challenges of maintaining military readiness while addressing multiple global conflicts simultaneously."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:51:05 GMT",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ff85f2f-ac82-4931-a9ed-7bb4a8287999.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+    },
     {
       "title": "<em>The Devil Wears Prada 2</em> Is Ripped Straight From the Headlines—Except When It Comes to Its Fantastical Ending",
       "source": "Slate",
@@ -8,9 +624,9 @@
       "link": "https://slate.com/culture/2026/05/the-devil-wears-prada-2-movie-anna-wintour-vogue-media-cameos.html",
       "category": "Culture",
       "bullets": [
-        "The sequel to The Devil Wears Prada reflects changes in the fashion industry over the past 20 years, highlighting real-world influences.",
-        "The film incorporates current figures and trends, showcasing the evolution of fashion media and its impact on society.",
-        "This sequel aims to resonate with modern audiences, emphasizing the relevance of fashion in today's cultural landscape."
+        "The sequel to 'The Devil Wears Prada' reflects changes in the fashion industry over the past two decades, as revealed on May 2, 2026.",
+        "The film incorporates real-world figures and events, showcasing the evolving landscape of fashion and media.",
+        "This commentary on the industry highlights the intersection of entertainment and current events, resonating with audiences today."
       ],
       "pubDate": "Sat, 02 May 2026 09:50:00 GMT",
       "image": "https://compote.slate.com/images/66607db0-b819-443c-bee2-a87f01c425bf.jpeg?crop=1560%2C1040%2Cx0%2Cy0"
@@ -44,15 +660,43 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/02/2468c834-913d-4272-99ec-7a1c4a627e25_02c45b78.jpg?itok=aOQ9_2Pn&v=1777715385"
     },
     {
+      "title": "Scottish football club relegated and sinks to 18-year low in calamitous scenes",
+      "source": "The Scotsman",
+      "sourceUrl": "https://www.scotsman.com/rss",
+      "link": "https://www.scotsman.com/sport/football/scottish-football-club-relegated-and-sinks-to-18-year-low-in-calamitous-scenes-8478364",
+      "category": "Sports",
+      "bullets": [
+        "Scottish football club Ross County was relegated on May 2, 2026, marking its lowest performance in 18 years.",
+        "The team faced a devastating defeat in Kirkcaldy, leading to fan outrage and calls for management changes.",
+        "This relegation could have financial repercussions, affecting player contracts and the club's future in the Scottish leagues."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:47:59 GMT",
+      "image": "https://www.scotsman.com/jpim-static/image/2026/05/01/21/36/21671316.jpeg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "One economist’s ‘radical idea’ to solve the biggest energy crisis in history: a reverse OPEC",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/feed/",
+      "link": "https://fortune.com/2026/05/01//?preview_id=4477572",
+      "category": "Business",
+      "bullets": [
+        "Economist Gregor Semieniuk proposed a 'reverse OPEC' to address the current global energy crisis, as reported on May 2, 2026.",
+        "He argues that the U.S. has the power to implement this radical idea, potentially reshaping global energy markets.",
+        "If adopted, this approach could stabilize energy prices and enhance U.S. energy independence amid rising global demand."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:46:00 +0000",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2272373188.jpg?w=2048"
+    },
+    {
       "title": "Graham Platner Got Everything He Wanted. Is That Good for Democrats’ Hopes of Retaking the Senate?",
       "source": "Slate",
       "sourceUrl": "https://slate.com/feeds/all.rss",
       "link": "https://slate.com/news-and-politics/2026/05/graham-platner-janet-mills-susan-collins-supreme-court.html",
       "category": "Politics",
       "bullets": [
-        "Democrats faced a setback in Maine's Senate primary as Graham Platner secured the nomination without any votes being cast.",
-        "This unexpected outcome raises questions about the party's strategy and ability to retake the Senate in upcoming elections.",
-        "The situation highlights the challenges Democrats face in mobilizing support and maintaining momentum ahead of the elections."
+        "In Maine, the Democratic primary for the Senate was effectively decided without a vote, favoring Graham Platner on May 2, 2026.",
+        "This outcome raises questions about the competitiveness of the Democratic Party in the upcoming elections.",
+        "The lack of a contested primary could impact voter enthusiasm and party unity as the general election approaches."
       ],
       "pubDate": "Sat, 02 May 2026 09:45:00 GMT",
       "image": "https://compote.slate.com/images/8f1716b5-7ace-4cd2-9694-5fcc37999ab8.jpeg?crop=1560%2C1041%2Cx0%2Cy0"
@@ -64,9 +708,9 @@
       "link": "https://www.scotsman.com/recommended/ecoflow-delta-classic-power-station-portable-battery-review-8476409",
       "category": "Tech",
       "bullets": [
-        "The EcoFlow Delta 3 Classic offers a cost-effective portable power solution, balancing performance and affordability for everyday users.",
-        "This model provides significant power output without the premium price tag, appealing to budget-conscious consumers.",
-        "Its release reflects a growing demand for accessible energy solutions in a market increasingly focused on sustainability."
+        "The EcoFlow Delta 3 Classic was reviewed on May 2, 2026, highlighting its affordability and power capabilities for everyday use.",
+        "This portable power solution offers significant savings compared to premium models, appealing to budget-conscious consumers.",
+        "Its positive reception could influence market trends in portable energy solutions, encouraging more competition in the sector."
       ],
       "pubDate": "Sat, 02 May 2026 09:40:31 GMT",
       "image": "https://www.scotsman.com/jpim-static/image/2026/05/01/13/33/ChatGPT-Image-May-1-2026-02_49_49-PM.png?width=1200&auto=webp&crop=3%3A2"
@@ -78,9 +722,9 @@
       "link": "https://abcnews.com/International/wireStory/humpback-whale-timmy-released-north-sea-after-weeks-132595651",
       "category": "Environment",
       "bullets": [
-        "A humpback whale named 'Timmy' was successfully released into the North Sea after being stranded near Germany since March.",
-        "Rescue teams worked tirelessly to free the whale, which had been trapped in shallow waters for weeks.",
-        "Timmy's release is a positive outcome for marine conservation efforts and highlights the importance of wildlife rescue operations."
+        "A humpback whale named 'Timmy' was successfully released into the North Sea on May 2, 2026, after being stranded since March.",
+        "Rescue teams worked tirelessly to free Timmy from shallow waters near Germany, drawing attention from marine conservationists.",
+        "This event highlights ongoing efforts to protect marine life and raises awareness about the challenges faced by stranded whales."
       ],
       "pubDate": "Sat, 02 May 2026 05:39:06 -0400",
       "image": "https://s.abcnews.com/images/International/wirestory_6e9e6b54a4c061314309a5b29c4666b7_16x9_1600.jpg"
@@ -92,9 +736,9 @@
       "link": "https://www.france24.com/en/tv-shows/sports/20260502-psg-return-ligue-1-action-four-days-after-epic-match-against-bayern",
       "category": "Sports",
       "bullets": [
-        "Paris Saint-Germain (PSG) returns to Ligue 1 action on May 2, 2026, facing Lorient after a dramatic match against Bayern Munich.",
-        "PSG, currently leading the league, must secure points to maintain their title lead over second-placed Lens, just six points behind.",
-        "The match is critical for PSG as they aim to solidify their position and avoid any slip-ups in the title race."
+        "PSG faces Lorient in Ligue 1 after a dramatic match against Bayern Munich on May 2, 2026, at Parc des Princes.",
+        "PSG leads the league but only by six points over Lens, making this match critical for title security.",
+        "The outcome could significantly impact PSG's title chances, as dropping points may allow Lens to close the gap."
       ],
       "pubDate": "Sat, 02 May 2026 09:37:36 GMT",
       "image": "https://s.france24.com/media/display/b3b02e2a-45bf-11f1-82da-005056a90284/w:1024/p:16x9/000-A3HU9MZ.jpg"
@@ -132,11 +776,11 @@
       "source": "Axios",
       "sourceUrl": "https://www.axios.com/feeds/feed.rss",
       "link": "https://www.axios.com/2026/05/02/ai-lawyers-law-firms-artificial-intelligence",
-      "category": "Culture",
+      "category": "Business",
       "bullets": [
-        "BiGDUG offers practical storage solutions to help organize cluttered sheds, enhancing space efficiency for users.",
-        "Their products aim to transform small outbuildings into smarter, more functional areas, appealing to DIY enthusiasts.",
-        "This initiative reflects a growing trend towards maximizing space and organization in home improvement projects."
+        "AI is disrupting entry-level positions in Big Law, threatening the training pipeline for future lawyers as of May 2, 2026.",
+        "The legal industry relies on junior associates for training; AI's rise could lead to a talent crisis in the profession.",
+        "Firms are now embedding lawyers' knowledge into AI systems, reshaping career paths and the future of legal practice."
       ],
       "pubDate": "Sat, 02 May 2026 09:30:06 +0000",
       "image": "https://images.axios.com/swZMz9h0_NpskqouSfZ26JtxVuY=/0x0:1920x1080/1366x768/2026/04/06/1775510080190.jpeg"
@@ -162,9 +806,9 @@
       "link": "https://www.ndtv.com/india-news/sandeep-pathak-who-switched-from-aap-to-bjp-faces-likely-arrest-in-punjab-11438396#publisher=newsstand",
       "category": "Politics",
       "bullets": [
-        "Sandeep Pathak, a former AAP MP, is untraceable as police prepare to arrest him in two cases, reported on May 2, 2026.",
-        "Pathak was one of seven AAP MPs who defected to the BJP, raising concerns about political stability in Delhi.",
-        "His disappearance complicates ongoing investigations and could impact the BJP's influence in the upcoming elections."
+        "Sandeep Pathak, a former AAP MP, is untraceable as authorities prepare to arrest him in two cases on May 2, 2026.",
+        "Pathak was one of seven AAP MPs who defected to the BJP, raising concerns about political loyalty and accountability.",
+        "His disappearance could escalate tensions within AAP and impact ongoing investigations into party defections."
       ],
       "pubDate": "Sat, 02 May 2026 14:59:55 +0530",
       "image": "https://c.ndtvimg.com/2026-05/e73uoi8_sandeep-pathak_625x300_02_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
@@ -176,9 +820,9 @@
       "link": "https://www.ndtv.com/india-news/video-iit-jodhpur-students-chase-water-tanker-amid-drinking-water-shortage-11438885#publisher=newsstand",
       "category": "Health",
       "bullets": [
-        "IIT Jodhpur students chased a water tanker amid a severe drinking water shortage, as seen in a viral video from May 2, 2026.",
-        "The footage shows students desperately trying to collect water, highlighting the critical water crisis affecting the campus.",
-        "This incident underscores the urgent need for improved water management and infrastructure in educational institutions."
+        "IIT Jodhpur students were filmed chasing a water tanker due to severe drinking water shortages on May 2, 2026.",
+        "The viral video highlights the dire situation, with students desperate to secure water for their daily needs.",
+        "This incident underscores the urgent need for improved water supply management in educational institutions."
       ],
       "pubDate": "Sat, 02 May 2026 14:58:55 +0530",
       "image": "https://c.ndtvimg.com/2026-05/od90ll0c_iit-jodhpur_625x300_02_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
@@ -216,11 +860,11 @@
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
       "link": "https://www.aljazeera.com/?t=1777710678",
-      "category": "Politics",
+      "category": "World",
       "bullets": [
-        "Japan's Minister Takaichi signed six cooperation agreements with Vietnam in Hanoi on May 2, 2026, covering various sectors.",
-        "Agreements include collaborations in technology, agriculture, and space, aiming to strengthen bilateral ties and economic growth.",
-        "This partnership reflects Japan's strategic interests in Southeast Asia, enhancing regional stability and development."
+        "Japan's Minister Takaichi signed six cooperation agreements with Vietnam in Hanoi on May 2, 2026, focusing on energy and technology.",
+        "The agreements aim to enhance bilateral ties, particularly in energy security and agricultural technology development.",
+        "This partnership is crucial for Japan as it seeks to diversify energy sources amid regional geopolitical tensions."
       ],
       "pubDate": "Sat, 02 May 2026 09:16:49 +0000",
       "image": "https://www.aljazeera.com/images/logo_aje_social.png"
@@ -246,9 +890,9 @@
       "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
       "category": "Business",
       "bullets": [
-        "A MarketWatch article on May 2, 2026, discusses potential earnings from investing Social Security in the S&P 500.",
-        "The analysis suggests that an investment could yield $4 million, raising questions about the effectiveness of the current system.",
-        "This debate highlights the need for reform in Social Security to ensure better financial outcomes for future retirees."
+        "An analysis reveals that investing Social Security contributions in the S&P 500 could yield $4 million, raising concerns about the system's viability.",
+        "The commentary highlights disparities in retirement savings, with some individuals benefiting significantly from higher contributions.",
+        "This discussion may prompt policymakers to reconsider Social Security's structure and investment strategies for future sustainability."
       ],
       "pubDate": "Sat, 02 May 2026 09:14:00 GMT",
       "image": "https://images.mktw.net/im-06454902"
@@ -260,9 +904,9 @@
       "link": "https://qz.com/best-rhine-river-cruises-2026-us-news",
       "category": "Culture",
       "bullets": [
-        "U.S. News ranked the best Rhine River cruises for 2026, with Viking and AmaWaterways topping the list on May 2, 2026.",
-        "The rankings feature eight cruises, showcasing scenic routes from Amsterdam to Basel, appealing to travelers seeking unique experiences.",
-        "These rankings are crucial for travelers planning their vacations, influencing choices in the competitive cruise market."
+        "U.S. News ranked the best Rhine River cruises for 2026, with Viking and AmaWaterways leading the list as of May 2, 2026.",
+        "These cruises offer scenic views from Amsterdam to Basel, catering to travelers seeking unique European experiences.",
+        "The rankings could influence travel decisions, boosting tourism along the Rhine River and benefiting local economies."
       ],
       "pubDate": "Sat, 02 May 2026 09:12:05 GMT",
       "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2263998705.jpg"
@@ -274,9 +918,9 @@
       "link": "https://qz.com/best-worst-entry-level-jobs-2026",
       "category": "Business",
       "bullets": [
-        "WalletHub ranked 108 entry-level jobs for new graduates in 2026, revealing disparities in job quality, published on May 2, 2026.",
-        "The analysis identifies which careers offer the best opportunities and which ones fall short, guiding graduates in their job search.",
-        "This information is vital for new graduates to make informed career decisions in a challenging job market."
+        "WalletHub ranked 108 entry-level jobs for new graduates in 2026, revealing significant disparities in salary and growth potential.",
+        "The analysis highlights which careers offer the best financial rewards and job satisfaction for recent graduates.",
+        "This information is vital for graduates making career choices in a competitive job market."
       ],
       "pubDate": "Sat, 02 May 2026 09:11:50 GMT",
       "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1448502341.jpg"
@@ -316,9 +960,9 @@
       "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo#0",
       "category": "Sports",
       "bullets": [
-        "Former F1 driver and Paralympic champion Alex Zanardi passed away at age 59 on May 2, 2026.",
-        "Zanardi was known for his inspiring comeback after a life-altering accident, winning multiple gold medals.",
-        "His death marks a significant loss in the motorsport and Paralympic communities, prompting tributes worldwide."
+        "Former F1 driver and Paralympic champion Alex Zanardi passed away at 59 on May 2, 2026, following health complications.",
+        "Zanardi was celebrated for his remarkable achievements in motorsport and adaptive sports, inspiring many worldwide.",
+        "His death marks a significant loss for the sports community, prompting tributes from fans and fellow athletes."
       ],
       "pubDate": "Sat, 02 May 2026 09:08:43 GMT",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edfd/live/22226c40-4608-11f1-8c0c-ab5033af5d80.jpg"
@@ -330,9 +974,9 @@
       "link": "https://www.cbc.ca/news/world/spirit-airlines-ceasing-operations-9.7185446?cmp=rss",
       "category": "Business",
       "bullets": [
-        "Spirit Airlines announced its shutdown on May 2, 2026, citing soaring fuel costs linked to the ongoing Middle East war.",
-        "The airline's closure affects over 10,000 employees and leaves thousands of passengers stranded.",
-        "This development highlights the volatile nature of the airline industry amid geopolitical tensions and rising operational costs."
+        "Spirit Airlines announced its shutdown on May 2, 2026, citing rising fuel costs linked to the ongoing Middle East conflict.",
+        "The airline's closure affects thousands of employees and disrupts travel plans for numerous passengers.",
+        "This development highlights the volatile nature of the airline industry, particularly in response to geopolitical events."
       ],
       "pubDate": "Sat, 02 May 2026 05:07:57 EDT",
       "image": "https://i.cbc.ca/ais/354bd4f2-30b4-4cfc-a119-37e52a7df08b,1776380861250/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29"
@@ -344,9 +988,9 @@
       "link": "https://www.rnz.co.nz/news/emergencies_local/594069/vehicle-crashes-into-house-in-central-auckland",
       "category": "World",
       "bullets": [
-        "Emergency services responded to a vehicle crash into a house in central Auckland on May 2, 2026.",
-        "No injuries were reported, but significant damage occurred to the property, prompting an investigation.",
-        "Authorities are assessing the cause of the crash, which raises concerns about road safety in residential areas."
+        "A vehicle crashed into a house in central Auckland on May 2, 2026, prompting emergency services to respond quickly.",
+        "No injuries were reported, but the impact caused significant damage to the property, with structural concerns raised by authorities.",
+        "Investigations are ongoing to determine the cause of the crash, highlighting ongoing issues with road safety in urban areas."
       ],
       "pubDate": "Sat, 02 May 2026 21:04:59 +1200",
       "image": "https://media.rnztools.nz/rnz/image/upload/s--mSRQxABb--/t_tohu-badge-facebook/v1752563653/4K47N62_0Z9A8963_jpg?_a=BACCd2AD"
@@ -366,14 +1010,42 @@
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3023x1700+284+1216/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F65%2Fb0fcadd740cc97ffcb0868203830%2F20260316-dsc6894-edit.jpg"
     },
     {
+      "title": "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
+      "source": "NYT",
+      "sourceUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "link": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html",
+      "category": "Politics",
+      "bullets": [
+        "Three Republican women are advocating for accountability among Congress members accused of sexual misconduct, aiming to expose more offenders.",
+        "They previously influenced the resignations of lawmakers, but the extent of their campaign remains uncertain and controversial.",
+        "This initiative could reshape the political landscape, affecting upcoming elections and the Republican Party's internal dynamics."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:01:48 +0000",
+      "image": "https://static01.nyt.com/images/2026/05/02/multimedia/02DC-GOPWOMEN-TOP-pvcz/02DC-GOPWOMEN-TOP-pvcz-mediumSquareAt3X-v2.jpg"
+    },
+    {
+      "title": "Trump’s Push for Electoral Retribution Heads to the Ballot Box",
+      "source": "NYT",
+      "sourceUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html",
+      "category": "Politics",
+      "bullets": [
+        "President Trump is pushing for electoral retribution against political rivals in his party during Republican primaries this May 2026.",
+        "He has endorsed challengers against incumbents, aiming to solidify his influence within the party and retaliate against dissenters.",
+        "The outcomes of these primaries could significantly impact party unity and Trump's political capital moving forward."
+      ],
+      "pubDate": "Sat, 02 May 2026 09:01:30 +0000",
+      "image": "https://static01.nyt.com/images/2026/05/02/multimedia/02pol-trump-retribution-tgjp/02pol-trump-retribution-tgjp-mediumSquareAt3X.jpg"
+    },
+    {
       "title": "Gordie Howe bridge deal not yet finalized but talks ‘promising,’ U.S. ambassador says",
       "source": "Global News",
       "sourceUrl": "https://globalnews.ca/feed/",
       "link": "https://globalnews.ca/?p=11827049",
       "category": "Politics",
       "bullets": [
-        "U.S. Ambassador Pete Hoekstra reported promising negotiations for the Gordie Howe bridge deal on May 2, 2026.",
-        "Talks involved key figures like Republican House Speaker Matt Hall and Democratic Governor Gretchen Whitmer.",
+        "U.S. Ambassador Pete Hoekstra reported promising talks regarding the Gordie Howe bridge deal with Michigan officials on May 2, 2026.",
+        "Negotiations involve Republican House Speaker Matt Hall and Democratic Governor Gretchen Whitmer, focusing on funding and construction timelines.",
         "Finalizing this deal is crucial for enhancing cross-border trade and transportation between the U.S. and Canada."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:58 +0000",
@@ -386,9 +1058,9 @@
       "link": "https://www.cnet.com/tech/home-entertainment/tvs-are-getting-brighter-we-tested-them-but-why-is-that-important/",
       "category": "Tech",
       "bullets": [
-        "CNET Labs reported an increase in TV brightness over recent years, raising concerns about viewer comfort.",
-        "New models are measuring brightness levels up to 1,500 nits, significantly higher than previous generations.",
-        "This trend may lead to consumer backlash and calls for regulations on display brightness in home entertainment."
+        "Recent measurements indicate that TV brightness has increased significantly over the past few years, as reported on May 2, 2026.",
+        "This trend is attributed to advancements in display technology, with some models exceeding 2,000 nits of brightness.",
+        "Consumers may need to adjust viewing environments to accommodate these brighter screens, impacting home entertainment setups."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:48 +0000",
       "image": "https://www.cnet.com/a/img/resize/0857efebdcebef48100de1e60834cc381b5393a0/hub/2026/04/28/9c4e6d67-302b-4f80-bc74-613c19358642/tv-labs-exclusive.png?auto=webp&fit=crop&height=614&width=1092"
@@ -400,9 +1072,9 @@
       "link": "https://www.washingtonpost.com/world/2026/05/02/ireland-daniel-kinahan-arrested-dubai/",
       "category": "World",
       "bullets": [
-        "Daniel Kinahan, a reputed cartel boss, was arrested in Dubai after a 10-year manhunt linked to a mob hit in Ireland.",
-        "Kinahan lived openly in luxury, evading capture until authorities apprehended him near the Burj Khalifa.",
-        "His arrest could lead to further investigations into organized crime networks operating across Europe and beyond."
+        "Daniel Kinahan, a reputed cartel boss, was arrested in Dubai after a 10-year manhunt, as reported on May 2, 2026.",
+        "He was apprehended near the Burj Khalifa, with Irish authorities confirming his involvement in organized crime and drug trafficking.",
+        "This arrest could lead to significant developments in international drug enforcement and organized crime investigations."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:43 +0000",
       "image": ""
@@ -442,9 +1114,9 @@
       "link": "https://www.japantimes.co.jp/article/640870/",
       "category": "Culture",
       "bullets": [
-        "Yuya Nakamura, a Fukuoka native, has been appointed as the new head chef at Maz, taking over from Santiago Fernandez.",
-        "Nakamura aims to blend Peruvian cuisine with Japanese influences, showcasing his unique culinary perspective.",
-        "His success could redefine the restaurant's identity and attract a diverse clientele interested in innovative fusion dishes."
+        "Chef Yuya Nakamura has taken over as head chef at Maz, focusing on Peruvian cuisine with a Japanese twist as of May 2, 2026.",
+        "He succeeds Santiago Fernandez, aiming to blend traditional flavors and techniques from both culinary cultures in his dishes.",
+        "This innovative approach could attract food enthusiasts and elevate the restaurant's profile in the competitive dining scene."
       ],
       "pubDate": "Sat, 02 May 2026 18:00:00 +0900",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/537557.jpg"
@@ -456,9 +1128,9 @@
       "link": "https://www.livescience.com/animals/cats/whats-the-difference-between-a-lion-and-a-tiger",
       "category": "Science",
       "bullets": [
-        "A recent article explores the differences between lions and tigers, highlighting their physical and behavioral traits.",
-        "Lions are social animals living in prides, while tigers are solitary hunters, showcasing distinct survival strategies.",
-        "Understanding these differences is crucial for conservation efforts and educating the public about wildlife."
+        "An article published on May 2, 2026, explores the differences between lions and tigers, highlighting their physical and behavioral traits.",
+        "Lions are social animals living in prides, while tigers are solitary, with distinct adaptations for their environments.",
+        "Understanding these differences is crucial for conservation efforts and educating the public about wildlife preservation."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/PASmtoHQ2weaEJ9JB9wuWm-1280-80.jpg"
@@ -470,9 +1142,9 @@
       "link": "https://www.creativebloq.com/art/were-not-machines-were-people-comic-artists-speak-out-on-ai",
       "category": "Culture",
       "bullets": [
-        "Comic artists at the Lake Como Comic Art Festival voiced concerns over AI's impact on their profession on May 2, 2026.",
-        "They emphasized the importance of human creativity, stating, 'We're not machines, we're people' during discussions.",
-        "This debate highlights ongoing tensions in the creative industry regarding the role of AI in art and storytelling."
+        "At the Lake Como Comic Art Festival, comic artists voiced concerns about the impact of AI on their industry on May 2, 2026.",
+        "They emphasized the importance of human creativity, stating, 'We're not machines, we're people,' during discussions on AI's role.",
+        "This dialogue reflects growing tensions in creative fields regarding technology's influence on artistic expression and job security."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/vYEQGU2CSMhpFpZakkFtSb-1280-80.jpg"
@@ -484,9 +1156,9 @@
       "link": "https://kffhealthnews.org/?p=2233479&preview=true&preview_id=2233479",
       "category": "Health",
       "bullets": [
-        "KFF Health News journalists recently discussed baby formula safety, estrogen patches, and post-cancer costs on various media outlets.",
-        "Their findings emphasize the need for improved safety standards and transparency in healthcare products and costs.",
-        "These discussions aim to inform the public and policymakers about critical health issues affecting families."
+        "KFF Health News journalists discussed baby formula safety, estrogen patches, and post-cancer costs in recent media appearances on May 2, 2026.",
+        "They highlighted ongoing concerns about formula shortages and the implications of hormone therapies for patients.",
+        "These discussions aim to inform the public and policymakers about critical health issues affecting various demographics."
       ],
       "pubDate": "Sat, 02 May 2026 09:00:00 +0000",
       "image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2023/04/2023_kffhealthnews-on-air_weekly.jpg"
@@ -566,11 +1238,9 @@
       "source": "ABC Australia",
       "sourceUrl": "https://www.abc.net.au/news/feed/2942460/rss.xml",
       "link": "https://www.abc.net.au/news/2026-05-02/chris-fagan-brisbane-lions-whiteboard-leak/106634834",
-      "category": "Sports",
+      "category": "World",
       "bullets": [
-        "Brisbane Lions coach Chris Fagan criticized a parent for leaking confidential notes on Essendon players on May 2, 2026.",
-        "Fagan expressed disappointment over the breach, emphasizing the importance of confidentiality in team strategies and player assessments.",
-        "This incident raises concerns about trust within the team and could impact player performance and team dynamics moving forward."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 08:36:38 +0000",
       "image": "https://live-production.wcms.abc-cdn.net.au/04cc373101d9089d8a8bb03be9e9d45e?impolicy=wcms_watermark_news&amp;cropH=401&amp;cropW=714&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485&amp;imformat=generic"
@@ -622,11 +1292,9 @@
       "source": "France 24",
       "sourceUrl": "https://www.france24.com/en/rss",
       "link": "https://www.france24.com/en/oscars-bans-ai-actors-and-writers",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "The Academy of Motion Picture Arts and Sciences announced new rules banning AI actors and writers from Oscar eligibility.",
-        "This decision addresses concerns raised during the 2023 Writers Guild of America strike regarding AI's role in filmmaking.",
-        "The ban reflects the industry's commitment to protecting human creativity and may influence future AI regulations in entertainment."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 08:18:05 GMT",
       "image": "https://s.france24.com/media/display/b6a93e20-45fe-11f1-84c1-005056a97e36/w:1024/p:16x9/EN-20260502-092452-092624-CS.jpg"
@@ -734,11 +1402,9 @@
       "source": "ABC News",
       "sourceUrl": "https://abcnews.go.com/abcnews/topstories",
       "link": "https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357",
-      "category": "Business",
+      "category": "World",
       "bullets": [
-        "Spirit Airlines announced an immediate wind-down of operations, stranding travelers and canceling all flights.",
-        "The airline's financial struggles culminated in two bankruptcies and a failed rescue plan, leading to its closure.",
-        "This event raises questions about the future of budget airlines and the stability of the aviation market."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 04:09:06 -0400",
       "image": "https://s.abcnews.com/images/GMA/spirit-airlines-1-gty-jef-260501_1777648914328_hpMain_16x9_1600.jpg"
@@ -1188,11 +1854,9 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/feed/",
       "link": "https://techcrunch.com/?p=3118602",
-      "category": "Tech",
+      "category": "World",
       "bullets": [
-        "Uber's CTO Praveen Neppalli Naga announced plans to utilize its millions of drivers as a sensor grid for self-driving technology in San Francisco on May 1.",
-        "This initiative builds on the AV Labs program launched in January, aiming to enhance data collection for autonomous vehicles.",
-        "The project could significantly improve self-driving algorithms, potentially leading to safer and more efficient transportation solutions."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 06:36:28 +0000",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259104536.jpg?resize=1200,800"
@@ -1218,9 +1882,7 @@
       "link": "https://www.theguardian.com/world/2026/may/02/gaza-flotilla-australian-activists-released-crete-allege-mistreatment-by-israel-ntwnfb",
       "category": "World",
       "bullets": [
-        "Three Australian activists, Ethan Floyd, Neve O'Connor, and Zack Schofield, began a hunger strike in Crete after being released by Israeli forces on May 1.",
-        "They were part of 175 activists intercepted while attempting to deliver aid to Gaza, alleging mistreatment during their detention.",
-        "Their protest highlights ongoing tensions in the region and raises awareness about humanitarian issues related to the Gaza blockade."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 06:33:36 GMT",
       "image": "https://i.guim.co.uk/img/media/4a66fd3ca2876142b75f699a761c9ac1ff52d5fa/647_0_1515_1212/master/1515.jpg?width=700&quality=85&auto=format&fit=max&s=2cdfc396c12dba9256cd4ab103c808cf"
@@ -1314,11 +1976,9 @@
       "source": "Destructoid",
       "sourceUrl": "https://www.destructoid.com/feed/",
       "link": "https://www.destructoid.com/?p=1110985",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "NBA 2K26 has released 29 episodes of 2KTV, featuring quizzes that players can answer for in-game rewards as of May 1.",
-        "Players can earn virtual currency (VC) by correctly answering questions, enhancing their gaming experience and progression.",
-        "This interactive feature encourages player engagement and could boost sales of in-game purchases as players seek to maximize rewards."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 06:19:51 +0000",
       "image": "https://www.destructoid.com/wp-content/uploads/2025/08/ss_dc8acb92de608bd8e4468aee8cb64db7eed61027.1920x1080-2.jpg"
@@ -1384,11 +2044,9 @@
       "source": "Variety",
       "sourceUrl": "https://variety.com/feed/",
       "link": "https://variety.com/?p=1236735970",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "Post Malone announced the cancellation of the first few weeks of his 'Big Ass Stadium Tour' on May 1 to focus on completing his new album.",
-        "The tour, featuring Jelly Roll, was set to begin soon, but Malone stated, 'We ain't ready for tour just yet.'",
-        "This decision may impact ticket sales and fan expectations, as he prioritizes album quality over immediate touring."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 06:05:50 +0000",
       "image": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2233295066_31b2d2.jpg"
@@ -1398,11 +2056,9 @@
       "source": "The Guardian",
       "sourceUrl": "https://www.theguardian.com/world/rss",
       "link": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
-      "category": "Health",
+      "category": "World",
       "bullets": [
-        "The World Health Organization approved Coartem Baby, the first malaria drug for infants, on May 1, marking a significant public health advancement.",
-        "Malaria affects up to 18% of infants in parts of Africa, with 610,000 deaths reported in 2024, primarily among children under five.",
-        "This approval could drastically reduce infant mortality rates from malaria, improving health outcomes in vulnerable populations."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 06:00:18 GMT",
       "image": "https://i.guim.co.uk/img/media/d96baef46133aea7b12e2018eaac1a46ca7faa2a/0_1412_3863_3091/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=694aa33fd7bbdbf4d2ac3ab8243d7282"
@@ -1454,11 +2110,9 @@
       "source": "RFI",
       "sourceUrl": "https://www.rfi.fr/en/rss",
       "link": "https://www.rfi.fr/en/international/20260502-iran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war",
-      "category": "Politics",
+      "category": "World",
       "bullets": [
-        "President Donald Trump faces a prolonged standoff with Iran over two months into a conflict that has yielded no clear victories as of May 1.",
-        "The ongoing situation risks exacerbating tensions and complicating U.S. foreign policy, with no diplomatic resolution in sight.",
-        "Failure to resolve this conflict could leave Trump in a politically vulnerable position, impacting his administration's credibility."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 05:48:07 GMT",
       "image": "https://s.rfi.fr/media/display/568b2bda-45e9-11f1-896f-005056a97e36/w:1024/p:16x9/2026-05-02-RTRMADP-IRAN-CRISIS-TRUMP-STANDOFF.jpg"
@@ -1554,9 +2208,9 @@
       "link": "https://www.bbc.com/sport/football/articles/c0rx21dj1q7o#0",
       "category": "Sports",
       "bullets": [
-        "Elliot Anderson, Nottingham Forest midfielder, discussed his growth as a leader in an interview on May 2, 2026.",
-        "He expressed overcoming personal challenges, stating, 'I had to step up for my teammates and the club.'",
-        "Anderson's leadership could be crucial for Nottingham Forest as they aim for promotion in the upcoming season."
+        "Elliot Anderson, Nottingham Forest midfielder, discusses his growth as a leader in an interview on May 2, 2026.",
+        "Anderson shared his journey of overcoming shyness, stating, 'I had to step up for my teammates.'",
+        "His leadership is crucial as Nottingham Forest aims for a strong finish in the current season."
       ],
       "pubDate": "Sat, 02 May 2026 05:15:35 GMT",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca59/live/54c77b00-398c-11f1-879d-1b2f5c3919b8.jpg"
@@ -1594,11 +2248,11 @@
       "source": "BBC News",
       "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
       "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o#0",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "British Jews are reconsidering their Shabbat observance following the Golders Green attack, with some opting for discretion on May 1.",
-        "Individuals expressed concerns about safety, with one stating, 'I bought a baseball cap to hide my kippah' to avoid potential harassment.",
-        "This reflects growing anxiety within the community regarding anti-Semitic incidents and their impact on religious practices."
+        "British Jews are reconsidering their Shabbat routines following the Golders Green attack on April 29, 2026.",
+        "Many expressed concerns about safety, with one stating, 'I bought a baseball cap to hide my kippah.'",
+        "This incident has heightened tensions within the community, prompting discussions on security measures."
       ],
       "pubDate": "Sat, 02 May 2026 05:00:19 GMT",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63db/live/340cde60-4543-11f1-be1a-bdd45fc37339.jpg"
@@ -1618,29 +2272,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8410/live/97a06370-457f-11f1-806d-8d4b5ff877ff.jpg"
     },
     {
-      "title": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
-      "source": "BBC News",
-      "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
-      "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo#0",
-      "category": "Politics",
-      "bullets": [
-        "The UK Prime Minister suggested a potential halt to pro-Palestinian protests, expressing concern over their impact on the Jewish community on May 1.",
-        "He noted the 'cumulative' effect of these marches, indicating a need for balance between free expression and community safety.",
-        "This statement may lead to increased scrutiny of protest activities and could influence public discourse on the Israel-Palestine conflict."
-      ],
-      "pubDate": "Sat, 02 May 2026 05:00:13 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a58/live/40ab4c50-45f8-11f1-849c-31633e0e0c7e.jpg"
-    },
-    {
       "title": "MacSharry defends intervention in case of developer jailed for assault on three boys",
       "source": "Irish Times",
       "sourceUrl": "https://www.irishtimes.com/cmlink/the-irish-times-news-1.1319192",
       "link": "https://www.irishtimes.com/crime-law/courts/2026/05/02/macsharry-defends-intervention-in-case-of-property-developer-jailed-for-shocking-assault-on-three-young-boys/",
       "category": "Politics",
       "bullets": [
-        "Former Fianna Fáil TD MacSharry defended his intervention on behalf of developer Cathal O'Connor, who was jailed for assaulting three boys on May 1.",
-        "MacSharry's testimonial praised O'Connor's 'impeccable record as a law-abiding citizen,' sparking controversy over the nature of his support.",
-        "This defense raises questions about accountability and the implications of political endorsements in cases of serious criminal behavior."
+        "Former Fianna Fáil TD, Marc MacSharry, defended developer Cathal O'Connor, jailed for assaulting three boys.",
+        "MacSharry's testimonial claimed O'Connor had an 'impeccable record as a law-abiding citizen' before the incident.",
+        "This defense has sparked controversy, raising questions about accountability in cases of sexual assault."
       ],
       "pubDate": "Sat, 02 May 2026 05:00:01 +0000",
       "image": "https://www.irishtimes.com/resizer/v2/PPH2D7Y6SJSCRCMHVO2N5FQTGA.jpg?auth=c12beddc2319f6b43a860d603c616354b1728c2b49a7954c584304a5c9087474&smart=true&width=630&height=350"
@@ -1678,11 +2318,11 @@
       "source": "GameSpot",
       "sourceUrl": "https://www.gamespot.com/feeds/mashup/",
       "link": "https://www.gamespot.com/articles/two-crossovers-in-one-character-fatal-furys-next-dlc-explained/1100-6539752/?ftag=CAD-01-10abi2f",
-      "category": "Culture",
+      "category": "Tech",
       "bullets": [
         "SNK announced Mr. Karate as the next DLC character for Fatal Fury: City of the Wolves during Evo Japan on May 1, 2026.",
-        "Kenshiro from Fist of the North Star will be the final DLC character in June, leaving Mr. Karate to fill May's slot.",
-        "This crossover adds excitement to the game, enhancing its appeal and potentially boosting sales ahead of the June release."
+        "This character is a new version of Mr. Karate from the Art of Fighting series, adding fresh gameplay dynamics.",
+        "The DLC is set to release in May, generating excitement among fans for the upcoming content."
       ],
       "pubDate": "Fri, 01 May 2026 22:00:00 -0700",
       "image": "https://www.gamespot.com/a/uploads/screen_medium/3/37852/4691357-ss05.jpg"
@@ -1772,6 +2412,20 @@
       "image": "https://live-production.wcms.abc-cdn.net.au/0654f9c66fa09e870e31aeef170bd159?impolicy=wcms_watermark_news&amp;cropH=2024&amp;cropW=3599&amp;xPos=0&amp;yPos=187&amp;width=862&amp;height=485&amp;imformat=generic"
     },
     {
+      "title": "Live: Ramsey returns for Roosters after four-year absence with illness",
+      "source": "ABC Australia",
+      "sourceUrl": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "link": "https://www.abc.net.au/news/2026-05-02/nrl-live-titans-raiders-eels-warriors-roosters-broncos/106634596",
+      "category": "Sports",
+      "bullets": [
+        "Cody Ramsey returned to the NRL with the Roosters on May 2, 2026, after a four-year absence due to illness.",
+        "His comeback coincided with the Broncos welcoming back Reece Walsh and Pat Carrigan, enhancing the match's competitiveness.",
+        "Ramsey's return is seen as a pivotal moment for the Roosters as they strive for playoff contention."
+      ],
+      "pubDate": "Sat, 02 May 2026 04:44:06 +0000",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0007773b5bf03c61cfb8bf72030bf9e4?impolicy=wcms_watermark_news&amp;cropH=769&amp;cropW=1368&amp;xPos=49&amp;yPos=49&amp;width=862&amp;height=485&amp;imformat=generic"
+    },
+    {
       "title": "Most Irish companies say AI won’t hit their staff numbers",
       "source": "Irish Times",
       "sourceUrl": "https://www.irishtimes.com/cmlink/the-irish-times-news-1.1319192",
@@ -1834,9 +2488,9 @@
       "link": "https://timesofindia.indiatimes.com/city/bhopal/mp-boat-tragedy-how-labourers-risked-lives-formed-human-chain-and-saved-dozens-of-lives/articleshow/130709869.cms",
       "category": "World",
       "bullets": [
-        "Construction workers near Bargi Dam formed a human chain to rescue over a dozen tourists from a capsized cruise vessel on May 2, 2026.",
-        "These laborers, lacking safety gear, acted heroically, saving lives before professional rescuers arrived, earning state recognition.",
-        "Their bravery underscores the importance of safety measures and the need for better training in emergency situations."
+        "Construction workers near Bargi Dam saved over a dozen tourists from a capsized cruise vessel on May 2, 2026.",
+        "They formed human chains and used ropes, risking their lives without safety gear, earning state recognition.",
+        "This heroic act highlights the importance of community resilience and the need for improved safety regulations."
       ],
       "pubDate": "Sat, 02 May 2026 09:58:03 +0530",
       "image": "https://static.toiimg.com/photo/msid-130709939,imgsize-55066.cms"
@@ -2002,9 +2656,9 @@
       "link": "https://variety.com/?p=1236732381",
       "category": "Sports",
       "bullets": [
-        "Naoya Inoue will face Junto Nakatani in a 12-round title bout for the undisputed super bantamweight championship on May 2, 2026.",
-        "Inoue's IBF, WBC, and WBO titles are at stake, making this match crucial for both fighters' careers.",
-        "The outcome could redefine the super bantamweight division and elevate the winner's status in boxing."
+        "Naoya Inoue and Junto Nakatani will face off for the undisputed super bantamweight championship on May 2, 2026.",
+        "Inoue's IBF, WBC, and WBO titles are at stake in this highly anticipated 12-round boxing match.",
+        "The outcome could solidify Inoue's status as one of the top pound-for-pound fighters in the world."
       ],
       "pubDate": "Sat, 02 May 2026 04:00:00 +0000",
       "image": "https://variety.com/wp-content/uploads/2026/05/Boxing-Naoya-Inoue-Getty-VR-Featured.jpg"
@@ -2038,20 +2692,6 @@
       "image": "https://static.independent.co.uk/2026/05/01/22/20/GettyImages-2273100812.jpg?width=1200&auto=webp&trim=0%2C2%2C0%2C1"
     },
     {
-      "title": "NZer in flotilla intercepted by Israel has concussion and possible broken rib, wife says",
-      "source": "RNZ",
-      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
-      "link": "https://www.rnz.co.nz/news/political/594051/nzer-in-flotilla-intercepted-by-israel-has-concussion-and-possible-broken-rib-wife-says",
-      "category": "World",
-      "bullets": [
-        "Jay O'Connor, part of a flotilla intercepted by Israel, suffered a concussion and possible broken rib on May 2, 2026.",
-        "His wife reported the injuries after nearly 180 people disembarked on Crete, raising concerns about the flotilla's safety.",
-        "This incident highlights ongoing tensions in the region and the risks faced by activists challenging Israeli policies."
-      ],
-      "pubDate": "Sat, 02 May 2026 15:47:00 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--RY6YhDYp--/t_tohu-badge-facebook/v1777529752/4JPCMLM_Flotilla_png?_a=BACCd2AD"
-    },
-    {
       "title": "May Day, 140 years later: Distress calls become more desperate, By Owei Lakemfa",
       "source": "Premium Times",
       "sourceUrl": "https://www.premiumtimesng.com/feed",
@@ -2073,8 +2713,8 @@
       "category": "Politics",
       "bullets": [
         "Argentina's trade unionism has roots dating back to 1878, predating May Day as International Workers Day.",
-        "The significance of May Day as a protest occasion stems from the Chicago general strike of 1886, highlighting labor struggles.",
-        "This historical context emphasizes the ongoing importance of labor rights and worker solidarity in Argentina."
+        "The movement gained momentum from the Chicago general strike of 1886, influencing labor rights globally.",
+        "This historical context emphasizes the ongoing struggle for workers' rights and the significance of May Day."
       ],
       "pubDate": "Sat, 02 May 2026 03:37:00 GMT",
       "image": "https://fotos.perfil.com/2026/04/30/trim/540/304/organised-labour-in-argentina-cgt-stock-2231640.jpg"
@@ -2086,9 +2726,9 @@
       "link": "https://www.batimes.com.ar/news/opinion-and-analysis/when-political-rhetoric-boils-over.phtml",
       "category": "Politics",
       "bullets": [
-        "Political rhetoric in the U.S. is escalating, with concerns that it may lead to civil unrest similar to the 1960s.",
-        "The article emphasizes the need for leaders, particularly Trump, to moderate their language to prevent further division.",
-        "This situation reflects broader societal tensions and the potential for political violence if rhetoric remains unchecked."
+        "Concerns are rising in the US about political rhetoric, particularly from leaders like Donald Trump, as of May 2, 2026.",
+        "Analysts warn that escalating tensions could lead to unrest reminiscent of the 1960s civil rights era.",
+        "Calls for leaders to tone down their rhetoric are increasing to prevent further polarization in society."
       ],
       "pubDate": "Sat, 02 May 2026 03:35:00 GMT",
       "image": "https://fotos.perfil.com/2026/04/30/trim/540/304/trump-mouth-art-2231638.jpg"
@@ -2176,6 +2816,20 @@
       ],
       "pubDate": "Sat, 02 May 2026 02:55:01 +0000",
       "image": ""
+    },
+    {
+      "title": "DC Universe Infinite: Pricing, Plans, and More",
+      "source": "HackerNoon",
+      "sourceUrl": "https://hackernoon.com/feed",
+      "link": "https://hackernoon.com/dc-universe-infinite-pricing-plans-and-more?source=rss",
+      "category": "Tech",
+      "bullets": [
+        "DC Universe Infinite offers three subscription plans: Free, Standard, and Ultra, as of May 2, 2026.",
+        "The platform caters to both casual and hardcore fans, providing access to a vast library of comics.",
+        "This pricing strategy aims to attract a diverse audience and enhance user engagement with DC content."
+      ],
+      "pubDate": "Sat, 02 May 2026 02:33:05 GMT",
+      "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ma83bue.png"
     },
     {
       "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
@@ -2286,6 +2940,18 @@
       ],
       "pubDate": "Sat, 02 May 2026 02:04:17 +0000",
       "image": "https://live-production.wcms.abc-cdn.net.au/04cc373101d9089d8a8bb03be9e9d45e?impolicy=wcms_watermark_news&amp;cropH=401&amp;cropW=714&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485&amp;imformat=generic"
+    },
+    {
+      "title": "500 Blog Posts To Learn About Data Science",
+      "source": "HackerNoon",
+      "sourceUrl": "https://hackernoon.com/feed",
+      "link": "https://hackernoon.com/500-blog-posts-to-learn-about-data-science?source=rss",
+      "category": "World",
+      "bullets": [
+        "Summary unavailable"
+      ],
+      "pubDate": "Sat, 02 May 2026 02:00:41 GMT",
+      "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/github/data-science-992.png"
     },
     {
       "title": "Conceptual art offers glimpse inside architects’ minds",
@@ -2744,18 +3410,6 @@
       ],
       "pubDate": "Sat, 02 May 2026 00:05:25 +0000",
       "image": "https://www.digitaltrends.com/tachyon/2024/10/M4-Mac-mini-5.jpg?resize=440%2C292"
-    },
-    {
-      "title": "Trump to downsize U.S. military presence in Germany",
-      "source": "Washington Post",
-      "sourceUrl": "https://feeds.washingtonpost.com/rss/world",
-      "link": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 00:03:49 +0000",
-      "image": ""
     },
     {
       "title": "Queensland sovereign citizen known as ‘His Serene Highness’ loses appeal for return of gun licence",
@@ -3278,9 +3932,9 @@
       "link": "https://kotaku.com/?p=2000692553",
       "category": "Business",
       "bullets": [
-        "GameStop is reportedly pursuing the acquisition of eBay, aiming to diversify its business amid declining video game sales.",
-        "The deal could significantly impact GameStop's financial strategy, as it seeks to leverage eBay's vast marketplace.",
-        "If successful, this acquisition could reshape GameStop's future and enhance its competitive edge in retail."
+        "GameStop is reportedly attempting to acquire eBay as part of its strategy to revitalize its struggling business, announced on May 1, 2026.",
+        "The acquisition aims to leverage eBay's online marketplace, potentially increasing GameStop's revenue streams amid declining physical game sales.",
+        "If successful, this move could reshape GameStop's business model, enhancing its competitiveness in the evolving gaming industry."
       ],
       "pubDate": "Fri, 01 May 2026 22:59:09 +0000",
       "image": "https://kotaku.com/app/uploads/2025/11/gamestop-1280x720.jpg"
@@ -3292,9 +3946,9 @@
       "link": "https://www.pbs.org/newshour/show/trump-rejects-irans-latest-proposal-as-he-reviews-new-military-options-to-relaunch-war",
       "category": "Politics",
       "bullets": [
-        "President Trump has rejected Iran's latest proposal amid ongoing military operations, marking 60 days since the war began.",
-        "The administration claims it does not need congressional approval to continue military actions, citing a ceasefire declaration.",
-        "This decision raises concerns about U.S. military engagement and its implications for international relations with Iran."
+        "On May 1, 2026, Trump rejected Iran's proposal for peace, while reviewing military options to escalate the ongoing conflict.",
+        "The Trump administration claims it doesn't need congressional approval for military action, citing a legal loophole regarding the war's status.",
+        "This decision could lead to increased tensions in the Middle East, impacting U.S. relations with Iran and regional allies."
       ],
       "pubDate": "Fri, 01 May 2026 18:55:40 -0400",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/WarwithIran-1024x683.jpg"
@@ -3334,9 +3988,9 @@
       "link": "https://consequence.net/?p=1585035",
       "category": "Culture",
       "bullets": [
-        "Meryl Streep criticized modern films for being 'Marvel-ized,' claiming they lack the depth of earlier cinema.",
-        "Her comments come as she stars in 'The Devil Wears Prada 2,' highlighting her return to complex characters.",
-        "Streep's critique reflects broader industry concerns about creativity and originality in contemporary filmmaking."
+        "Meryl Streep criticized modern films for being 'Marvel-ized' during a press event for The Devil Wears Prada 2, released on May 1, 2026.",
+        "She expressed that the current film landscape lacks creativity, with many movies following a formulaic approach to storytelling.",
+        "Streep's comments may influence industry discussions on creativity and originality in filmmaking, especially in the age of franchises."
       ],
       "pubDate": "Fri, 01 May 2026 22:51:46 +0000",
       "image": "https://consequence.net/wp-content/uploads/2026/05/meryl-streep-new.jpg?quality=80"
@@ -3362,9 +4016,9 @@
       "link": "https://www.pbs.org/newshour/show/new-video-of-correspondents-dinner-shooting-raises-questions-about-presidential-security",
       "category": "Politics",
       "bullets": [
-        "Newly released video shows an armed man breaching security at the White House Correspondents' Dinner, raising alarms.",
-        "The incident has prompted scrutiny of presidential security protocols at high-profile events, with potential policy implications.",
-        "This event could lead to increased security measures at future gatherings to protect public figures."
+        "The Justice Department released video footage of an armed man breaching security at the White House Correspondents' Dinner on May 1, 2026.",
+        "The incident has raised serious concerns about presidential security, with experts calling for immediate reviews of event protocols.",
+        "This event could lead to stricter security measures at high-profile public gatherings, impacting future press events and public access."
       ],
       "pubDate": "Fri, 01 May 2026 18:50:16 -0400",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/AssassinationAttempt-1024x683.jpg"
@@ -3376,9 +4030,9 @@
       "link": "https://www.nbcnews.com/nightly-news/video/spirit-airlines-could-shut-down-by-saturday-262565957616",
       "category": "Business",
       "bullets": [
-        "Spirit Airlines is on the brink of shutting down operations by Saturday, affecting thousands of travelers.",
-        "The airline's collapse would significantly impact the budget travel sector and disrupt travel plans for many customers.",
-        "Immediate consequences include potential flight cancellations and increased demand for alternative travel options."
+        "Spirit Airlines is on the brink of shutting down operations by May 3, 2026, due to severe financial difficulties.",
+        "The airline's collapse would affect thousands of travelers and disrupt the airline industry, leading to potential fare increases across carriers.",
+        "Regulatory bodies may need to intervene to manage the fallout and protect consumers, highlighting vulnerabilities in the budget airline sector."
       ],
       "pubDate": "Fri, 01 May 2026 22:48:24 GMT",
       "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nn_bch_spirit_airlines_260501/1/abs/index.m3u8"
@@ -3390,9 +4044,9 @@
       "link": "https://www.androidcentral.com/apps-software/you-no-longer-have-to-pay-for-geminis-smartest-organization-tool",
       "category": "Tech",
       "bullets": [
-        "Google has made Gemini's Notebooks free for all mobile users, enhancing accessibility for research organization.",
-        "This move allows users to manage projects without cost, potentially increasing Gemini's user base and engagement.",
-        "The decision reflects Google's strategy to compete in the productivity tools market against other tech giants."
+        "Google has made Gemini's Notebooks free for all mobile users, announced on May 1, 2026, enhancing productivity tools for research.",
+        "This move allows users to organize projects without subscription fees, potentially increasing Gemini's user base significantly.",
+        "The decision reflects Google's strategy to compete with other productivity apps, aiming to capture a larger share of the market."
       ],
       "pubDate": "Fri, 01 May 2026 22:47:19 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/QUuejB6p5fokJUFyse3swb-1280-80.jpg"
@@ -3432,9 +4086,9 @@
       "link": "https://www.macrumors.com/2026/05/01/macbook-ultra-rumor-recap/",
       "category": "Tech",
       "bullets": [
-        "Apple's latest MacBook Pro models feature M5 Pro and M5 Max chips, but users may want to wait for upcoming designs.",
-        "Rumors suggest a new MacBook Pro with an OLED display and improved performance is expected in late 2026 or early 2027.",
-        "This potential upgrade could significantly enhance user experience, making current models less appealing to buyers."
+        "Apple's latest MacBook Pro models, featuring M5 Pro and M5 Max chips, were released in March 2026, but consumers are advised to wait.",
+        "Rumors suggest a redesigned MacBook Pro with OLED displays and improved performance will launch in late 2026 or early 2027.",
+        "Waiting for the next generation could provide buyers with better technology, impacting sales of the current models."
       ],
       "pubDate": "Fri, 01 May 2026 15:43:16 PDT",
       "image": "https://images.macrumors.com/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg"
@@ -3444,11 +4098,11 @@
       "source": "RFI",
       "sourceUrl": "https://www.rfi.fr/en/rss",
       "link": "https://www.rfi.fr/en/international/20260501-us-to-withdraw-about-5-000-troops-from-germany",
-      "category": "World",
+      "category": "Politics",
       "bullets": [
-        "The U.S. plans to withdraw approximately 5,000 troops from Germany within the next year, as announced by Defense Secretary Pete Hegseth.",
-        "This decision reflects ongoing tensions in transatlantic relations, particularly regarding the Mideast conflict.",
-        "The troop reduction could alter the U.S. military presence in Europe and impact NATO dynamics."
+        "The U.S. plans to withdraw approximately 5,000 troops from Germany within the next year, announced by Defense Secretary Pete Hegseth on May 1, 2026.",
+        "This decision reflects growing tensions in transatlantic relations, particularly concerning the ongoing conflict in the Middle East.",
+        "The troop reduction could alter NATO dynamics and U.S. military presence in Europe, affecting regional security strategies."
       ],
       "pubDate": "Fri, 01 May 2026 22:42:13 GMT",
       "image": "https://s.rfi.fr/media/display/fe61f09a-45ae-11f1-99c0-005056a97e36/w:1024/p:16x9/Part-GTY-2273738036-1-1-1.jpg"
@@ -3530,9 +4184,9 @@
       "link": "https://www.inverse.com/shopping/things-for-your-home-that-are-legitimately-amazing",
       "category": "Culture",
       "bullets": [
-        "A list of 75 home items under $25 has been released, showcasing affordable solutions for home organization and upgrades.",
-        "Each product is designed to solve common household problems, making them appealing to budget-conscious consumers.",
-        "This guide aims to help individuals enhance their living spaces without overspending, promoting smart shopping."
+        "A list of 75 innovative home products under $25 was published on May 1, 2026, showcasing affordable solutions for everyday problems.",
+        "These items are designed to enhance organization and functionality in homes, appealing to budget-conscious consumers.",
+        "The popularity of such products may drive trends in home improvement, influencing consumer behavior in the retail market."
       ],
       "pubDate": "Fri, 01 May 2026 22:31:44 GMT",
       "image": "https://imgix.bustle.com/uploads/image/2026/3/3/30fe6acc/8.webp?w=1200&fit=max"
@@ -3628,9 +4282,9 @@
       "link": "https://kotaku.com/?p=2000692550",
       "category": "Tech",
       "bullets": [
-        "Imagine Dragons' lead singer announced reduced support for Last Flag, an online shooter, just three weeks post-launch on May 1, 2026.",
-        "The game's player count is reportedly low, prompting the team to limit new content and support efforts moving forward.",
-        "This decision may impact player retention and the game's long-term viability in a competitive market."
+        "Imagine Dragons' lead singer's online shooter game, Last Flag, is reducing support less than three weeks after its launch on April 10, 2026.",
+        "The development team cited low player engagement as the reason for winding down support and new content updates.",
+        "This situation highlights the challenges of sustaining interest in new games, impacting future projects and the gaming community."
       ],
       "pubDate": "Fri, 01 May 2026 22:23:45 +0000",
       "image": "https://kotaku.com/app/uploads/2026/04/lastflag1-1920x1080-81ec35067442-1280x720.jpg"
@@ -3642,26 +4296,12 @@
       "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
       "category": "Tech",
       "bullets": [
-        "A recent study revealed that AI models prioritizing user feelings over factual accuracy are more prone to errors, published on May 1, 2026.",
-        "Researchers found that overtuning these models can lead to significant inaccuracies, undermining their reliability in critical applications.",
-        "This raises concerns about the ethical implications of AI in decision-making processes, especially in sensitive areas."
+        "A study revealed that AI models prioritizing user satisfaction over truthfulness are more prone to errors, impacting user experience.",
+        "The research highlights that overtuning can lead to significant inaccuracies, raising concerns about AI reliability in sensitive applications.",
+        "This finding emphasizes the need for balanced AI development, ensuring models maintain truthfulness while considering user emotions."
       ],
       "pubDate": "Fri, 01 May 2026 22:23:36 +0000",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg"
-    },
-    {
-      "title": "Scottish football club relegated and sinks to 18-year low in calamitous scenes",
-      "source": "The Scotsman",
-      "sourceUrl": "https://www.scotsman.com/rss",
-      "link": "https://www.scotsman.com/sport/football/scottish-football-club-relegated-and-sinks-to-18-year-low-in-calamitous-scenes-8478364",
-      "category": "Sports",
-      "bullets": [
-        "Ross County faced relegation after a disastrous match against Raith Rovers, marking their lowest performance in 18 years.",
-        "The defeat in Kirkcaldy has left the club and its supporters in shock, with calls for a review of team strategies.",
-        "This relegation could lead to significant financial and operational challenges for the club in the upcoming season."
-      ],
-      "pubDate": "Fri, 01 May 2026 22:21:01 GMT",
-      "image": "https://www.scotsman.com/jpim-static/image/2026/05/01/21/36/21671316.jpeg?width=1200&auto=webp&crop=3%3A2"
     },
     {
       "title": "Pentagon is pulling 5,000 troops from Germany after chancellor's Iran war criticism",
@@ -3712,9 +4352,9 @@
       "link": "https://hyperallergic.com/15-art-shows-to-see-in-nyc-this-may/",
       "category": "Culture",
       "bullets": [
-        "Fifteen art shows are highlighted in NYC for May 2026, showcasing diverse themes from quietude to revolution.",
-        "Featured artists include Lynette Yiadom-Boakye and Seydou Keïta, with exhibitions reflecting personal and historical narratives.",
-        "These shows aim to engage audiences and stimulate discussions around contemporary issues through visual art."
+        "Fifteen art shows are highlighted in NYC for May, showcasing diverse artists like Lynette Yiadom-Boakye and Seydou Keïta.",
+        "Exhibitions include Yiadom-Boakye's exploration of quietude and Keïta's documentation of revolution, reflecting cultural narratives.",
+        "These shows provide a platform for emerging and established artists, enriching NYC's vibrant art scene this spring."
       ],
       "pubDate": "Fri, 01 May 2026 22:19:05 GMT",
       "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/05/lede-1.jpg"
@@ -3880,9 +4520,9 @@
       "link": "https://www.theglobeandmail.com/world/article-mexico-city-is-sinking-so-quickly-it-can-be-seen-from-space/",
       "category": "Environment",
       "bullets": [
-        "Mexico City is sinking at an alarming rate, visible from space, due to its construction on an ancient lake bed, reported on May 1, 2026.",
-        "The city is experiencing subsidence of up to 10 inches per year in some areas, threatening infrastructure and safety.",
-        "This environmental crisis necessitates urgent urban planning reforms to address sustainability and resilience in the city."
+        "Mexico City is sinking at an alarming rate of 10 inches per year, visible from space due to its ancient lake bed foundation.",
+        "This rapid subsidence threatens infrastructure and exacerbates flooding, impacting millions of residents in the densely populated area.",
+        "Addressing this issue is crucial for urban planning and sustainability, as the city faces increasing environmental challenges."
       ],
       "pubDate": "Fri, 01 May 2026 22:08:21 +0000",
       "image": "https://www.theglobeandmail.com/resizer/v2/EKEZ6FDI2VAGPFK4FYWIZQHMQU.jpg?auth=6c9b463b6c16c5e7dcc13e72d7053d60b0673266e6f47f7035048c7389e8c93e&smart=true&width=5501&height=3588"
@@ -3892,11 +4532,11 @@
       "source": "Boing Boing",
       "sourceUrl": "https://boingboing.net/feed",
       "link": "https://boingboing.net/?p=1111389",
-      "category": "Environment",
+      "category": "Politics",
       "bullets": [
-        "A homeowner in a city known for its agricultural pride is facing fines for converting his lawn into an edible garden, reported on May 1, 2026.",
-        "Despite sharing produce with neighbors, a complaint has led to potential removal of the garden, sparking community outrage.",
-        "This situation highlights tensions between local regulations and sustainable practices in urban gardening initiatives."
+        "A homeowner in a city known for its greenery faces fines for converting his front lawn into an edible garden for his family.",
+        "Despite sharing produce with neighbors, a complaint has jeopardized his garden, highlighting conflicts between urban gardening and regulations.",
+        "This situation raises awareness about local policies affecting sustainable practices and community food sources."
       ],
       "pubDate": "Fri, 01 May 2026 22:06:03 +0000",
       "image": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&quality=60&ssl=1"
@@ -3934,11 +4574,11 @@
       "source": "Ars Technica",
       "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-      "category": "Tech",
+      "category": "Business",
       "bullets": [
-        "An op-ed discusses how the RAMpocalypse has given Microsoft a strategic advantage against Valve's SteamOS, published on May 1, 2026.",
-        "Valve's efforts have dented Windows' gaming market share, but the future remains uncertain as competition intensifies.",
-        "Microsoft's response will be crucial in shaping the gaming landscape, especially with evolving consumer preferences."
+        "The RAMpocalypse has given Microsoft a competitive edge against Valve's SteamOS, impacting the gaming market dynamics.",
+        "Microsoft's gaming share remains challenged, but the RAM shortage has temporarily slowed Valve's growth in the sector.",
+        "This situation underscores the ongoing battle for dominance in gaming platforms, influencing future technology developments."
       ],
       "pubDate": "Fri, 01 May 2026 22:00:59 +0000",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg"
@@ -3964,9 +4604,9 @@
       "link": "https://www.inverse.com/entertainment/hokum-ending-explained-adam-scott-damian-mccarthy-interview",
       "category": "Culture",
       "bullets": [
-        "Director Damian McCarthy revealed a darker original ending for the film 'Hokum' in an interview on May 1, 2026.",
-        "The film, featuring Adam Scott, explores themes of despair and hope, with the final cut offering a more optimistic resolution.",
-        "This discussion adds depth to the film's narrative, inviting audiences to reflect on its underlying messages."
+        "Director Damian McCarthy revealed an alternate, darker ending for the film 'Hokum,' featuring Adam Scott in a hellish narrative.",
+        "The original ending was deemed too bleak, leading to a more hopeful conclusion that resonates with audiences.",
+        "This discussion highlights the creative process in filmmaking and the impact of narrative choices on viewer engagement."
       ],
       "pubDate": "Fri, 01 May 2026 22:00:24 GMT",
       "image": "https://imgix.bustle.com/uploads/image/2026/4/30/6c9acf7c/hokum_adamscott_02.jpg?w=1200&fit=max"
@@ -4018,11 +4658,11 @@
       "source": "Nautilus",
       "sourceUrl": "https://nautil.us/feed/",
       "link": "https://nautil.us/?p=1280406",
-      "category": "Business",
+      "category": "Science",
       "bullets": [
-        "A recent article outlines the highest and lowest rent prices across 100 U.S. cities, published on May 1, 2026.",
-        "The data reveals stark contrasts, with cities like San Francisco having average rents exceeding $3,500 per month.",
-        "This information is vital for potential movers and policymakers addressing housing affordability and urban development."
+        "Research on ichthyosaurs reveals their remarkable survival skills, shedding light on their adaptation during the Jurassic period.",
+        "The study examines factors that contributed to their decline, providing insights into prehistoric marine ecosystems.",
+        "Understanding these ancient creatures enhances knowledge of evolutionary biology and the dynamics of past life forms."
       ],
       "pubDate": "Fri, 01 May 2026 22:00:00 +0000",
       "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/05/Currie_HERO_ca0534.png?w=564"
@@ -4032,11 +4672,11 @@
       "source": "Mental Floss",
       "sourceUrl": "https://www.mentalfloss.com/feed",
       "link": "https://www.mentalfloss.com/geography/cities/cities-highest-lowest-rents-2026?utm_source=RSS",
-      "category": "Science",
+      "category": "Business",
       "bullets": [
-        "A study investigates the survival skills of ichthyosaurs, ancient marine reptiles, published on May 1, 2026.",
-        "Findings suggest these creatures had unique adaptations that allowed them to thrive in prehistoric oceans.",
-        "Understanding their evolutionary strategies can provide insights into marine biology and extinction events."
+        "A new map reveals the highest and lowest rent prices across 100 U.S. cities, highlighting significant disparities in housing costs.",
+        "Cities like San Francisco and New York top the list with average rents exceeding $3,000, while others remain below $1,500.",
+        "This data is crucial for policymakers addressing housing affordability and urban development challenges nationwide."
       ],
       "pubDate": "Fri, 01 May 2026 22:00:00 +0000",
       "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1024,h_576,x_0,y_130/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kqfd925rhee8c9pjwq.jpg"
@@ -4104,9 +4744,9 @@
       "link": "https://www.digitaltrends.com/?p=5970230",
       "category": "Tech",
       "bullets": [
-        "Microsoft introduced a new AI legal assistant integrated into Word, aimed at helping lawyers manage legal documents more efficiently.",
-        "The AI tool addresses issues with costly errors from fake citations, which have plagued legal professionals, potentially saving firms significant money.",
-        "As legal tech evolves, this AI could reshape how lawyers work, but concerns about accuracy and reliability remain paramount."
+        "Microsoft has introduced an AI legal assistant in Word, aimed at helping lawyers navigate complex legal documents.",
+        "This tool addresses the costly issue of fake chatbot citations, enhancing accuracy in legal practices and documentation.",
+        "The development signifies a shift towards AI integration in legal fields, potentially transforming how legal professionals operate."
       ],
       "pubDate": "Fri, 01 May 2026 21:54:19 +0000",
       "image": "https://www.digitaltrends.com/tachyon/2026/01/uninstall-microsoft-copilot.jpg?resize=440%2C292"
@@ -4146,9 +4786,9 @@
       "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
       "category": "Culture",
       "bullets": [
-        "A new statue attributed to Banksy appeared in Central London this week, depicting a suited man blinded by a flag, walking off a ledge.",
-        "The installation follows a journalism investigation revealing Banksy's identity, sparking discussions about art and anonymity in the modern age.",
-        "This provocative piece adds to Banksy's legacy, challenging societal norms and encouraging public discourse on art's role in activism."
+        "A new statue attributed to Banksy appeared in Central London, depicting a suited man blinded by a flag, walking off a ledge.",
+        "The installation occurred under the cover of night, shortly after a journalism investigation into Banksy's identity was published.",
+        "This artwork continues Banksy's tradition of social commentary, engaging the public in discussions about identity and perception."
       ],
       "pubDate": "Fri, 01 May 2026 21:51:19 +0000",
       "image": "https://th-thumbnailer.cdn-si-edu.com/UWO1ct5tcjK-dlIpyfuJ3Poc6lY=/420x240/filters:focal(2500x1667:2501x1668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/6a/4a/6a4a7ecb-3a7c-4ac9-9297-c4cce0ec91b3/new_statue.jpg"
@@ -4186,11 +4826,11 @@
       "source": "MacRumors",
       "sourceUrl": "https://www.macrumors.com/macrumors.xml",
       "link": "https://www.macrumors.com/2026/05/01/airtag-stalking-lawsuits-apple/",
-      "category": "Business",
+      "category": "Tech",
       "bullets": [
-        "Apple faces over 30 lawsuits from individuals claiming they were stalked using AirTags, following a failed class action certification.",
-        "Plaintiffs allege Apple released AirTags knowing they could be misused for stalking, with accusations of inadequate safety measures since 2021.",
-        "These lawsuits could lead to significant financial repercussions for Apple and prompt changes in product safety regulations."
+        "Apple is facing over 30 lawsuits from individuals claiming AirTags were used for stalking, following a failed class action on May 1, 2026.",
+        "Plaintiffs allege Apple released AirTags in 2021 knowing they could be misused, seeking damages for emotional distress and safety concerns.",
+        "The outcomes could lead to increased scrutiny on Apple's product safety measures and potential changes in AirTag design or policies."
       ],
       "pubDate": "Fri, 01 May 2026 14:39:59 PDT",
       "image": "https://images.macrumors.com/article-new/2026/01/Second-Generation-AirTag-Feature-Purple.jpg"
@@ -4298,11 +4938,11 @@
       "source": "Lifehacker",
       "sourceUrl": "https://lifehacker.com/rss",
       "link": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
-      "category": "Tech",
+      "category": "Business",
       "bullets": [
-        "This week's top tech deals include discounts on the M5 MacBook Air and Pixel 9 Pro XL, among other popular gadgets.",
-        "Consumers can save significantly on tech essentials, with some items marked down by up to 30%, enhancing accessibility to high-quality devices.",
-        "These deals reflect ongoing trends in consumer electronics, where competitive pricing is crucial for attracting buyers in a saturated market."
+        "This week, top tech deals include discounts on the M5 MacBook Air and Pixel 9 Pro XL, among other gadgets.",
+        "Prices for the M5 MacBook Air drop to $899, while the Pixel 9 Pro XL is available for $999, offering significant savings.",
+        "These deals reflect ongoing competition in the tech market, encouraging consumers to take advantage of limited-time offers."
       ],
       "pubDate": "Fri, 01 May 2026 21:30:00 +0000",
       "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png"
@@ -4320,20 +4960,6 @@
       ],
       "pubDate": "Fri, 01 May 2026 21:29:12 +0000",
       "image": "https://globalnews.ca/wp-content/uploads/2026/05/CP174328859.jpg?quality=65&strip=all&w=720&h=480&crop=1"
-    },
-    {
-      "title": "US warns Europe of delays to arms shipments as Iran war drains stockpiles",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.ft.com/?format=rss",
-      "link": "https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff",
-      "category": "Politics",
-      "bullets": [
-        "The U.S. government warned European allies of potential delays in arms shipments due to stockpile depletion from the ongoing Iran conflict.",
-        "These delays could impact military support for Ukraine, which relies on timely deliveries for its defense against Russian aggression.",
-        "This situation underscores the geopolitical tensions and the need for strategic resource management in international defense agreements."
-      ],
-      "pubDate": "Fri, 01 May 2026 21:27:51 GMT",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ff85f2f-ac82-4931-a9ed-7bb4a8287999.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
     },
     {
       "title": "GameStop preparing offer for eBay, WSJ reports",
@@ -4510,9 +5136,9 @@
       "link": "https://www.outsideonline.com/?p=2740241",
       "category": "Politics",
       "bullets": [
-        "The proposed 2027 National Park Service budget includes a $736 million cut, threatening 3,000 jobs across the park system.",
-        "This funding reduction could severely impact park operations, visitor services, and conservation efforts, sparking public outcry and debate.",
-        "The outcome of this budget proposal will significantly affect the future of national parks and their preservation efforts."
+        "The proposed 2027 National Park Service budget cuts $736 million, threatening 3,000 jobs across various parks.",
+        "This budget reduction has sparked heated debates among lawmakers, with potential impacts on park maintenance and visitor services.",
+        "If approved, these cuts could lead to diminished park experiences and increased pressure on remaining staff to manage resources."
       ],
       "pubDate": "Fri, 01 May 2026 21:12:31 +0000",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/GettyImages-2182885046.jpg?width=1200"
@@ -4734,9 +5360,9 @@
       "link": "https://lifehacker.com/tech/is-apple-intelligence-making-up-words?utm_medium=RSS",
       "category": "Tech",
       "bullets": [
-        "Reports indicate that Apple's AI may be generating nonsensical words in its notification summaries, raising concerns about accuracy.",
-        "Users have noted instances of unfamiliar terms appearing, which could lead to confusion and diminish trust in Apple's AI capabilities.",
-        "This issue highlights the challenges tech companies face in developing reliable AI systems that meet user expectations."
+        "Apple's AI technology is reportedly generating nonsensical words in its notification summaries, raising concerns about accuracy.",
+        "Users have noted instances of strange word formations, prompting discussions on the reliability of AI-generated content.",
+        "This issue highlights the challenges Apple faces in refining its AI systems to ensure clear and coherent communication."
       ],
       "pubDate": "Fri, 01 May 2026 21:00:37 +0000",
       "image": "https://lifehacker.com/imagery/articles/01KQJFMX579CQTX83A7R46AMS7/hero-image.jpg"
@@ -4818,9 +5444,9 @@
       "link": "https://nautil.us/?p=1280409",
       "category": "Science",
       "bullets": [
-        "Peter Raven, a renowned conservationist and pioneer of coevolution, passed away this week, leaving a lasting legacy in botany.",
-        "Raven's work significantly advanced the understanding of plant biology and conservation, influencing environmental policies globally.",
-        "His contributions to science and education will continue to inspire future generations of botanists and conservationists."
+        "Peter Raven, a renowned conservationist and father of coevolution, passed away this week, impacting the botany community.",
+        "Raven's contributions to plant conservation and education were pivotal, influencing generations of scientists and conservationists.",
+        "His legacy will continue to inspire efforts in biodiversity preservation and environmental stewardship worldwide."
       ],
       "pubDate": "Fri, 01 May 2026 21:00:00 +0000",
       "image": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/05/Grant_HERO.png?w=564"
@@ -4846,9 +5472,9 @@
       "link": "https://foreignpolicy.com/?p=1228292",
       "category": "Politics",
       "bullets": [
-        "Trump criticized the 60-day war powers deadline as unconstitutional, asserting the U.S.-Iran cease-fire paused the countdown on May 1, 2026.",
-        "He stated that the deadline infringes on presidential authority, emphasizing the need for executive discretion in military engagements.",
-        "This statement may influence future congressional debates on war powers and the balance of authority between Congress and the presidency."
+        "Donald Trump criticized the 60-day war powers deadline as unconstitutional, asserting it undermines executive authority.",
+        "The White House contends that a cease-fire with Iran has paused the war powers clock, complicating the legal debate.",
+        "This conflict over war powers could influence future military engagements and the balance of power between Congress and the presidency."
       ],
       "pubDate": "Fri, 01 May 2026 20:58:38 +0000",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/05/TrumpWarPowers-GettyImages-2273915161.jpg"
@@ -4860,9 +5486,9 @@
       "link": "https://www.thisiscolossal.com/?p=473573",
       "category": "Culture",
       "bullets": [
-        "Artist Kim Dacres transforms worn rubber into expressive sculptures, showcasing her work in a recent exhibition on May 1, 2026.",
-        "Her pieces reflect themes of renewal and care, highlighting the beauty in discarded materials and promoting sustainability in art.",
-        "Dacres' work encourages discussions on environmental consciousness and the role of art in advocating for ecological responsibility."
+        "Artist Kim Dacres transforms worn rubber materials into expressive sculptures, emphasizing themes of renewal and care.",
+        "Her work features defiant portraits crafted from tires, chains, and gears, showcasing creativity in recycling and art.",
+        "Dacres' sculptures challenge perceptions of waste and highlight the importance of sustainability in contemporary art."
       ],
       "pubDate": "Fri, 01 May 2026 20:58:15 +0000",
       "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/05/kim-4.jpeg"
@@ -4958,9 +5584,9 @@
       "link": "https://www.engadget.com/2162342/ai-performances-and-screenplays-wont-be-eligible-for-oscars/",
       "category": "Culture",
       "bullets": [
-        "The Academy of Motion Picture Arts and Sciences announced that AI-generated performances and screenplays will not qualify for Oscars on May 1, 2026.",
-        "This decision aims to preserve artistic integrity, with Academy officials emphasizing the importance of human creativity in filmmaking.",
-        "The ruling may shape future industry standards regarding AI's role in creative processes and its acceptance in award considerations."
+        "The Academy has ruled that AI-generated performances and screenplays will not be eligible for Oscars, maintaining traditional standards.",
+        "This decision reflects ongoing concerns about the authenticity and originality of AI-created content in the film industry.",
+        "The ruling may shape future discussions on the role of AI in creative fields and its impact on artistic integrity."
       ],
       "pubDate": "Fri, 01 May 2026 20:52:05 +0000",
       "image": "https://www.engadget.com/img/gallery/ai-performances-and-screenplays-wont-be-eligible-for-oscars/l-intro-1777668452.jpg"
@@ -4986,9 +5612,9 @@
       "link": "https://www.popsci.com/?p=763069",
       "category": "Culture",
       "bullets": [
-        "A 2026 Mother's Day gift guide published on May 1, 2026, offers a variety of last-minute gift ideas for mothers.",
-        "Suggestions range from budget-friendly options to luxury items, catering to diverse interests and preferences of mothers everywhere.",
-        "This guide aims to assist last-minute shoppers in finding thoughtful gifts, emphasizing the importance of celebrating maternal figures."
+        "A recent gift guide for Mother's Day highlights budget-friendly options and luxury items, catering to diverse preferences.",
+        "Suggestions include personalized gifts, tech gadgets, and self-care products, appealing to various interests and budgets.",
+        "This guide aims to assist last-minute shoppers in finding meaningful gifts that celebrate mothers on their special day."
       ],
       "pubDate": "Fri, 01 May 2026 16:50:18 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/mothersdaygg-header.jpg?quality=85"
@@ -5056,9 +5682,9 @@
       "link": "https://foreignpolicy.com/?p=1228298",
       "category": "Business",
       "bullets": [
-        "Kevin Warsh is being considered for the next Federal Reserve Chairman, facing pressure to lower interest rates amidst economic concerns on May 1, 2026.",
-        "Analysts predict that Warsh's compliance with Trump's economic policies could significantly influence monetary policy and market stability.",
-        "His appointment could lead to shifts in investor confidence and economic strategies, particularly regarding inflation and growth forecasts."
+        "Kevin Warsh is under pressure to cut interest rates if appointed as the next Federal Reserve Chairman, amid economic concerns.",
+        "His potential leadership could shift Fed policies, impacting inflation rates and economic growth strategies in the U.S.",
+        "The decision on Warsh's appointment will be closely watched by markets, influencing investor confidence and economic forecasts."
       ],
       "pubDate": "Fri, 01 May 2026 20:44:22 +0000",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/05/warsh-GettyImages-2272390363.jpg"
@@ -5068,11 +5694,11 @@
       "source": "Pitchfork",
       "sourceUrl": "https://pitchfork.com/feed/feed-news/rss",
       "link": "https://pitchfork.com/news/james-broadnax-executed-after-failed-petitions-from-travis-scott-young-thug/",
-      "category": "Culture",
+      "category": "Politics",
       "bullets": [
-        "James Broadnax was executed on May 1, 2026, after failed petitions from rappers Travis Scott and Young Thug to halt the execution.",
-        "Broadnax's case highlighted the controversial use of rap lyrics as evidence in court, sparking debates on artistic expression and justice.",
-        "The execution may reignite discussions on legal reforms regarding the treatment of artistic works in legal settings and their implications."
+        "James Broadnax was executed on May 1, 2026, after failed appeals from Travis Scott and Young Thug regarding his murder conviction.",
+        "Broadnax's case sparked debates over the admissibility of rap lyrics in court, highlighting issues of artistic expression and legal implications.",
+        "The execution raises concerns about the intersection of music and law, potentially influencing future cases involving artists' lyrics."
       ],
       "pubDate": "Fri, 01 May 2026 20:41:33 +0000",
       "image": "https://media.pitchfork.com/photos/69a8e5209f123b87a8158835/master/pass/Pitchfork%20News%20Banner.png"
@@ -5124,11 +5750,11 @@
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/rss.xml",
       "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
-      "category": "Tech",
+      "category": "World",
       "bullets": [
-        "A staggering 76% of all cryptocurrency stolen in 2026 has been traced back to North Korea, as reported on May 1, 2026.",
-        "North Korean hackers are executing frequent, large-scale crypto heists, with AI technology potentially enhancing their capabilities.",
-        "This trend raises alarms about cybersecurity and international efforts to combat state-sponsored cybercrime in the cryptocurrency space."
+        "In 2026, 76% of all cryptocurrency thefts are traced back to North Korea, with hackers executing heists weekly.",
+        "North Korean cybercriminals are reportedly using AI tools to enhance their hacking capabilities, making them more effective.",
+        "This trend poses a significant threat to global cryptocurrency security, prompting calls for international cybersecurity cooperation."
       ],
       "pubDate": "Fri, 01 May 2026 20:34:27 GMT",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte54957ba444b76ce/69f4f5e31d1c5178ebec2907/DPRK_USD-Lightboxx-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
@@ -5154,9 +5780,9 @@
       "link": "https://www.engadget.com/2162334/apple-appears-to-have-discontinued-its-cheapest-mac-mini/",
       "category": "Tech",
       "bullets": [
-        "Apple has reportedly discontinued its cheapest Mac mini model, with the new model starting at $799 and featuring 512GB of storage as of May 1, 2026.",
-        "This move may reflect Apple's strategy to streamline its product line and focus on higher-end offerings in the desktop market.",
-        "The discontinuation could impact consumer choices and sales dynamics in the competitive desktop computer market."
+        "Apple has discontinued its cheapest Mac mini model, with the new version starting at $799 and featuring 512GB of storage.",
+        "The previous model's discontinuation reflects Apple's shift towards higher-end products and pricing strategies in the desktop market.",
+        "This change may impact budget-conscious consumers, pushing them towards alternative brands or refurbished models."
       ],
       "pubDate": "Fri, 01 May 2026 20:33:29 +0000",
       "image": "https://www.engadget.com/img/gallery/apple-appears-to-have-discontinued-its-cheapest-mac-mini/l-intro-1777667212.jpg"
@@ -5182,9 +5808,9 @@
       "link": "https://www.zdnet.com/article/t-mobile-free-hulu-and-netflix-deal/",
       "category": "Business",
       "bullets": [
-        "T-Mobile announced on May 1, 2026, that customers on Experience Beyond or Go5G Next plans will receive free subscriptions to Hulu and Netflix.",
+        "T-Mobile announced on May 1, 2026, that customers on specific plans can now access free Hulu and Netflix subscriptions.",
         "The offer includes ad-supported versions of both streaming services, enhancing T-Mobile's competitive edge in the telecom market.",
-        "This initiative aims to attract and retain customers by bundling popular entertainment services with mobile plans, boosting customer satisfaction."
+        "This initiative aims to attract new customers and retain existing ones amid fierce competition in the wireless industry."
       ],
       "pubDate": "Fri, 01 May 2026 20:30:49 GMT",
       "image": "https://www.zdnet.com/a/img/resize/c608e11b713c0eb45832ffe1122483048bd4775b/2025/07/29/eb00f9ec-eac1-4125-919a-566dd3aba536/sony-bravia-5-98-inch-mini-led-4k-hdr-google-tv-2025-10.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
@@ -5224,9 +5850,9 @@
       "link": "https://9to5google.com/?p=713608",
       "category": "Tech",
       "bullets": [
-        "In episode 98 of Pixelated, hosts Abner, Damien, and Will discuss Google's app icon redesigns and the Fitbit Air fitness band on May 1, 2026.",
-        "They highlight a 30% discount for listeners on Proton Unlimited's privacy services, enhancing user security and privacy.",
-        "The podcast emphasizes the importance of design in tech, reflecting ongoing trends in user interface and experience."
+        "The latest episode of Pixelated, released on May 1, 2026, discusses Google's upcoming app icon redesigns and new products.",
+        "Topics include the anticipated Fitbit Air fitness band and Samsung's Galaxy Glasses, showcasing innovations in tech design.",
+        "Listeners can benefit from a 30% discount on Proton Unlimited services, promoting privacy in digital communications."
       ],
       "pubDate": "Fri, 01 May 2026 20:30:00 +0000",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -5280,9 +5906,9 @@
       "link": "https://www.outsideonline.com/?p=2740215",
       "category": "Business",
       "bullets": [
-        "Backcountry launched an unadvertised May sale featuring 13 Patagonia items, available for a limited time starting May 1, 2026.",
-        "Discounts include up to 50% off on select outdoor gear, appealing to outdoor enthusiasts and budget-conscious shoppers.",
-        "This sale aims to boost sales during the spring season, encouraging outdoor activities as warmer weather approaches."
+        "Backcountry launched an unadvertised May sale featuring 13 Patagonia products, offering significant discounts on outdoor gear.",
+        "The sale includes popular items, appealing to outdoor enthusiasts looking for quality gear at reduced prices.",
+        "This promotion highlights Backcountry's strategy to attract customers during the spring shopping season."
       ],
       "pubDate": "Fri, 01 May 2026 20:23:06 +0000",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/05/patagonia-backcountry-may-sale.png?width=1200"
@@ -5308,9 +5934,9 @@
       "link": "https://www.smithsonianmag.com/smart-news/the-real-winnie-the-pooh-lives-at-the-new-york-public-library-when-queen-camilla-visited-the-bear-she-reunited-him-with-a-dear-friend-180988661/",
       "category": "Culture",
       "bullets": [
-        "Queen Camilla visited the New York Public Library on May 1, 2026, reuniting Winnie-the-Pooh with Christopher Robin's original toys.",
-        "This historic visit marked the first by a British royal, highlighting the library's cultural significance and its collection's value.",
-        "The event underscores the importance of preserving literary history and engaging with international audiences through cultural diplomacy."
+        "During her state visit on May 1, 2026, Queen Camilla visited the New York Public Library to meet Winnie-the-Pooh.",
+        "This visit marked the first time a British royal has visited the library, fulfilling a mission to reunite Pooh with Christopher Robin's toys.",
+        "The event emphasizes the cultural significance of children's literature and the library's role in preserving literary history."
       ],
       "pubDate": "Fri, 01 May 2026 20:19:47 +0000",
       "image": "https://th-thumbnailer.cdn-si-edu.com/_JPc82dn9LY0cBPedQ-LOJlN3cw=/420x240/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/00/27/0027bdbf-8411-4315-90a3-4631226de8a8/the_real_winnie-the-pooh_and_his_friends.jpg"
@@ -5364,9 +5990,9 @@
       "link": "https://petapixel.com/?p=852541",
       "category": "Tech",
       "bullets": [
-        "Alfie Cameras announced the launch of the Alfie Boxx, an all-in-one analog camera, set to debut in a few weeks on May 1, 2026.",
-        "The camera allows users to capture and develop photos directly within the device, appealing to photography enthusiasts.",
-        "This innovation aims to revive interest in analog photography, providing a unique experience in a digital-dominated market."
+        "Alfie Cameras is set to launch the Alfie Boxx, an all-in-one analog camera, in the coming weeks.",
+        "This innovative camera allows users to capture and develop photos directly within the device, enhancing the photography experience.",
+        "The launch aims to attract both amateur and professional photographers seeking a nostalgic yet modern approach to photography."
       ],
       "pubDate": "Fri, 01 May 2026 20:15:26 +0000",
       "image": "https://petapixel.com/assets/uploads/2026/05/BOXX-Camera-ans-Accessories.jpg"
@@ -5392,9 +6018,9 @@
       "link": "https://www.popsci.com/?p=764005",
       "category": "Science",
       "bullets": [
-        "A study reveals that parrots, including a budgie that learned 1,728 words, mimic human speech due to their cognitive abilities.",
-        "Researchers found that social interaction and environmental factors significantly influence a parrot's ability to learn language.",
-        "Understanding avian communication can enhance our knowledge of animal intelligence and the evolution of language."
+        "Research explores why parrots, including a budgie that learned 1,728 words, can mimic human speech effectively.",
+        "The study highlights the cognitive abilities of parrots, suggesting they possess advanced vocal learning skills similar to humans.",
+        "Understanding this phenomenon could provide insights into animal communication and cognitive science."
       ],
       "pubDate": "Fri, 01 May 2026 16:12:00 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/why-parrots-talk.jpg?quality=85"
@@ -5448,9 +6074,9 @@
       "link": "https://www.designboom.com/?p=1187598",
       "category": "Environment",
       "bullets": [
-        "A new compact timber tower house was completed in Switzerland, showcasing innovative vertical living on a triangular site as of May 1, 2026.",
-        "The design maximizes space efficiency while adhering to sustainable building practices, reflecting modern architectural trends.",
-        "This project highlights the growing demand for eco-friendly housing solutions in urban areas, promoting sustainable living."
+        "A new timber tower house has been constructed on a triangular site in Switzerland, showcasing innovative architectural design.",
+        "The building features a vertical living strategy, maximizing space efficiency while maintaining aesthetic appeal.",
+        "This project reflects growing trends in sustainable architecture and urban living solutions in constrained environments."
       ],
       "pubDate": "Fri, 01 May 2026 20:00:13 +0000",
       "image": "https://www.designboom.com/wp-content/uploads/2026/05/switzerland-tower-house-kit-architects-vertical-living-prefabricated-timber-designboom-700-500x400-22b08q85r644.jpg"
@@ -5474,11 +6100,9 @@
       "source": "Mental Floss",
       "sourceUrl": "https://www.mentalfloss.com/feed",
       "link": "https://www.mentalfloss.com/food/restaurants/old-school-mall-food-court-restaurants-forgot?utm_source=RSS",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "A nostalgic look at six old-school mall food court restaurants was published on May 1, 2026, reminding readers of past dining experiences.",
-        "These restaurants, once staples in malls, include names like Orange Julius and Sbarro, which have faded from popularity.",
-        "The article reflects changing consumer habits and the evolution of food culture in shopping environments."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 20:00:00 +0000",
       "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4015,h_2258,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kqah2b7413q26skgvp.jpg"
@@ -5502,11 +6126,9 @@
       "source": "Atlas Obscura",
       "sourceUrl": "https://www.atlasobscura.com/feeds/latest",
       "link": "https://www.atlasobscura.com/places/hotorgets-tunnelbana",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "Hötorgets Tunnelbana metro station in Stockholm, opened in 1952, showcases preserved 1950s architecture and design elements.",
-        "The station features original tiles and signage, reflecting the historical significance of early metro systems in urban transit.",
-        "Ongoing preservation efforts highlight the importance of maintaining cultural heritage in modern urban environments."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 16:00:00 -0400",
       "image": "https://img.atlasobscura.com/q4ujBqEw5gfaSOnqEb1RDluTV6Cw2GB_aWCBFxb_kcU/rs:fill:300:200:1/g:ce/c:3020:2013:nowe:636:217/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZDQ3/MTU3Yy0wMWQxLTRk/NjUtOGVhMC1mODU4/MWIwY2FiMjNjNzQw/YjQzZDJiMGUzMTE4/NjFfMjAyNTExMjNf/MTcxNDQzLmpwZw.jpg"
@@ -5670,11 +6292,9 @@
       "source": "The Drive",
       "sourceUrl": "https://www.thedrive.com/feed",
       "link": "https://www.thedrive.com/?p=6612142",
-      "category": "Business",
+      "category": "World",
       "bullets": [
-        "Baldwin oil filters, previously made in the USA, are now produced in China, prompting a search for alternatives.",
-        "The author highlights a superior replacement filter, emphasizing quality and performance over brand loyalty.",
-        "This shift reflects broader trends in manufacturing and consumer preferences for reliable products, regardless of origin."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 15:48:21 -0400",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/05/260501-Baldwin-v-NAPA-filters-088.jpg?quality=85"
@@ -5810,11 +6430,9 @@
       "source": "Phys.org",
       "sourceUrl": "https://phys.org/rss-feed/",
       "link": "https://phys.org/news/2026-05-widespread-genetic-exchange-disease-parasites.html",
-      "category": "Science",
+      "category": "World",
       "bullets": [
-        "An international team, including Matthew W. Brown from Mississippi State University, discovered extensive genetic exchange in parasites.",
-        "Their findings, published in the Proceedings of the National Academy of Sciences, could change how diseases are understood and treated.",
-        "This research may lead to new strategies in combating parasitic diseases, impacting public health globally."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 15:40:02 EDT",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/insect-bite.jpg"
@@ -6412,11 +7030,9 @@
       "source": "Mongabay",
       "sourceUrl": "https://news.mongabay.com/feed/",
       "link": "https://news.mongabay.com/?post_type=short-article&p=318610",
-      "category": "Business",
+      "category": "World",
       "bullets": [
-        "The Democratic Republic of the Congo plans to export 500,000 metric tons of copper to the US, a fivefold increase.",
-        "State-owned miner Gécamines SA is leading this initiative, with officials citing reduced corruption risks.",
-        "This surge in exports could impact global copper markets and strengthen DRC's economic position."
+        "Summary unavailable"
       ],
       "pubDate": "01 May 2026 18:59:51 +0000",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/01185610/35456682034_5a3e585172_k-768x512.jpg"
@@ -6426,11 +7042,9 @@
       "source": "CNBC",
       "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "link": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
-      "category": "Business",
+      "category": "World",
       "bullets": [
-        "Exxon Mobil CEO anticipates rising oil prices due to the ongoing conflict in Iran, predicting market instability.",
-        "He noted that the market has not yet fully absorbed the conflict's impact, leading to fluctuating prices.",
-        "This situation underscores the vulnerability of global oil markets to geopolitical events and conflicts."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 18:58:24 GMT",
       "image": "https://image.cnbcfm.com/api/v1/image/108259526-1769780902264-gettyimages-2254866292-TRUMP_VENEZUELA_OIL.jpeg?v=1777649276&amp;w=1920&amp;h=1080"
@@ -6468,11 +7082,9 @@
       "source": "ZDNet",
       "sourceUrl": "https://www.zdnet.com/news/rss.xml",
       "link": "https://www.zdnet.com/article/mothers-day-gift-guide-2026/",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "As Mother's Day approaches, ZDNet highlights five last-minute gifts that are both practical and on sale.",
-        "The curated list includes gadgets and cozy items, appealing to a variety of tastes and preferences.",
-        "These recommendations aim to help consumers make thoughtful purchases while taking advantage of discounts."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 18:55:00 GMT",
       "image": "https://www.zdnet.com/a/img/resize/b016abb178249494ac20426f0d6c5a82dbce3b1f/2025/04/30/edd3a04e-2c39-43f4-a858-c8e287ac6f2d/img-2695.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
@@ -6720,11 +7332,9 @@
       "source": "PetaPixel",
       "sourceUrl": "https://petapixel.com/feed/",
       "link": "https://petapixel.com/?p=851919",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "PetaPixel argues that photographers should move beyond an obsession with dynamic range in evaluating camera quality.",
-        "The article critiques how dynamic range metrics can overshadow other important aspects of photography.",
-        "This perspective encourages a more holistic approach to photography, focusing on creativity rather than specifications."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 18:43:58 +0000",
       "image": "https://petapixel.com/assets/uploads/2026/05/Photographers-Need-to-Stop-Worshiping-Dynamic-Range.jpg"
@@ -6932,9 +7542,7 @@
       "link": "https://www.404media.co/china-pressure-canceled-worlds-largest-digital-human-rights-conference/",
       "category": "World",
       "bullets": [
-        "The cancellation of the world's largest digital human rights conference, RightCon, was influenced by Chinese government pressure.",
-        "Beijing objected to the participation of speakers from Taiwan, highlighting ongoing tensions over sovereignty issues.",
-        "This incident reflects the challenges faced by international organizations in promoting human rights amid geopolitical conflicts."
+        "Summary unavailable"
       ],
       "pubDate": "Fri, 01 May 2026 18:32:53 GMT",
       "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/Screenshot-2026-04-29-125059-1.png"
@@ -10320,20 +10928,6 @@
       ],
       "pubDate": "Fri, 01 May 2026 15:30:06 GMT",
       "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/zhLunuihpBhk4IjuH4amrounSwE2-pg83ba2.gif.webp"
-    },
-    {
-      "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
-      "source": "MarketWatch",
-      "sourceUrl": "https://www.marketwatch.com/rss/topstories",
-      "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
-      "category": "Health",
-      "bullets": [
-        "A patient's husband expressed frustration over a two-hour wait for a 10-minute CT scan at a hospital on May 1, 2026.",
-        "The letter highlights the tragic reality of patients who died waiting for medical appointments, emphasizing systemic healthcare issues.",
-        "This situation underscores the urgent need for healthcare reform to improve patient access and reduce wait times."
-      ],
-      "pubDate": "Fri, 01 May 2026 15:30:00 GMT",
-      "image": "https://images.mktw.net/im-54293842"
     },
     {
       "title": "Here’s what’s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more",
@@ -14224,690 +14818,16 @@
       ],
       "pubDate": "Fri, 01 May 2026 10:42:31 +0000",
       "image": "https://www.theglobeandmail.com/resizer/v2/6G65WGPM3ZCP3GIX5YJESZ6BK4.JPG?auth=89b6492952a4aa9adb0e6804a7d3ceaea34a24bd2842101e0b3515bcc2f22a91&smart=true&width=8432&height=5621"
-    },
-    {
-      "title": "Lateef Adedimeji, wife welcome triplet",
-      "source": "Premium Times",
-      "sourceUrl": "https://www.premiumtimesng.com/feed",
-      "link": "https://www.premiumtimesng.com/?p=876269",
-      "category": "Culture",
-      "bullets": [
-        "Nigerian actor Lateef Adedimeji and his wife welcomed triplets on May 1, 2026, celebrating their growing family.",
-        "Their newborns' Instagram page gained 27,000 followers shortly after the announcement, showcasing public interest.",
-        "This joyful news highlights the couple's popularity and may lead to increased media attention and endorsements."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:41:23 +0000",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/05/image0-4-e1746961205771.jpeg?fit=553%2C365&amp;ssl=1"
-    },
-    {
-      "title": "Foo Fighters fans queue overnight for surprise hits-filled show at tiny New York venue",
-      "source": "The Independent",
-      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
-      "link": "https://www.independent.co.uk/arts-entertainment/music/news/foo-fighters-irving-plaza-setlist-dave-grohl-b2968766.html",
-      "category": "Culture",
-      "bullets": [
-        "Foo Fighters fans camped overnight for a surprise show at a small New York venue on May 1, 2026.",
-        "Tickets for the secret concert were made available at 10 AM, drawing a large crowd eager for exclusive performances.",
-        "This event reflects the band's strong fanbase and the growing trend of intimate concerts in the music industry."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:40:30 GMT",
-      "image": "https://static.independent.co.uk/2026/05/01/10/59/foo-fighters.png?width=1200&auto=webp&trim=0%2C164%2C0%2C163"
-    },
-    {
-      "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
-      "category": "World",
-      "bullets": [
-        "Oil prices increased on May 1, 2026, as the White House announced a ceasefire in the 60-day conflict with Iran.",
-        "Under the War Powers Resolution, the U.S. must withdraw troops within 60 days of deployment, affecting military strategy.",
-        "This ceasefire could lead to a reevaluation of U.S. military presence in the region and impact global oil markets."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:38:01 GMT",
-      "image": "https://image.cnbcfm.com/api/v1/image/108300415-1777603376896-gettyimages-2220157021-AA_19062025_2294207.jpeg?v=1777603387&amp;w=1920&amp;h=1080"
-    },
-    {
-      "title": "A tech worker in China is laid off and replaced by AI. Is it legal?",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai",
-      "category": "Tech",
-      "bullets": [
-        "A tech worker in Hangzhou, China, was laid off after AI replaced his role, prompting an appeals court ruling on May 1, 2026.",
-        "The court deemed the dismissal unlawful, highlighting legal concerns over AI's impact on employment in the tech sector.",
-        "This case raises questions about labor rights and the future of AI in workplaces, potentially influencing future legislation."
-      ],
-      "pubDate": "Fri, 01 May 2026 06:35:51 -0400",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5785x3254+0+301/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F9a%2F2177254d4a8b84969e0425d87f88%2Fap26106574431330.jpg"
-    },
-    {
-      "title": "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "link": "https://www.aljazeera.com/?t=1777551465",
-      "category": "World",
-      "bullets": [
-        "Argentina's President Javier Milei is exploring leveraging ties with Donald Trump to challenge UK claims over the Falkland Islands.",
-        "As US-UK relations deteriorate, Milei aims to capitalize on potential shifts in Washington's stance regarding the islands.",
-        "This situation could escalate diplomatic tensions and impact future negotiations over territorial claims in the South Atlantic."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:35:20 +0000",
-      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
-    },
-    {
-      "title": "Petrol, diesel price hike in near future not ruled out, say govt sources",
-      "source": "Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-price-hike-in-near-future-not-ruled-out-say-govt-sources/articleshow/130675666.cms",
-      "category": "Business",
-      "bullets": [
-        "Indian government sources indicate potential hikes in petrol and diesel prices due to rising global oil costs.",
-        "No specific percentage increase has been confirmed, but the government is monitoring market trends closely.",
-        "Future price adjustments could significantly affect transportation costs and consumer spending in India."
-      ],
-      "pubDate": "Fri, 01 May 2026 16:02:17 +0530",
-      "image": "https://static.toiimg.com/photo/msid-130675814,imgsize-1259311.cms"
-    },
-    {
-      "title": "I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson",
-      "source": "ZDNet",
-      "sourceUrl": "https://www.zdnet.com/news/rss.xml",
-      "link": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-      "category": "Tech",
-      "bullets": [
-        "A content creator transitioned from using laptops to XR headsets, tablets, and phones, discovering new creative avenues.",
-        "The shift highlighted the versatility of modern devices in content creation, expanding beyond traditional desktop setups.",
-        "This trend reflects a growing movement towards mobile and immersive technology in creative industries, influencing future workflows."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:30:38 GMT",
-      "image": "https://www.zdnet.com/a/img/resize/678976be56cc259c4937f87983b10eecd297d73b/2026/04/29/506ed46a-34c6-4e76-9b5a-c325bc6f11a4/img-5114.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
-    },
-    {
-      "title": "3 new Netflix shows worth binging this weekend (May 1 - 3)",
-      "source": "How-To Geek",
-      "sourceUrl": "https://www.howtogeek.com/feed/",
-      "link": "https://www.howtogeek.com/netflix-shows-weekend-binge-may-1/",
-      "category": "Culture",
-      "bullets": [
-        "Netflix has released three new shows for the weekend of May 1-3, including a revenge thriller and a cult drama.",
-        "The new content features a million-dollar game of secrets, appealing to diverse viewer interests and enhancing Netflix's library.",
-        "These releases aim to attract subscribers and maintain Netflix's competitive edge in the streaming market."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:30:15 GMT",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/04/netflix-logo-over-a-blurred-landscape-with-hot-air-balloons.png"
-    },
-    {
-      "title": "The AI delusion: Why Copilot won't clean up a messy Excel spreadsheet",
-      "source": "How-To Geek",
-      "sourceUrl": "https://www.howtogeek.com/feed/",
-      "link": "https://www.howtogeek.com/microsoft-excel-copilot-wont-clean-up-messy-spreadsheet/",
-      "category": "Tech",
-      "bullets": [
-        "Automation tools like Copilot struggle with messy Excel spreadsheets due to broken logic and inconsistent formatting.",
-        "Experts highlight that without a solid data model, automation cannot effectively clean or organize complex data sets.",
-        "This limitation underscores the need for better data management practices in organizations relying on automation."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:30:15 GMT",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/04/a-laptop-screen-showing-an-excel-spreadsheet-with-the-microsoft-copilot-logo-and-a-red-warning-triangle-icon-overlaid-on-a-blank-grid.jpg"
-    },
-    {
-      "title": "SEON CEO: Prediction markets can forecast the future. Can they survive their own manipulation problem?",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/feed/",
-      "link": "https://fortune.com/2026/04/27//?preview_id=4474035",
-      "category": "Business",
-      "bullets": [
-        "SEON CEO discusses the potential of prediction markets to forecast future events amid regulatory challenges.",
-        "The CFTC is expected to implement new rules within the next 12 months, impacting the operation of these markets.",
-        "The outcome of this regulatory process will determine the future viability and integrity of prediction markets."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:30:00 +0000",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1670326540450.jpg?w=2048"
-    },
-    {
-      "title": "Do You Need Aluminum Luggage? (2026): Rimowa, Away, Carl Friedrik",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/feed/rss",
-      "link": "https://www.wired.com/story/do-you-need-aluminum-luggage/",
-      "category": "Business",
-      "bullets": [
-        "A review compares aluminum luggage from brands like Rimowa and Away, questioning their value for travelers in 2026.",
-        "While all-metal carry-ons offer a premium look, the cost may not justify the benefits for average vacationers.",
-        "This analysis could influence consumer purchasing decisions in the competitive luggage market."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:30:00 +0000",
-      "image": "https://media.wired.com/photos/69f2a231ba5d213bbabb8fd3/master/pass/Why-Do-You-Want-Aluminum-Luggage-.jpg"
-    },
-    {
-      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-      "source": "The Hacker News",
-      "sourceUrl": "https://www.thehackernews.com/feeds/posts/default",
-      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-      "category": "Business",
-      "bullets": [
-        "The managed security services market is expected to grow from $38.31 billion in 2025 to $69.16 billion by 2030.",
-        "Despite this growth, many managed service providers struggle to align technical skills with market needs, losing revenue.",
-        "Addressing these sales challenges is crucial for MSPs to capitalize on the booming cybersecurity sector."
-      ],
-      "pubDate": "Fri, 01 May 2026 16:00:00 +0530",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
-    },
-    {
-      "title": "Ex-cellmate says he found suicide note from Jeffrey Epstein",
-      "source": "ABC News",
-      "sourceUrl": "https://abcnews.go.com/abcnews/topstories",
-      "link": "https://abcnews.com/US/cellmate-found-suicide-note-jeffrey-epstein-earlier-suicide/story?id=132552825",
-      "category": "Culture",
-      "bullets": [
-        "Nicholas Tartaglione, Jeffrey Epstein's ex-cellmate, claims to have found a suicide note, now locked in Tartaglione's case file.",
-        "The note's authenticity remains unverified, and Tartaglione shared this information with The New York Times recently.",
-        "This revelation could reignite discussions about Epstein's death and the circumstances surrounding it."
-      ],
-      "pubDate": "Fri, 01 May 2026 06:29:39 -0400",
-      "image": "https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_16x9_1600.jpg"
-    },
-    {
-      "title": "Washington sanctions former DRC president Kabila over 'support' for rebels",
-      "source": "RFI",
-      "sourceUrl": "https://www.rfi.fr/en/rss",
-      "link": "https://www.rfi.fr/en/africa/20260501-washington-sanctions-former-drc-president-kabila-over-support-for-rebels-m23-afc",
-      "category": "Politics",
-      "bullets": [
-        "The U.S. imposed sanctions on former DRC president Joseph Kabila for allegedly supporting Rwanda-backed M23 rebels.",
-        "These sanctions freeze Kabila's U.S. assets and prohibit any transactions through the U.S. financial system.",
-        "This action highlights ongoing tensions in the DRC and aims to curb external support for rebel groups."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:18:19 GMT",
-      "image": "https://s.rfi.fr/media/display/76dab5fa-2734-11f1-b969-005056bfb2b6/w:1024/p:16x9/Congo-Kabila-Verdict.jpg"
-    },
-    {
-      "title": "How Spoorthy Raman tells the world’s wildlife stories from a desk in the middle of the Atlantic",
-      "source": "Mongabay",
-      "sourceUrl": "https://news.mongabay.com/feed/",
-      "link": "https://news.mongabay.com/?p=318511",
-      "category": "Environment",
-      "bullets": [
-        "Spoorthy Raman, a Mongabay staff writer, shares wildlife stories from her desk in St. John's, Newfoundland.",
-        "She connects with scientists and conservationists globally, emphasizing the importance of diverse perspectives in environmental reporting.",
-        "Raman's work underscores the role of remote communication in advancing wildlife conservation efforts."
-      ],
-      "pubDate": "01 May 2026 10:16:23 +0000",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/01094239/Happy-to-call-Newfoundland-home-where-ocean-surrounds-me-1-768x512.jpg"
-    },
-    {
-      "title": "Netflix in May 2026: New Shows from the Duffer Brothers, Tina Fey, Plus Live MMA and F1",
-      "source": "CNET",
-      "sourceUrl": "https://www.cnet.com/rss/news/",
-      "link": "https://www.cnet.com/tech/services-and-software/new-on-netflix-in-may-2026-the-boroughs-the-four-seasons-more/",
-      "category": "Culture",
-      "bullets": [
-        "Netflix announces new May 2026 shows, including Tina Fey's The Four Seasons and adaptations of Remarkably Bright Creatures and Lord of the Flies.",
-        "The streaming service continues to expand its content library, aiming to attract more subscribers amid increasing competition in the streaming market.",
-        "These new releases reflect Netflix's strategy to diversify its offerings and retain viewer engagement in a crowded entertainment landscape."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:15:42 +0000",
-      "image": "https://www.cnet.com/a/img/resize/c9f188339034b44f714e12aa4b1e4a04c9efa1ff/hub/2026/04/27/a660cc8a-f11c-48b9-953d-11b8dec47789/fourseasons.jpg?auto=webp&fit=crop&height=614&width=1092"
-    },
-    {
-      "title": "designboom radar: exhibitions to see around the world this may",
-      "source": "Designboom",
-      "sourceUrl": "https://www.designboom.com/feed/",
-      "link": "https://www.designboom.com/?p=1188680",
-      "category": "Culture",
-      "bullets": [
-        "Designboom highlights must-see art, design, and architecture exhibitions worldwide for May 2026.",
-        "The roundup includes various international events, showcasing diverse artistic expressions and innovative designs.",
-        "These exhibitions provide opportunities for cultural engagement and inspiration for artists and enthusiasts alike."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:15:20 +0000",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/05/may-exhibition-radar-designboom-700-1-500x400-22b08q85r612.jpg"
-    },
-    {
-      "title": "As the 5-Day Workweek Turns 100, It’s Time for an AI Era Upgrade",
-      "source": "TIME",
-      "sourceUrl": "https://time.com/feed/",
-      "link": "https://time.com/?p=bltd3821af8fcf75a8d",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 10:15:00 +0000",
-      "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/blt6c75d43edc5878c7/69f418a83022bd1249757e1a/Ford-Factory-1930.jpg?branch=production&format=jpg&width=1024"
-    },
-    {
-      "title": "Who profits big from the war on Iran?",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "link": "https://www.aljazeera.com/?t=1777630199",
-      "category": "World",
-      "bullets": [
-        "The article investigates financial beneficiaries of the ongoing war in Iran, highlighting key players and their profits.",
-        "It reveals that defense contractors and oil companies are among the primary beneficiaries, with profits soaring amid conflict.",
-        "Understanding these dynamics is crucial for assessing the economic implications of war and the motivations behind foreign policy decisions."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:13:05 +0000",
-      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
-    },
-    {
-      "title": "Liam Gallagher insists he’s “on the wind up” with “Swede and Manic Street Sweepers”, says he “never said the Manics weren’t sexy”",
-      "source": "NME",
-      "sourceUrl": "https://www.nme.com/feed",
-      "link": "https://www.nme.com/?p=3943502",
-      "category": "Culture",
-      "bullets": [
-        "Liam Gallagher recently stirred controversy by criticizing the Manic Street Preachers, claiming they lack style and swagger.",
-        "He later clarified his comments, stating he was 'on the wind up' and never said the Manics weren't sexy.",
-        "This incident highlights Gallagher's provocative persona and the ongoing discussions about authenticity in the music industry."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:12:51 +0000",
-      "image": "https://www.nme.com/wp-content/uploads/2026/05/manics-liam-suede@2000x1270.jpg"
-    },
-    {
-      "title": "How to find Chaos Cubes in or around Elites Outpost or Treechopped Timbermill in Fortnite Chapter 7, season 2",
-      "source": "Destructoid",
-      "sourceUrl": "https://www.destructoid.com/feed/",
-      "link": "https://www.destructoid.com/?p=1211409",
-      "category": "Tech",
-      "bullets": [
-        "Fortnite Chapter 7, Season 2 introduces Chaos Cubes, which players must locate around Elites Outpost and Treechopped Timbermill.",
-        "Finding these cubes is essential for completing missions and earning experience points, enhancing gameplay engagement.",
-        "This feature reflects Fortnite's ongoing evolution, keeping players invested through new challenges and interactive elements."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:12:00 +0000",
-      "image": "https://www.destructoid.com/wp-content/uploads/2026/05/fortnite-chaos-cubes-around-Elites-Outpost-Treechopped-Timbermill.jpg"
-    },
-    {
-      "title": "The 60-Day Deadline for the War in Iran, and an End to the D.H.S. Shutdown",
-      "source": "NYT",
-      "sourceUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "link": "https://www.nytimes.com/2026/05/01/podcasts/the-headlines/war-iran-dhs-shutdown.html",
-      "category": "World",
-      "bullets": [
-        "A 60-day deadline has been set for resolving the ongoing conflict in Iran, coinciding with the D.H.S. shutdown.",
-        "This timeline indicates urgent diplomatic efforts are underway to stabilize the region and address national security concerns.",
-        "Failure to meet this deadline could escalate tensions and lead to further instability in the Middle East."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:08:30 +0000",
-      "image": "https://static01.nyt.com/images/2026/05/30/multimedia/30dc-hegseth-headlines-mlfg/30dc-hegseth-headlines-mlfg-mediumSquareAt3X.jpg"
-    },
-    {
-      "title": "Amazon’s new AI shopping podcasts are going off the rails",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/feed/",
-      "link": "https://www.digitaltrends.com/?p=5970148",
-      "category": "Tech",
-      "bullets": [
-        "Amazon's new AI shopping podcasts generate audio product summaries, but early feedback indicates mixed results.",
-        "Some summaries have devolved into awkward infomercials, raising concerns about user experience and effectiveness.",
-        "The success of this feature could impact how consumers engage with online shopping and product discovery."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:08:27 +0000",
-      "image": "https://www.digitaltrends.com/tachyon/2026/04/amazon-join-the-chat-ai.jpg?resize=440%2C292"
-    },
-    {
-      "title": "Apple’s new CEO said he will continue the company’s tradition of secrecy—and Wall Street loved it",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/feed/",
-      "link": "https://fortune.com/2026/05/01//?preview_id=4476924",
-      "category": "Business",
-      "bullets": [
-        "Apple's new CEO reaffirms the company's commitment to secrecy, a strategy that has historically pleased Wall Street investors.",
-        "This approach aims to maintain competitive advantage and consumer anticipation ahead of product launches and announcements.",
-        "Continuing this tradition may impact Apple's market positioning and influence investor confidence in the company's future."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:08:21 +0000",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Apple-John-Ternus-Tim-Cook_Full-Bleed-Imagejpgxlarge_2x.jpg?w=2048"
-    },
-    {
-      "title": "Dua Lipa declines offer to perform at Fury v Joshua",
-      "source": "BBC Sport",
-      "sourceUrl": "https://feeds.bbci.co.uk/sport/rss.xml",
-      "link": "https://www.bbc.com/sport/boxing/articles/c362p18l4llo#0",
-      "category": "Culture",
-      "bullets": [
-        "Dua Lipa declines an offer to perform at the highly anticipated heavyweight boxing match between Anthony Joshua and Tyson Fury.",
-        "The event, scheduled for later this year, had hoped to attract major musical acts to enhance its entertainment value.",
-        "Lipa's decision reflects her focus on other commitments, impacting the event's promotional strategy and audience expectations."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:06:10 GMT",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51d/live/08d4b220-453b-11f1-a613-4794dd5170f2.png"
-    },
-    {
-      "title": "SM Prime to bring premier mall experience to Nuvali by October 2026",
-      "source": "Rappler",
-      "sourceUrl": "https://www.rappler.com/feed/",
-      "link": "https://www.rappler.com/business/sm-nuvali-opens-october-2026/",
-      "category": "Business",
-      "bullets": [
-        "SM Prime plans to open SM Nuvali mall in Laguna by October 2026, marking a significant development in the region.",
-        "Laguna recently became the first Philippine province to achieve P1 trillion in economic value, highlighting its growth.",
-        "The new mall aims to enhance local commerce and attract more visitors, boosting the economy further."
-      ],
-      "pubDate": "Fri, 01 May 2026 18:05:21 +0800",
-      "image": "https://www.rappler.com/tachyon/2025/07/Conceptual-drawing-of-sprawling-landscapes-resized.jpg"
-    },
-    {
-      "title": "Historic Photos Show the Once Ubiquitous American Diner",
-      "source": "PetaPixel",
-      "sourceUrl": "https://petapixel.com/feed/",
-      "link": "https://petapixel.com/?p=852431",
-      "category": "Culture",
-      "bullets": [
-        "Historic photographs reveal the decline of American diners, once a staple of American culture and cuisine.",
-        "These images serve as artifacts, showcasing the evolution of dining experiences and societal changes over decades.",
-        "The nostalgia surrounding diners reflects broader themes of Americana and the impact of modern dining trends."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:03:57 +0000",
-      "image": "https://petapixel.com/assets/uploads/2026/05/Classic-American-Diners01.jpg"
-    },
-    {
-      "title": "Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/feed/rss",
-      "link": "https://www.wired.com/review/soundcore-nebula-p1/",
-      "category": "Tech",
-      "bullets": [
-        "Anker's Soundcore Nebula P1 projector is reviewed as a compact, portable option for both indoor and outdoor viewing.",
-        "Priced affordably, it offers water resistance but lacks cinema-quality performance, making it suitable for casual use.",
-        "This product highlights the growing demand for versatile home entertainment solutions in a mobile-centric world."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:03:00 +0000",
-      "image": "https://media.wired.com/photos/69f41e91d930532bf6f1efdd/master/pass/Review--Soundcore-Nebula-P1.jpg"
-    },
-    {
-      "title": "Peacock: 12 of the Best Movies to Stream Right Now",
-      "source": "CNET",
-      "sourceUrl": "https://www.cnet.com/rss/news/",
-      "link": "https://www.cnet.com/culture/entertainment/peacock-best-movies-2026/",
-      "category": "Culture",
-      "bullets": [
-        "Peacock has emerged as a strong competitor to Netflix, offering a curated selection of epic movies for streaming.",
-        "The platform's current lineup includes 12 highly recommended films, appealing to diverse viewer preferences.",
-        "This shift in streaming dynamics emphasizes the increasing competition among platforms for audience engagement."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:01:14 +0000",
-      "image": "https://www.cnet.com/a/img/resize/04e0eac41f8314fad24d34a5227ad715241b04ee/hub/2024/08/23/7851678a-2084-4442-9267-e8b408b33ff3/face-off-key-art.jpg?auto=webp&fit=crop&height=614&width=1092"
-    },
-    {
-      "title": "Trump’s Plan B for Tariffs Rests on Shaky Foundations",
-      "source": "Foreign Policy",
-      "sourceUrl": "https://foreignpolicy.com/feed/",
-      "link": "https://foreignpolicy.com/?p=1228138",
-      "category": "Politics",
-      "bullets": [
-        "U.S. trade officials' Section 301 case regarding tariffs is criticized for lacking coherence and defensibility.",
-        "This plan could face significant challenges in implementation, potentially affecting international trade relations.",
-        "The outcome may influence future tariff policies and economic strategies under the current administration."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:53 +0000",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/greer-GettyImages-2251048932.jpg"
-    },
-    {
-      "title": "Oak trees use delaying tactics to thwart hungry caterpillars",
-      "source": "New Scientist",
-      "sourceUrl": "https://www.newscientist.com/feed/home/",
-      "link": "https://www.newscientist.com/article/2524968-oak-trees-use-delaying-tactics-to-thwart-hungry-caterpillars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-      "category": "Science",
-      "bullets": [
-        "Research shows oak trees can delay leaf opening by three days to outsmart caterpillar infestations.",
-        "This adaptive strategy helps trees avoid synchronized attacks from hungry caterpillars in subsequent seasons.",
-        "Understanding these tactics may inform conservation efforts and enhance forest management practices."
-      ],
-      "pubDate": "Fri, 01 May 2026 11:00:50 +0100",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/04/30144520/SEI_295246528.jpg"
-    },
-    {
-      "title": "Moving from AI pilots to business-wide value requires a superhighway - how to ramp up",
-      "source": "ZDNet",
-      "sourceUrl": "https://www.zdnet.com/news/rss.xml",
-      "link": "https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/",
-      "category": "Tech",
-      "bullets": [
-        "Accenture's research emphasizes the need for companies to transition from siloed AI projects to systemic AI integration.",
-        "Successful early wins in AI investments are crucial for building momentum and achieving business-wide value.",
-        "This approach could redefine how organizations leverage AI, impacting productivity and innovation across industries."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:45 GMT",
-      "image": "https://www.zdnet.com/a/img/resize/8870d26be2a5841312ab51055229e0a026be505d/2026/04/27/f8db15c0-5dd3-43e7-8587-947f43c0d87b/colortunnel-gettyimages-2207609146.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
-    },
-    {
-      "title": "Critical Role actors confirm they are ready for character deaths in Campaign 4",
-      "source": "Polygon",
-      "sourceUrl": "https://www.polygon.com/rss/index.xml",
-      "link": "https://www.polygon.com/critical-role-cast-campaign-4-character-death/",
-      "category": "Culture",
-      "bullets": [
-        "Critical Role actors express readiness for character deaths in Campaign 4, hinting at potential dramatic turns.",
-        "The series is known for its high-stakes storytelling, and this season may push boundaries even further.",
-        "Fans anticipate how these developments will affect character arcs and overall narrative depth in the campaign."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:29 GMT",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/brennan-lee-mulligan-cr4-1.jpg"
-    },
-    {
-      "title": "Rodan! 70 Years Later, The Most Underrated Kaiju Is Back In The Monsterverse",
-      "source": "Inverse",
-      "sourceUrl": "https://www.inverse.com/rss",
-      "link": "https://www.inverse.com/entertainment/monarch-season-2-ending-rodan",
-      "category": "Culture",
-      "bullets": [
-        "Rodan returns to the Monsterverse 70 years after its debut, featured in the latest 'Monarch' Season 2.",
-        "The character's resurgence is celebrated by fans, highlighting its unique role in kaiju lore and cinema.",
-        "This revival may lead to renewed interest in the Monsterverse franchise and its future projects."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:24 GMT",
-      "image": "https://imgix.bustle.com/uploads/getty/2026/4/30/8ad427fc/a-british-poster-for.jpg?w=1200&fit=max"
-    },
-    {
-      "title": "The 13 Best Horse Movies and TV Shows to Stream After the Kentucky Derby",
-      "source": "Outside",
-      "sourceUrl": "https://www.outsideonline.com/feed/",
-      "link": "https://www.outsideonline.com/?p=2740103",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:09 +0000",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2025/11/NUP_205517_00428.jpg?width=1200"
-    },
-    {
-      "title": "My In-Laws Are Very Generous With Their Money. But It Comes With a Suspicious Stipulation.",
-      "source": "Slate",
-      "sourceUrl": "https://slate.com/feeds/all.rss",
-      "link": "https://slate.com/advice/2026/05/money-advice-secretive-in-laws.html",
-      "category": "Culture",
-      "bullets": [
-        "A personal account reveals concerns about in-laws' generosity, which comes with a suspicious stipulation regarding finances.",
-        "The author expresses uncertainty about the motivations behind their in-laws' financial support and its implications.",
-        "This situation highlights the complexities of family dynamics and financial dependency in personal relationships."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 GMT",
-      "image": "https://compote.slate.com/images/beeb9b34-7793-4d6f-ae8f-3d3649e07c76.jpeg?crop=1560%2C1040%2Cx0%2Cy0"
-    },
-    {
-      "title": "Slate SoundBites for May 1, 2026",
-      "source": "Slate",
-      "sourceUrl": "https://slate.com/feeds/all.rss",
-      "link": "https://slate.com/life/2026/05/slate-soundbites-for-may-1-2026.html",
-      "category": "Culture",
-      "bullets": [
-        "Slate launches a new game called SoundBites, encouraging players to build answers through sound, available from May 1, 2026.",
-        "The game aims to enhance auditory skills and engagement, appealing to a wide audience of gamers and educators.",
-        "SoundBites could reshape how educational games are perceived, potentially influencing future game development in the learning sector."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 GMT",
-      "image": "https://compote.slate.com/images/cfb2ab0f-1ca4-4da3-b38d-817bc8e8315c.png"
-    },
-    {
-      "title": "Big Tech is moving data out of the Gulf through Iraqi oil pipelines",
-      "source": "Rest of World",
-      "sourceUrl": "https://restofworld.org/feed/",
-      "link": "https://restofworld.org/2026/iraq-big-tech-gulf-war-data/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://restofworld.org/wp-content/uploads/2026/04/shutterstock_2714172641-768x432.jpg"
-    },
-    {
-      "title": "Platner-Mills ending in Maine leaves Democrats questioning Schumer strategy",
-      "source": "The Hill",
-      "sourceUrl": "https://thehill.com/feed/",
-      "link": "https://thehill.com/?p=5858539",
-      "category": "Politics",
-      "bullets": [
-        "Democratic leaders are reassessing strategies after Gov. Janet Mills of Maine withdrew from the Senate race against Susan Collins.",
-        "Senate Majority Leader Chuck Schumer faces criticism as Mills' exit raises concerns about the party's midterm election tactics.",
-        "This development could impact Democratic chances in the 2026 elections, prompting urgent discussions on candidate recruitment."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Schumer_Bolton_illo_SamanthaWong-GregNash-AP_PatrickWhittle.jpg?w=900"
-    },
-    {
-      "title": "Nebraska faces challenges as first state to impose Medicaid work requirements under GOP bill",
-      "source": "The Hill",
-      "sourceUrl": "https://thehill.com/feed/",
-      "link": "https://thehill.com/?p=5858552",
-      "category": "Politics",
-      "bullets": [
-        "Nebraska is set to become the first state to implement Medicaid work requirements under the GOP's One Big Beautiful Bill Act.",
-        "The state is moving ahead of the national deadline by eight months, marking a significant policy shift in healthcare.",
-        "Nebraska's experience will serve as a critical test case for the GOP's approach to Medicaid reform nationwide."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Nebraska_050126_AP_Alex-Brandon.jpg?w=900"
-    },
-    {
-      "title": "To be is to participate",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "link": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood?utm_source=rss-feed",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 GMT",
-      "image": "https://images.aeonmedia.co/images/e56cea07-3b2b-477a-984c-f92e0bc430d8/sz-par453185.jpg?width=1200&quality=75&format=auto"
-    },
-    {
-      "title": "The Top 5 Longreads of the Week",
-      "source": "Longreads",
-      "sourceUrl": "https://longreads.com/feed/",
-      "link": "https://longreads.com/?p=253485",
-      "category": "Culture",
-      "bullets": [
-        "Longreads features five compelling stories, including themes of nostalgia and community, published on May 1, 2026.",
-        "Highlights include explorations of messages in bottles and the concept of pay-to-play orchestras, appealing to diverse interests.",
-        "These narratives encourage readers to reflect on societal values and the significance of storytelling in contemporary culture."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/05/Message-in-a-bottle-T5.jpg?fit=1024%2C648&amp;ssl=1"
-    },
-    {
-      "title": "I round up some of the best Joy-Con alternatives for the Nintendo Switch 2",
-      "source": "Creative Bloq",
-      "sourceUrl": "https://www.creativebloq.com/feed",
-      "link": "https://www.creativebloq.com/entertainment/gaming/i-round-up-some-of-the-best-joy-con-alternatives-for-the-nintendo-switch-2",
-      "category": "Tech",
-      "bullets": [
-        "A roundup of Joy-Con alternatives for the Nintendo Switch 2 includes various controllers catering to different play styles.",
-        "The guide emphasizes the benefits of using a Pro Controller for enhanced gameplay experience and comfort.",
-        "As the Switch 2 gains popularity, these alternatives could reshape user preferences and accessory markets."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://cdn.mos.cms.futurecdn.net/rMWMUFHDjVM7Gjac5AJ8XU-1280-80.jpg"
-    },
-    {
-      "title": "May's full 'Flower Moon' rises tonight: Here's what to expect from the 'micromoon'",
-      "source": "Space.com",
-      "sourceUrl": "https://www.space.com/feeds/all",
-      "link": "https://www.space.com/stargazing/mays-full-flower-moon-rises-tonight-heres-what-to-expect-from-the-micromoon",
-      "category": "Science",
-      "bullets": [
-        "May's full 'Flower Moon' is set to rise tonight, coinciding with blooming flowers in the northern hemisphere.",
-        "This lunar event, known as a 'micromoon,' will appear smaller due to its distance from Earth.",
-        "Astronomers encourage skywatchers to observe this unique phenomenon, enhancing appreciation for natural cycles."
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://cdn.mos.cms.futurecdn.net/N9FkRSdNnQoun3M5duxK3b-1280-80.jpg"
-    },
-    {
-      "title": "Finishing School: To Shred or Not to Shred",
-      "source": "New Yorker Humor",
-      "sourceUrl": "https://www.newyorker.com/feed/humor",
-      "link": "https://www.newyorker.com/humor/shouts-murmurs/finishing-school-to-shred-or-not-to-shred",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 10:00:00 +0000",
-      "image": "https://media.newyorker.com/photos/69f3a9f4d807d9f4dfa132b1/master/pass/Norris_ToShredorNottoShred_GettyImages-154301903.jpg"
-    },
-    {
-      "title": "Indoor solar panels to power your gadgets? A team just proved it can be done safely",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/feed/",
-      "link": "https://www.digitaltrends.com/?p=5970158",
-      "category": "Culture",
-      "bullets": [
-        "A new study reveals that camping can significantly strengthen social bonds among participants.",
-        "Time spent outdoors helps transform casual acquaintances into close friends, enhancing social networks.",
-        "This finding encourages individuals to consider camping as a viable option for relationship-building activities."
-      ],
-      "pubDate": "Fri, 01 May 2026 09:59:07 +0000",
-      "image": "https://www.digitaltrends.com/tachyon/2026/05/aibn-indoor-solar-panels.jpg?resize=440%2C292"
-    },
-    {
-      "title": "Want to Strengthen Your Social Circle? Plan a Camping Trip.",
-      "source": "Outside",
-      "sourceUrl": "https://www.outsideonline.com/feed/",
-      "link": "https://www.outsideonline.com/?p=2736749",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 09:56:10 +0000",
-      "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/03/camping-together-illo.jpg?width=1200"
-    },
-    {
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "source": "The Hacker News",
-      "sourceUrl": "https://www.thehackernews.com/feeds/posts/default",
-      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "category": "Politics",
-      "bullets": [
-        "Ryan Goldberg and Kevin Martin receive four-year prison sentences for their involvement in BlackCat ransomware attacks, announced on May 1, 2026.",
-        "The U.S. DoJ confirmed they targeted multiple victims across the U.S. from April to December 2023, causing significant financial damage.",
-        "This case highlights ongoing efforts to combat cybercrime, emphasizing the legal consequences for those involved in ransomware activities."
-      ],
-      "pubDate": "Fri, 01 May 2026 15:26:00 +0530",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg"
-    },
-    {
-      "title": "‘Under Paris 2’ Back With a Bite: Netflix’s Shark Movie Sequel Starts Filming in France (EXCLUSIVE)",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/feed/",
-      "link": "https://variety.com/?p=1236734615",
-      "category": "Culture",
-      "bullets": [
-        "Netflix has commenced filming 'Under Paris 2' in southern France, featuring returning stars Bérénice Bejo and Nassim Lyes.",
-        "The sequel aims to capitalize on the success of the original film, which garnered over 5 million views within its first week.",
-        "This production reflects Netflix's strategy to invest in international content, enhancing its global appeal and audience engagement."
-      ],
-      "pubDate": "Fri, 01 May 2026 09:55:00 +0000",
-      "image": "https://variety.com/wp-content/uploads/2024/06/Under-Paris-Sous-la-Seine.jpg"
     }
   ],
   "finance": {
     "BTC": {
-      "price": 78302.21,
-      "change": 0.11
+      "price": 78237.53,
+      "change": 0.03
     },
     "ETH": {
-      "price": 2304.91,
-      "change": 0.43
+      "price": 2303.35,
+      "change": 0.36
     },
     "GOLD": {
       "price": 4644.5,
