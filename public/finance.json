@@ -1,11 +1,11 @@
 {
   "BTC": {
-    "price": 78706.01,
-    "change": 0.63
+    "price": 78261.73,
+    "change": -0.52
   },
   "ETH": {
-    "price": 2317.8,
-    "change": 0.99
+    "price": 2304.1,
+    "change": -0.54
   },
   "GOLD": {
     "price": 4644.5,
@@ -40,8 +40,8 @@
     "change": -0.14
   },
   "GBP/USD": {
-    "price": 1.3575,
-    "change": -0.22
+    "price": 1.3576,
+    "change": -0.21
   },
   "USD/CAD": {
     "price": 1.3588,

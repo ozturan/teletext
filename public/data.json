@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02 23:39:55",
+  "updated": "2026-05-03 01:56:51",
   "stories": [
     {
       "title": "Watch: Match of the Day",
@@ -16,15 +16,533 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nhgwqg.jpg"
     },
     {
+      "title": "Court denies bail to woman accused in TCS Nashik case",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
+      "link": "https://www.thehindu.com/news/national/court-denies-bail-to-woman-accused-in-tcs-nashik-case/article70932944.ece",
+      "category": "Politics",
+      "bullets": [
+        "A woman accused in the TCS Nashik case was denied bail by a local court on May 3, 2026.",
+        "Four co-accused have been remanded to police custody until May 5, as the woman plans to appeal the decision.",
+        "The case highlights ongoing legal issues in Nashik, with potential implications for local law enforcement practices."
+      ],
+      "pubDate": "Sun, 03 May 2026 07:16:29 +0530",
+      "image": "https://th-i.thgim.com/public/incoming/pshcjn/article70933041.ece/alternates/LANDSCAPE_1200/iStock-1051720322.jpg"
+    },
+    {
+      "title": "ECI announces repolling for Falta Assembly seat in West Bengal on May 21",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-announces-repolling-for-falta-assembly-seat-in-west-bengal-on-may-21/article70933032.ece",
+      "category": "Politics",
+      "bullets": [
+        "The Election Commission of India announced repolling for the Falta Assembly seat on May 21, 2026, due to electoral malpractices.",
+        "Complaints were received on polling day, and the votes from the repoll will be counted on May 24, 2026.",
+        "This decision aims to ensure fair elections and restore voter confidence in the electoral process in West Bengal."
+      ],
+      "pubDate": "Sun, 03 May 2026 07:14:01 +0530",
+      "image": "https://th-i.thgim.com/public/incoming/iaz6gq/article70933160.ece/alternates/LANDSCAPE_1200/20260502236L.jpg"
+    },
+    {
+      "title": "Blood-based DNA marker tracks arsenic exposure and may predict toxicity risk",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/rss-feed/",
+      "link": "https://phys.org/news/2026-05-blood-based-dna-marker-tracks.html",
+      "category": "Health",
+      "bullets": [
+        "A new blood-based DNA marker has been developed to track arsenic exposure, potentially predicting toxicity risk.",
+        "Over 200 million people globally are exposed to arsenic in drinking water, linked to chronic illnesses like cancer.",
+        "This breakthrough could enhance public health strategies and monitoring for populations at risk of arsenic exposure."
+      ],
+      "pubDate": "Sat, 02 May 2026 21:40:02 EDT",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/4-drinkingwater.jpg"
+    },
+    {
+      "title": "Iran live updates: Latest on Iran deal; US fast-tracks arms sales to Mideast partners",
+      "source": "ABC News",
+      "sourceUrl": "https://abcnews.go.com/abcnews/topstories",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768",
+      "category": "World",
+      "bullets": [
+        "President Trump informed Congress that hostilities related to the Iran deal have 'terminated' as of May 2, 2026.",
+        "The U.S. is fast-tracking arms sales to Middle Eastern partners, reflecting a shift in regional security dynamics.",
+        "This development may escalate tensions in the Middle East and impact U.S. foreign policy moving forward."
+      ],
+      "pubDate": "Sat, 02 May 2026 21:37:56 -0400",
+      "image": "https://s.abcnews.com/images/Politics/Trump5-2_1777769708229_hpMain_16x9_1600.jpg"
+    },
+    {
+      "title": "North Korea's Kim casts youth as vanguard of state goals amid Russia war",
+      "source": "CNA",
+      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "link": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-6096481",
+      "category": "World",
+      "bullets": [
+        "Kim Jong Un addressed the youth league congress in Pyongyang, emphasizing the role of young citizens in state goals.",
+        "The congress, held every five years, aims to mobilize citizens aged 14 to 30 for national initiatives amid the Russia war.",
+        "This focus on youth reflects North Korea's strategy to strengthen internal support and align future generations with state objectives."
+      ],
+      "pubDate": "Sun, 03 May 2026 09:36:56 +0800",
+      "image": "https://dam.mediacorp.sg/image/upload/s--p7diTYtt--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-02T222555Z_1_LYNXMPEM410HB_RTROPTP_3_NORTHKOREA-POLITICS-EXECUTION.JPG?itok=6XoEzXxE"
+    },
+    {
+      "title": "No longer shushed: Japan’s cultural venues make room for children",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/feed/",
+      "link": "https://www.japantimes.co.jp/article/640857/",
+      "category": "Culture",
+      "bullets": [
+        "Cultural venues in Japan are adapting to accommodate families with young children, enhancing accessibility and engagement.",
+        "Institutions like ballet companies and museums are implementing child-friendly programs and facilities to attract families.",
+        "This shift aims to foster a love for the arts among younger generations and ensure cultural sustainability."
+      ],
+      "pubDate": "Sun, 03 May 2026 10:36:00 +0900",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/01/538060.jpg"
+    },
+    {
+      "title": "Australia news live: Joyce says plane Rinehart’s company gave One Nation ‘won’t really worry’ voters; three dead and man arrested in Sydney",
+      "source": "Guardian AU",
+      "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+      "link": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
+      "category": "World",
+      "bullets": [
+        "A 32-year-old man was arrested in Sydney after a violent incident in Rosemeadow that left three people dead.",
+        "The incident occurred early on May 3, 2026, prompting a significant police response and ongoing investigations.",
+        "This tragedy raises concerns about public safety and crime rates in urban areas of Australia."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:31:15 GMT",
+      "image": "https://i.guim.co.uk/img/media/108c7c326fee964a363bd6417b3d570baaa686e6/1064_133_4936_3951/master/4936.jpg?width=700&quality=85&auto=format&fit=max&s=bc742e260163f9159946eb57100b1cd9"
+    },
+    {
+      "title": "It’s not ecotourism if it risks damaging Hong Kong’s natural assets",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/rss/91/feed",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3351840/its-not-ecotourism-if-it-risks-damaging-hong-kongs-natural-assets?utm_source=rss_feed",
+      "category": "Environment",
+      "bullets": [
+        "Hong Kong's tourism model is shifting from shopping to nature and cultural experiences, impacting local businesses.",
+        "Visitor spending dropped from HK$193 billion in 2015 to HK$128 billion last year, signaling a need for adaptation.",
+        "This transition presents opportunities for sustainable tourism that prioritizes environmental conservation and cultural connection."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:30:08 +0000",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/29/1187b726-ff8b-4c85-88c0-eeb36d5817da_57a2fc23.jpg?itok=T-uU85QF&v=1777452908"
+    },
+    {
+      "title": "‘Celebrity Traitors’ Season 2 Full Cast: See the 21 Stars",
+      "source": "Hollywood Reporter",
+      "sourceUrl": "https://www.hollywoodreporter.com/feed/",
+      "link": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236584138",
+      "category": "Culture",
+      "bullets": [
+        "The cast for Season 2 of 'Celebrity Traitors' includes Bella Ramsey, Michael Sheen, and Richard E. Grant.",
+        "The reality series is set to film in the Scottish Highlands later this year, featuring 21 stars in total.",
+        "This season aims to build on the show's popularity, attracting viewers with a diverse and engaging cast."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:27:48 +0000",
+      "image": ""
+    },
+    {
+      "title": "Migrant in New York suspected of killing roommate and Wendy’s coworker within hours of each other",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
+      "link": "https://www.independent.co.uk/news/world/americas/crime/new-york-murder-wendys-nassau-county-b2969593.html",
+      "category": "World",
+      "bullets": [
+        "A migrant in New York is suspected of killing his roommate and a Wendy's coworker within hours of each other.",
+        "The suspect has lived in the U.S. since he was 12 years old, raising concerns about community safety.",
+        "This case highlights issues related to violence and crime within immigrant communities in urban settings."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:01:37 GMT",
+      "image": "https://static.independent.co.uk/2026/05/03/0/47/Rony-Yahir-Alvarenga-Rivera-wide.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+    },
+    {
+      "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
+      "source": "ZDNet",
+      "sourceUrl": "https://www.zdnet.com/news/rss.xml",
+      "link": "https://www.zdnet.com/article/why-i-own-4-different-pairs-of-headphones/",
+      "category": "Tech",
+      "bullets": [
+        "The author discusses using four different headphone models effectively for various situations, emphasizing their unique features.",
+        "Each headphone serves a specific purpose, such as noise cancellation or sports use, enhancing the listening experience for different activities.",
+        "This exploration highlights the importance of selecting the right audio equipment to meet individual needs and preferences."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:01:07 GMT",
+      "image": "https://www.zdnet.com/a/img/resize/8a005f878725597a08735143a9a402093e78da06/2025/01/07/b3c9d58d-a3a5-4545-ade0-ba4092d1be2c/jlab.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
+    },
+    {
+      "title": "I enabled Data Saver mode on my Android phone to avoid overcharges - and it's a big relief",
+      "source": "ZDNet",
+      "sourceUrl": "https://www.zdnet.com/news/rss.xml",
+      "link": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-and-why/",
+      "category": "Tech",
+      "bullets": [
+        "The author activated Data Saver mode on their Android phone to manage data usage and prevent overcharges effectively.",
+        "This feature allows users to limit background data and monitor usage, providing peace of mind against exceeding plan limits.",
+        "By utilizing this mode, users can save money and avoid unexpected charges, making it a valuable tool for data management."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:00:49 GMT",
+      "image": "https://www.zdnet.com/a/img/resize/1a801d18b834194b59b1eb18cd418db8acc31f86/2026/04/28/cc6b7622-d7ae-4572-beb6-1aea9fea7f48/save-mobile-data-and-control-usage-with-these-two-android-features.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200"
+    },
+    {
+      "title": "How unlicensed mainland Chinese tour groups cash in on Hong Kong campsites",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/rss/91/feed",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352243/how-unlicensed-mainland-chinese-tour-groups-cash-hong-kong-campsites?utm_source=rss_feed",
+      "category": "World",
+      "bullets": [
+        "Unlicensed tour groups from mainland China crowded Hong Kong's Ham Tin Wan campsite during the Labour Day holiday, with around 500 tents reported.",
+        "Visitors left the campsite's only public bathroom clogged with food scraps, highlighting the environmental impact of unregulated tourism.",
+        "This situation raises concerns about the sustainability of popular tourist spots and the need for better management of campsite regulations."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:00:26 +0000",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/03/883c9ce7-7d57-45c6-8d6a-8b4d69b53159_7d03ea89.jpg?itok=aNfx9hVu&v=1777768245"
+    },
+    {
+      "title": "Trump says he is reviewing a new Iranian proposal to end the war but ‘can’t imagine that it would be acceptable’",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/feed/",
+      "link": "https://fortune.com/2026/05/02//?preview_id=4477812",
+      "category": "Politics",
+      "bullets": [
+        "President Trump is reviewing a 14-point Iranian proposal sent via Pakistan, responding to a previous U.S. nine-point proposal.",
+        "He expressed skepticism about the proposal's acceptability, indicating ongoing tensions in U.S.-Iran relations amid the war.",
+        "The outcome of this review could significantly impact diplomatic efforts and the future of U.S. military involvement in the region."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:59:05 +0000",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26122809856269-e1777769316161.jpg?w=2048"
+    },
+    {
+      "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
+      "category": "Politics",
+      "bullets": [
+        "Germany's defense minister confirmed the Pentagon's decision to withdraw 5,000 troops, which has alarmed NATO allies.",
+        "This withdrawal reflects growing concerns about U.S. commitment to European security, with Spain and Italy potentially next in line.",
+        "The shift may alter NATO dynamics and compel European nations to reassess their defense strategies in light of reduced U.S. presence."
+      ],
+      "pubDate": "Sat, 02 May 2026 20:57:59 -0400",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6581x3702+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2F11%2F51894cdd43449b58ba3fad8e96ea%2Fap26120441310041-1.jpg"
+    },
+    {
+      "title": "Czech Republic president on Trump’s anger with Europe over Iran war response: ‘We are not part of it’",
+      "source": "The Hill",
+      "sourceUrl": "https://thehill.com/feed/",
+      "link": "https://thehill.com/?p=5861117",
+      "category": "Politics",
+      "bullets": [
+        "Czech President Petr Pavel responded to Trump's criticism of Europe's support for U.S. military actions in Iran, asserting their non-involvement.",
+        "He acknowledged Europe's potential for greater contribution but emphasized that the Czech Republic is not part of the conflict.",
+        "This statement underscores the complexities of international alliances and differing perspectives on military engagements."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:55:25 +0000",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2023/01/4d65a5aaa98541e0a9a00c8b256318f0.jpg?w=900"
+    },
+    {
+      "title": "Trump threatens deeper cuts for U.S. troop presence in Germany",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/feed/",
+      "link": "https://www.japantimes.co.jp/article/640883/",
+      "category": "Politics",
+      "bullets": [
+        "Trump threatened further reductions in U.S. troop presence in Germany, expressing frustration with European nations' lack of support in the Iran war.",
+        "He accused these nations of ignoring requests for assistance, particularly regarding the reopening of the Strait of Hormuz.",
+        "This threat could escalate tensions within NATO and impact U.S.-European relations amid ongoing military operations."
+      ],
+      "pubDate": "Sun, 03 May 2026 09:44:00 +0900",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/03/538450.JPG"
+    },
+    {
+      "title": "Auckland Mayor Wayne Brown says PM Christopher Luxon a dog with ‘two tails wagging’ him",
+      "source": "NZ Herald",
+      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
+      "link": "https://www.nzherald.co.nz/nz/politics/auckland-mayor-wayne-brown-says-pm-christopher-luxon-a-dog-with-two-tails-wagging-him/J522J3B2OFGGVOJ34VLIPFYK7Q/",
+      "category": "Politics",
+      "bullets": [
+        "Auckland Mayor Wayne Brown criticized PM Christopher Luxon, suggesting a coalition between National and Labour would benefit New Zealand.",
+        "He described Luxon as a 'dog with two tails wagging him,' indicating a lack of decisive leadership in the current political climate.",
+        "This commentary reflects ongoing political tensions and the potential for shifts in governance strategies in New Zealand."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:39:03 +0000",
+      "image": "https://www.nzherald.co.nz/resizer/v2/SJEVB62TTJHAHFPAZDNWWDSAJY.JPG?auth=515fe625a18d4698f00eda252fd6fba64905f1ac2764b1c9f1cb07cab49c1d3c&smart=true&width=1280&height=720"
+    },
+    {
+      "title": "Zayn Malik Cancels U.S. Tour Dates",
+      "source": "Hollywood Reporter",
+      "sourceUrl": "https://www.hollywoodreporter.com/feed/",
+      "link": "https://www.hollywoodreporter.com/?p=1236584177",
+      "category": "Culture",
+      "bullets": [
+        "Zayn Malik announced the cancellation of his U.S. tour dates, revealing he is recovering from an undisclosed medical condition.",
+        "The announcement came on Friday, following a previous update about his health, raising concerns among fans about his well-being.",
+        "This cancellation highlights the challenges artists face regarding health and the impact on their touring schedules and fan engagement."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:26:45 +0000",
+      "image": ""
+    },
+    {
+      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "link": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
+      "category": "Business",
+      "bullets": [
+        "Spirit Airlines ceased operations overnight after failing to secure a government bailout, marking the end of its service.",
+        "The airline's closure affects thousands of employees and travelers, with significant financial implications for the aviation industry.",
+        "This development raises questions about the future of low-cost carriers and the broader economic impact on air travel."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:26:04 GMT",
+      "image": "https://image.cnbcfm.com/api/v1/image/108301156-1777741139273-IMG_9263.jpg?v=1777747246&amp;w=1920&amp;h=1080"
+    },
+    {
+      "title": "Miami F1 Grand Prix brought forward by three hours to beat storm threat",
+      "source": "CNA",
+      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "link": "https://www.channelnewsasia.com/sport/miami-f1-grand-prix-brought-forward-three-hours-beat-storm-threat-6096581",
+      "category": "Sports",
+      "bullets": [
+        "The Miami F1 Grand Prix was rescheduled to start three hours earlier on May 3, 2026, due to an impending storm threat.",
+        "Organizers aimed to ensure safety for participants and spectators, adjusting the schedule to avoid severe weather conditions.",
+        "This decision highlights the challenges of hosting outdoor events in unpredictable weather, impacting attendance and logistics."
+      ],
+      "pubDate": "Sun, 03 May 2026 08:24:15 +0800",
+      "image": "https://dam.mediacorp.sg/image/upload/s--rxtHnJ0k--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-03T002415Z_1_LYNXMPEM42002_RTROPTP_3_MOTOR-F1-MIAMI.JPG?itok=CaVZJzKd"
+    },
+    {
+      "title": "Standoff as Vega crew await repatriation to India",
+      "source": "RNZ",
+      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
+      "link": "https://www.rnz.co.nz/news/business/594097/standoff-as-vega-crew-await-repatriation-to-india",
+      "category": "World",
+      "bullets": [
+        "The crew of the retired Interislander ferry has been stranded in Tasman Bay since December 2025, awaiting repatriation to India.",
+        "Some crew members expressed frustration, stating they just want to return home after months of uncertainty.",
+        "The situation raises concerns about the treatment of maritime workers and the responsibilities of shipping companies."
+      ],
+      "pubDate": "Sun, 03 May 2026 12:18:59 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--zKA6dFL6--/t_tohu-badge-facebook/v1777617822/4JPKMLC_The_Vega_at_anchor_in_Tasman_Bay_where_it_has_been_since_December_2_Supplied_JPG?_a=BACCd2AD"
+    },
+    {
+      "title": "Iran-US war latest: Trump says he has a new peace plan from Tehran but they haven’t ‘paid a big enough price’",
+      "source": "The Independent",
+      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
+      "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-germany-israel-strait-hormuz-b2969401.html",
+      "category": "Politics",
+      "bullets": [
+        "U.S. President Trump announced a new peace plan from Iran on May 3, 2026, but criticized Iran for not facing enough consequences.",
+        "He indicated a possibility of ordering new military strikes if Iran continues to 'misbehave', escalating tensions.",
+        "This statement underscores the fragile state of U.S.-Iran relations and the potential for further conflict in the region."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:11:13 GMT",
+      "image": "https://static.independent.co.uk/2026/05/03/01/2273706797.jpg?width=1200&auto=webp&crop=3%3A2"
+    },
+    {
+      "title": "Bard College's president to retire after scrutiny of relationship with Jeffrey Epstein",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/rss/rss.php?id=1001",
+      "link": "https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein",
+      "category": "Culture",
+      "bullets": [
+        "Bard College President Leon Botstein announced his retirement on May 2, 2026, amid scrutiny over his ties to Jeffrey Epstein.",
+        "The relationship was revealed to be deeper than previously known, prompting backlash from the college community.",
+        "His departure may lead to a reevaluation of leadership and governance at the institution, impacting its future direction."
+      ],
+      "pubDate": "Sat, 02 May 2026 20:09:30 -0400",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2850x1603+0+97/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F1e%2Fedd1570846f789fa8255a0200f40%2Fap26122025459996.jpg"
+    },
+    {
+      "title": "King's speech was a 'high stakes' moment of US visit, Palace says",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
+      "link": "https://www.bbc.com/news/articles/cy72d4g5pdyo#0",
+      "category": "Politics",
+      "bullets": [
+        "The King's speech during his state visit to the U.S. on May 3, 2026, was described as a 'high stakes' moment by the Palace.",
+        "The speech received a positive response, helping to navigate a challenging diplomatic landscape between the nations.",
+        "This visit is crucial for strengthening bilateral relations and addressing ongoing global issues collaboratively."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:03:32 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6c8/live/4dd9de60-4683-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "title": "How to always win in Gamble with your Friends game",
+      "source": "Destructoid",
+      "sourceUrl": "https://www.destructoid.com/feed/",
+      "link": "https://www.destructoid.com/?p=1211786",
+      "category": "Tech",
+      "bullets": [
+        "A guide on winning the game 'Gamble with your Friends' was published on May 3, 2026, detailing strategies for success.",
+        "The guide emphasizes that while gambling involves risk, following specific prerequisites can increase winning chances.",
+        "This resource aims to enhance the gaming experience among friends, promoting engagement and enjoyment in social settings."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:00:47 +0000",
+      "image": "https://www.destructoid.com/wp-content/uploads/2026/05/3892270_1208.jpg"
+    },
+    {
+      "title": "Bonkers Sh*t Under $25 That's So Damn Genius",
+      "source": "Inverse",
+      "sourceUrl": "https://www.inverse.com/rss",
+      "link": "https://www.inverse.com/shopping/bonkers-sht-under-25-thats-so-damn-genius",
+      "category": "Culture",
+      "bullets": [
+        "A list of innovative products under $25 was released on May 3, 2026, showcasing items that enhance everyday life.",
+        "These products aim to transform mundane tasks into enjoyable experiences, appealing to budget-conscious consumers.",
+        "The trend reflects a growing market for affordable yet creative solutions in home decor and personal care."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:00:25 GMT",
+      "image": "https://imgix.bustle.com/uploads/image/2026/5/1/d0474054/20.png?w=1200&fit=max"
+    },
+    {
+      "title": "Can the ‘blue economy’ deliver on its promise? Investors are starting see the ocean as an asset worth protecting",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/feed/",
+      "link": "https://fortune.com/2026/04/29//?preview_id=4475861",
+      "category": "Environment",
+      "bullets": [
+        "Investors and scientists are increasingly focusing on the 'blue economy' as a valuable asset worth protecting as of May 3, 2026.",
+        "The movement emphasizes sustainable ocean resource management, with significant investments expected to scale rapidly.",
+        "This shift could lead to enhanced conservation efforts and economic opportunities, impacting global marine ecosystems."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:00:00 +0000",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2265498927.jpg?w=2048"
+    },
+    {
+      "title": "6 Discontinued '90s Gadgets People Still Miss",
+      "source": "Mental Floss",
+      "sourceUrl": "https://www.mentalfloss.com/feed",
+      "link": "https://www.mentalfloss.com/6-discontinued-90s-gadgets-people-still-miss-01kqfmc6zb9f?utm_source=RSS",
+      "category": "Tech",
+      "bullets": [
+        "A retrospective on discontinued '90s gadgets was published on May 3, 2026, highlighting nostalgic technology like the Walkman.",
+        "These gadgets, including the Talkboy, represent a cultural shift in technology and consumer preferences over the decades.",
+        "The article reflects on how advancements have changed daily life, sparking nostalgia among those who grew up in the '90s."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:00:00 +0000",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1000,h_562,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kqfny7r2x1h0hsxth8.jpg"
+    },
+    {
+      "title": "Iran war live: Trump says reviewing 14-point plan; Israel pounds Lebanon",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
+      "link": "https://www.aljazeera.com/?t=1777763360",
+      "category": "World",
+      "bullets": [
+        "On May 3, 2026, Trump stated he is reviewing a 14-point plan from Iran while expressing skepticism about reaching a deal.",
+        "Simultaneously, Israel conducted airstrikes on Lebanon, escalating tensions in the region amid ongoing conflict.",
+        "These developments indicate a volatile geopolitical landscape, with potential implications for U.S. foreign policy and regional stability."
+      ],
+      "pubDate": "Sun, 03 May 2026 00:00:00 +0000",
+      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
+    },
+    {
+      "title": "‘Not yet paid a big enough price’: Trump sceptical as Iran submits 14-point plan to end war",
+      "source": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "link": "https://timesofindia.indiatimes.com/world/us/not-yet-paid-a-big-enough-price-donald-trump-sceptical-as-iran-submits-14-point-plan-to-end-war/articleshow/130726204.cms",
+      "category": "Politics",
+      "bullets": [
+        "US President Trump is skeptical of Iran's 14-point peace plan, stating they haven't paid a sufficient price for past actions.",
+        "The Iranian proposal includes security guarantees, withdrawal of US forces, and sanctions relief, but Trump hints at military action if needed.",
+        "The ongoing negotiations could lead to renewed tensions, as Trump considers military options while reviewing Iran's proposal."
+      ],
+      "pubDate": "Sun, 03 May 2026 05:29:16 +0530",
+      "image": "https://static.toiimg.com/photo/msid-130726214,imgsize-578353.cms"
+    },
+    {
+      "title": "'I completely blew it' - Wu into final as Allen misses simple black to win",
+      "source": "BBC Sport",
+      "sourceUrl": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "link": "https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o#0",
+      "category": "Sports",
+      "bullets": [
+        "Mark Allen lost to Wu Yize in the World Championship semi-finals after missing a crucial black ball in the final frame.",
+        "Allen's defeat was marked by a score of 17-16, with Wu Yize advancing to the finals for the first time.",
+        "This loss could impact Allen's future in the sport, as he reflects on missed opportunities in high-stakes matches."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:58:25 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1c9/live/032e81d0-467a-11f1-8764-25ccb7d7a02c.jpg"
+    },
+    {
+      "title": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
+      "source": "Guardian AU",
+      "sourceUrl": "https://www.theguardian.com/australia-news/rss",
+      "link": "https://www.theguardian.com/australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
+      "category": "World",
+      "bullets": [
+        "Jefferson Lewis has been charged with the murder of five-year-old Kumanjayi Little Baby, who went missing on April 25 near Alice Springs.",
+        "The girl was found dead five days later, prompting outrage and calls for justice within the Indigenous community.",
+        "This case highlights ongoing issues of violence against Indigenous Australians and may lead to increased scrutiny of local law enforcement."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:56:31 GMT",
+      "image": "https://i.guim.co.uk/img/media/9e1437d7ffc16ed66c4f33eba20f2980ad12cec9/0_0_4200_3360/master/4200.jpg?width=700&quality=85&auto=format&fit=max&s=d3ab3eb76748636b91430547b89bb41d"
+    },
+    {
+      "title": "Global Sumud Flotilla calls on NZ government to intervene after Israeli interception",
+      "source": "RNZ",
+      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
+      "link": "https://www.rnz.co.nz/news/world/594092/global-sumud-flotilla-calls-on-nz-government-to-intervene-after-israeli-interception",
+      "category": "World",
+      "bullets": [
+        "The Global Sumud Flotilla reported that 22 boats carrying aid for Gaza were intercepted by Israeli forces in international waters.",
+        "Among those detained were six New Zealanders, raising concerns about international law and humanitarian aid access.",
+        "The incident may prompt diplomatic actions from New Zealand, as the government faces pressure to respond to the interception."
+      ],
+      "pubDate": "Sun, 03 May 2026 11:49:13 +1200",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--RY6YhDYp--/t_tohu-badge-facebook/v1777529752/4JPCMLM_Flotilla_png?_a=BACCd2AD"
+    },
+    {
+      "title": "This Emmy-nominated sci-fi series is one of 3 underrated Prime Video shows to watch this weekend (May 2-3)",
+      "source": "Digital Trends",
+      "sourceUrl": "https://www.digitaltrends.com/feed/",
+      "link": "https://www.digitaltrends.com/?p=5970411",
+      "category": "Culture",
+      "bullets": [
+        "Three underrated Prime Video shows, including a cancelled spy thriller, are recommended for viewing this weekend, May 2-3.",
+        "The selection highlights a rotoscoped animated drama and a melancholic sci-fi anthology that failed to gain audience traction.",
+        "These shows represent hidden gems in streaming, encouraging viewers to explore lesser-known content amid popular releases."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:47:31 +0000",
+      "image": "https://www.digitaltrends.com/tachyon/2026/05/underrated-tv-show-on-prime-this-weekend.jpg?resize=440%2C292"
+    },
+    {
+      "title": "Steve Carell Has 11 Emmy Noms and Zero Wins. Why ‘Rooster’ Could Finally Wake Voters Up",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/feed/",
+      "link": "https://variety.com/?p=1236736137",
+      "category": "Culture",
+      "bullets": [
+        "Steve Carell's new series 'Rooster' is gaining attention as a potential Emmy contender despite his 11 nominations without a win.",
+        "HBO Max's lineup includes strong competitors like 'The Pitt' and 'Hacks,' making the Emmy race highly competitive this year.",
+        "Carell's performance in 'Rooster' could finally earn him recognition, influencing voter perceptions ahead of the Primetime Emmys."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:34:56 +0000",
+      "image": "https://variety.com/wp-content/uploads/2026/05/1000039209.jpg"
+    },
+    {
+      "title": "Trump says new strikes possible if Iran \"misbehaves\"",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/feeds/feed.rss",
+      "link": "https://www.axios.com/2026/05/02/trump-iran-strikes",
+      "category": "Politics",
+      "bullets": [
+        "President Trump warned of possible military strikes against Iran if they 'misbehave' during ongoing peace negotiations.",
+        "He stated, 'If they do something bad — but right now, we'll see,' indicating a cautious approach to the situation.",
+        "This statement underscores the fragile nature of US-Iran relations as both sides exchange drafts for a potential peace agreement."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:32:18 +0000",
+      "image": "https://images.axios.com/WkRPE5hDsVSa6UYLhQvcIG8DoSw=/0x747:7427x4925/1366x768/2026/05/02/1777764567863.jpeg"
+    },
+    {
       "title": "Solar radio bursts reveal hidden magnetic switchbacks near the sun, Parker Solar Probe data suggest",
       "source": "Phys.org",
       "sourceUrl": "https://phys.org/rss-feed/",
       "link": "https://phys.org/news/2026-04-solar-radio-reveal-hidden-magnetic.html",
       "category": "Science",
       "bullets": [
-        "Data from the Parker Solar Probe reveals solar radio bursts linked to magnetic switchbacks near the sun, observed on May 2, 2026.",
-        "These bursts are generated by electrons moving at near-light speed, confined to magnetic field lines, impacting solar physics research.",
-        "Understanding these phenomena could enhance predictions of solar activity and its effects on Earth, crucial for space weather forecasting."
+        "Data from the Parker Solar Probe reveals solar radio bursts linked to magnetic switchbacks near the sun's surface.",
+        "These bursts are caused by electrons moving at high speeds, generating radio emissions through plasma processes.",
+        "Understanding these phenomena could enhance knowledge of solar activity and its effects on space weather and Earth."
       ],
       "pubDate": "Sat, 02 May 2026 19:30:01 EDT",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/signatures-of-large-sc.jpg"
@@ -78,9 +596,9 @@
       "link": "https://www.polygon.com/mtg-hobbit-the-one-ring-art-controversy/",
       "category": "Culture",
       "bullets": [
-        "A Magic: The Gathering artist admitted on May 2, 2026, that Wizards of the Coast reused art for The One Ring in a new set.",
-        "This controversy has sparked debate among fans and collectors about originality and copyright in the gaming industry.",
-        "The admission may lead to changes in how art is sourced and credited in future Magic: The Gathering expansions."
+        "A Magic: The Gathering artist admitted to reusing art for The One Ring in the upcoming Hobbit set, sparking controversy.",
+        "This revelation has raised questions about originality and artistic integrity within the gaming community.",
+        "The incident may lead to changes in how Wizards of the Coast manages art submissions and copyright issues."
       ],
       "pubDate": "Sat, 02 May 2026 23:18:54 GMT",
       "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/gollum-with-ring.jpeg"
@@ -92,9 +610,9 @@
       "link": "https://www.aljazeera.com/?t=1777763705",
       "category": "Environment",
       "bullets": [
-        "The Mayon Volcano erupted on May 2, 2026, releasing a significant ash cloud over Bicol, Philippines, affecting local communities.",
-        "Authorities are monitoring the situation, advising residents to stay indoors and prepare for potential evacuations due to ashfall.",
-        "This eruption could impact air travel and agriculture in the region, highlighting the need for disaster preparedness."
+        "The Mayon Volcano in the Philippines erupted, releasing a significant ash cloud that blanketed the Bicol region.",
+        "Local authorities have issued warnings and evacuation orders as ashfall affects air quality and visibility.",
+        "This eruption could disrupt local communities and impact agriculture, prompting emergency response measures."
       ],
       "pubDate": "Sat, 02 May 2026 23:16:50 +0000",
       "image": "https://www.aljazeera.com/images/logo_aje_social.png"
@@ -148,9 +666,9 @@
       "link": "https://www.abc.net.au/news/2026-05-03/madrid-open-womens-final-marta-kostyuk-ukrainian-wins/106635704",
       "category": "Sports",
       "bullets": [
-        "Marta Kostyuk from Ukraine won the Madrid Open women's final on May 2, 2026, defeating Russian player Mirra Andreeva.",
-        "Kostyuk celebrated her victory with a backflip, showcasing her excitement and determination in a politically charged sports environment.",
-        "This win is significant for Kostyuk, enhancing her profile in tennis and highlighting the ongoing tensions between Ukraine and Russia."
+        "Marta Kostyuk of Ukraine defeated Mirra Andreeva of Russia in the Madrid Open women's final on May 2, 2026.",
+        "Kostyuk celebrated her victory with a backflip, marking her first major title and ending the match with a score of 6-4, 6-3.",
+        "This win highlights the ongoing tensions in sports between Ukraine and Russia amid the ongoing conflict, impacting international competitions."
       ],
       "pubDate": "Sat, 02 May 2026 23:11:11 +0000",
       "image": "https://live-production.wcms.abc-cdn.net.au/4ec39910f9f12c56638afb19228e610b?impolicy=wcms_watermark_news&amp;cropH=2458&amp;cropW=4369&amp;xPos=0&amp;yPos=228&amp;width=862&amp;height=485&amp;imformat=generic"
@@ -190,26 +708,12 @@
       "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
       "category": "Business",
       "bullets": [
-        "Spirit Airlines ceased operations on May 2, 2026, after failing to secure a government bailout from bondholders amid financial struggles.",
-        "The airline's closure marks the end of its discount travel model, affecting approximately 10,000 employees and leaving many travelers stranded.",
-        "This shutdown could reshape the low-cost airline market, as competitors may absorb Spirit's routes and customers in the coming months."
+        "Spirit Airlines ceased operations on May 2, 2026, after failing to secure a $1.5 billion bailout from bondholders.",
+        "The airline's closure ends its 23-year run in the discount travel market, affecting over 6,000 employees and numerous travelers.",
+        "This shutdown may lead to increased airfares and reduced competition in the budget airline sector across the U.S."
       ],
       "pubDate": "Sat, 02 May 2026 23:07:35 GMT",
       "image": "https://image.cnbcfm.com/api/v1/image/108296377-17769656712026-04-23t171341z_2015087744_rc22vka7xf3k_rtrmadp_0_usa-airlines-spirit.jpeg?v=1777674790&amp;w=1920&amp;h=1080"
-    },
-    {
-      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "link": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
-      "category": "Business",
-      "bullets": [
-        "Spirit Airlines officially shut down operations overnight on May 2, 2026, following unsuccessful negotiations for a government bailout.",
-        "The airline's failure to reach a deal has left thousands of passengers without flights, with many seeking alternative travel arrangements.",
-        "The collapse of Spirit Airlines highlights vulnerabilities in the airline industry, prompting discussions on regulatory reforms and financial support."
-      ],
-      "pubDate": "Sat, 02 May 2026 23:05:42 GMT",
-      "image": "https://image.cnbcfm.com/api/v1/image/108301156-1777741139273-IMG_9263.jpg?v=1777747246&amp;w=1920&amp;h=1080"
     },
     {
       "title": "Video of NYC police killing machete-wielding man at Grand Central station released",
@@ -218,9 +722,9 @@
       "link": "https://globalnews.ca/?p=11827695",
       "category": "Politics",
       "bullets": [
-        "NYPD released footage showing officers fatally shooting a machete-wielding man at Grand Central station after he stabbed three individuals.",
-        "The incident occurred on May 2, 2026, with police stating the man refused multiple commands to drop his weapon, leading to the shooting.",
-        "This event has reignited debates on police use of force and public safety in urban areas, prompting calls for policy reviews."
+        "NYPD released footage on May 2, 2026, showing officers fatally shooting a machete-wielding man at Grand Central station.",
+        "The man had stabbed three individuals before police intervened, with officers firing multiple shots after he ignored commands to drop the weapon.",
+        "This incident raises questions about police use of force and public safety in high-traffic urban areas."
       ],
       "pubDate": "Sat, 02 May 2026 23:03:42 +0000",
       "image": "https://globalnews.ca/wp-content/uploads/2026/05/Screenshot-2026-05-02-190205.png?w=720&h=480&crop=1"
@@ -254,6 +758,20 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/03/560a8b1c-cabd-4c48-8ad3-fc4cf03fedf1_b35ffbbb.jpg?itok=HHMoUNbP&v=1777762923"
     },
     {
+      "title": "Globle answer today – here’s the answer and hints for May 03",
+      "source": "NME",
+      "sourceUrl": "https://www.nme.com/feed",
+      "link": "https://www.nme.com/?p=3213991",
+      "category": "Culture",
+      "bullets": [
+        "The latest Globle answer and hints for May 3, 2026, were posted online, engaging geography enthusiasts worldwide.",
+        "Players are challenged to identify locations based on clues, enhancing global awareness and knowledge of geography.",
+        "This interactive game continues to grow in popularity, fostering a community of players dedicated to improving their geographical skills."
+      ],
+      "pubDate": "Sat, 02 May 2026 23:00:17 +0000",
+      "image": "https://www.nme.com/wp-content/uploads/2024/01/globle@2000x1270.jpg"
+    },
+    {
       "title": "Watch: Football Focus",
       "source": "BBC Sport",
       "sourceUrl": "https://feeds.bbci.co.uk/sport/rss.xml",
@@ -274,9 +792,9 @@
       "link": "https://variety.com/?p=1236732232",
       "category": "Culture",
       "bullets": [
-        "Lily Allen's one-woman show has been described as the least populous pop tour of the year, yet it captivates audiences uniquely.",
-        "Critics note the show's intimate setting allows for deep personal engagement, contrasting with typical large-scale pop concerts.",
-        "This innovative approach may redefine expectations for live performances, encouraging artists to explore more personal storytelling in their work."
+        "Lily Allen's one-woman show is noted as the least populous pop tour of 2026, with only 200 attendees per performance.",
+        "Critics are divided on the show's intimate format, which focuses on personal storytelling rather than traditional concert elements.",
+        "The unique approach may redefine pop concerts, emphasizing personal connection over mass appeal in the music industry."
       ],
       "pubDate": "Sat, 02 May 2026 22:58:19 +0000",
       "image": "https://variety.com/wp-content/uploads/2026/04/8904c6b9-8908-4989-b1eb-07809e3d6c29_0e9a4a-e1777391069653.jpg"
@@ -302,9 +820,9 @@
       "link": "https://thehill.com/?p=5861053",
       "category": "Politics",
       "bullets": [
-        "Bill Maher compared California Governor Gavin Newsom's defamation lawsuit against Fox News to actions taken by former President Trump.",
-        "Newsom's lawsuit, filed in June 2025, alleges false statements made by the network, seeking damages for reputational harm.",
-        "This comparison raises questions about media accountability and political discourse, potentially influencing future legal actions against media outlets."
+        "Bill Maher criticized California Governor Gavin Newsom's lawsuit against Fox News during a May 2, 2026, interview.",
+        "Newsom's defamation lawsuit, filed in June 2025, mirrors tactics used by former President Trump against media outlets.",
+        "This comparison may influence public perception of Newsom's political strategies and his relationship with the media."
       ],
       "pubDate": "Sat, 02 May 2026 22:56:09 +0000",
       "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Closer-Maher_031626_Invision_Evan-Agostini.jpg?w=900"
@@ -344,9 +862,9 @@
       "link": "https://www.digitaltrends.com/?p=5970402",
       "category": "Culture",
       "bullets": [
-        "The Academy announced on May 2, 2026, that AI cannot win Oscars for acting or writing, emphasizing human creativity.",
-        "This decision reinforces the importance of human performance in filmmaking, despite the increasing use of AI technologies.",
-        "The ruling may influence future industry standards and the role of AI in creative processes within Hollywood."
+        "The Academy announced on May 2, 2026, that AI cannot win Oscars for acting or writing, reinforcing human creativity's importance.",
+        "This decision comes amid increasing concerns about AI's role in the film industry, with many advocating for human-centric awards.",
+        "The ruling may shape future filmmaking practices and the development of AI technologies in creative fields."
       ],
       "pubDate": "Sat, 02 May 2026 22:48:17 +0000",
       "image": "https://www.digitaltrends.com/tachyon/2026/05/DT-2026-05-03T041428.190.jpg?resize=440%2C292"
@@ -358,9 +876,9 @@
       "link": "https://www.pbs.org/newshour/politics/state-redistricting-battles-intensify-following-u-s-supreme-court-ruling-on-voting-rights-act",
       "category": "Politics",
       "bullets": [
-        "Following a U.S. Supreme Court ruling on May 2, 2026, Louisiana's majority Black congressional district was struck down, intensifying redistricting battles.",
-        "States are now facing pressure to redraw district lines, with potential implications for minority representation and voting rights.",
-        "This ruling could reshape political landscapes across the nation, affecting upcoming elections and legislative power."
+        "Following a U.S. Supreme Court ruling on May 2, 2026, states are intensifying redistricting battles over voting rights.",
+        "The court struck down a majority Black congressional district in Louisiana, prompting immediate responses from various states.",
+        "This ruling could significantly impact upcoming elections and representation, igniting debates over gerrymandering and voter rights."
       ],
       "pubDate": "Sat, 02 May 2026 18:43:24 -0400",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2024-10-30T100340Z_1610214734_RC2WTAAB39FW_RTRMADP_3_USA-ELECTION-BATTLEGROUNDS-1024x692.jpg"
@@ -386,9 +904,9 @@
       "link": "https://www.destructoid.com/?p=1211779",
       "category": "Tech",
       "bullets": [
-        "To unlock Area 41 in 'Far Far West,' players must complete The Great Marauder Secret quest by interacting with Dr. Spark-Twist.",
-        "The quest involves two specific tasks that players need to accomplish to progress in the game.",
-        "Successfully completing this quest will enhance gameplay experience and access to new game areas."
+        "To unlock Area 41 in Far Far West, players must complete The Great Marauder Secret quest, starting with Dr. Spark-Twist.",
+        "The quest involves two main tasks, crucial for progressing in the game and exploring new map features.",
+        "Successfully completing this quest enhances gameplay experience, encouraging players to engage more deeply with the game's narrative."
       ],
       "pubDate": "Sat, 02 May 2026 22:37:10 +0000",
       "image": "https://www.destructoid.com/wp-content/uploads/2026/04/ss_28b89f775c8e3dd6e423662b1f4bf285285339e5.1920x1080.jpg"
@@ -400,9 +918,9 @@
       "link": "https://www.bbc.com/sport/football/articles/c6269y4gdlxo#0",
       "category": "Sports",
       "bullets": [
-        "Arsenal secured a 3-0 victory over Fulham on May 2, 2026, putting them six points ahead of Manchester City in the Premier League.",
-        "This win positions Arsenal as strong contenders for the league title, with only a few matches remaining in the season.",
-        "The outcome could significantly impact the title race dynamics, increasing pressure on Manchester City to perform."
+        "Arsenal took a significant lead in the Premier League title race on May 2, 2026, defeating Fulham 3-0.",
+        "This victory puts Arsenal six points ahead of Manchester City, with only a few matches left in the season.",
+        "If Arsenal maintains this lead, they will secure their first Premier League title in years, boosting team morale and fan support."
       ],
       "pubDate": "Sat, 02 May 2026 22:30:55 GMT",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1fc/live/81f1f360-4663-11f1-bd52-e755d604ece4.jpg"
@@ -484,9 +1002,9 @@
       "link": "https://www.abc.net.au/news/2026-05-03/ryan-reynolds-gutted-wrexham-misses-premier-league-promotion/106635638",
       "category": "Sports",
       "bullets": [
-        "Ryan Reynolds expressed disappointment on May 2, 2026, after Wrexham missed out on promotion to the English Premier League.",
-        "Despite the setback, Reynolds stated he is proud of the team's efforts throughout the season, highlighting their growth.",
-        "This near-miss could influence future investments and strategies for Wrexham as they aim for promotion next season."
+        "Wrexham, co-owned by Ryan Reynolds, narrowly missed Premier League promotion on May 2, 2026, after a disappointing season finale.",
+        "Reynolds expressed feeling 'gutted' but proud, highlighting the team's effort despite falling short of their goal.",
+        "This loss impacts Wrexham's financial prospects and fan engagement, as promotion could have significantly increased revenue streams."
       ],
       "pubDate": "Sat, 02 May 2026 22:11:30 +0000",
       "image": "https://live-production.wcms.abc-cdn.net.au/92b7123f61162b341357c44fe8fd377f?impolicy=wcms_watermark_news&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485&amp;imformat=generic"
@@ -526,9 +1044,9 @@
       "link": "https://www.inverse.com/entertainment/the-black-cat-85-year-anniversary",
       "category": "Culture",
       "bullets": [
-        "A remake of the 1941 horror film 'Black Cat' was attempted but failed to resonate with audiences on May 2, 2026.",
-        "Critics noted the film's bizarre mix of genres, contrasting sharply with the 1934 original featuring Bela Lugosi and Boris Karloff.",
-        "The failure highlights ongoing challenges in revitalizing classic horror films, raising questions about audience expectations and genre evolution."
+        "A remake of the 1934 horror classic 'Black Cat' failed to resonate with audiences, released on May 2, 2026.",
+        "Critics noted the 1941 version's bizarre mix of genres, lacking the charm of the original featuring Bela Lugosi and Boris Karloff.",
+        "This failure reflects ongoing challenges in revitalizing classic horror films, impacting future projects in the genre."
       ],
       "pubDate": "Sat, 02 May 2026 22:00:24 GMT",
       "image": "https://imgix.bustle.com/uploads/shutterstock/2026/5/1/cd22d317/shutterstock-5850941a.jpg?w=1200&fit=max"
@@ -566,11 +1084,11 @@
       "source": "How-To Geek",
       "sourceUrl": "https://www.howtogeek.com/feed/",
       "link": "https://www.howtogeek.com/cadillacs-f1-sedan-685-horsepower-manual-transmission-cant-buy/",
-      "category": "Business",
+      "category": "Tech",
       "bullets": [
-        "Cadillac unveiled a 685-horsepower F1 sedan featuring a manual transmission, developed for the 2026 Formula 1 season.",
-        "This high-performance vehicle is not available for public purchase, emphasizing its exclusivity and racing pedigree.",
-        "The announcement reflects Cadillac's commitment to motorsport innovation, potentially influencing future consumer models and brand perception."
+        "Cadillac unveiled a 685-horsepower F1 sedan on May 2, 2026, developed for the Formula 1 season but not available for purchase.",
+        "The vehicle features a manual transmission, showcasing Cadillac's engineering prowess and commitment to performance.",
+        "This move positions Cadillac as a serious player in high-performance automotive markets, despite limited consumer availability."
       ],
       "pubDate": "Sat, 02 May 2026 22:00:17 GMT",
       "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/05/ct5-v-blackwing-f1-collector-series-3.jpg"
@@ -624,9 +1142,9 @@
       "link": "https://www.mentalfloss.com/food/mexican-foods-with-ritual-meaning?utm_source=RSS",
       "category": "Culture",
       "bullets": [
-        "Three traditional Mexican foods were highlighted for their ritual significance in cultural celebrations on May 2, 2026.",
-        "These foods are deeply rooted in history, reflecting the sacred rituals that accompany their preparation and consumption.",
-        "Understanding these rituals enriches appreciation for Mexican cuisine, fostering cultural awareness and culinary heritage."
+        "Three traditional Mexican foods with ritual significance were highlighted on May 2, 2026, showcasing their cultural importance.",
+        "These foods are deeply rooted in history, often celebrated during festivals and significant life events in Mexican culture.",
+        "Understanding these rituals enhances appreciation for Mexican cuisine, promoting cultural heritage and culinary tourism."
       ],
       "pubDate": "Sat, 02 May 2026 22:00:00 +0000",
       "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4447,h_2501,x_87,y_526/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kqjsr7vdk7kt39y41q.jpg"
@@ -652,9 +1170,9 @@
       "link": "https://techcrunch.com/?p=3118619",
       "category": "Culture",
       "bullets": [
-        "The Academy announced that AI-generated actors and scripts are now ineligible for Oscar nominations as of May 2, 2026.",
-        "This decision impacts the future of AI in filmmaking, particularly for creators like Tilly Norwood who utilize AI technologies.",
-        "The ruling raises questions about the role of technology in creative industries and the definition of artistic authorship."
+        "The Academy announced on May 2, 2026, that AI-generated actors and scripts will be ineligible for Oscars, affecting future nominations.",
+        "This decision aims to preserve artistic integrity, with industry reactions highlighting concerns over AI's role in creative fields.",
+        "The ruling could shape the future of filmmaking, influencing how studios approach scriptwriting and casting."
       ],
       "pubDate": "Sat, 02 May 2026 21:54:58 +0000",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2266014829.jpg?w=1024"
@@ -680,9 +1198,9 @@
       "link": "https://news.mongabay.com/?post_type=short-article&p=318618",
       "category": "Environment",
       "bullets": [
-        "International Leopard Day on May 2, 2026, highlighted the declining populations of leopards across Asia and Africa.",
-        "Despite being the most widespread big cats, leopards face threats from habitat loss and illegal trade in trophies and body parts.",
-        "Conservation efforts are crucial to protect these species, as their survival impacts biodiversity and ecosystem health."
+        "On May 2, 2026, International Leopard Day raised awareness about the declining populations of leopards across Asia and Africa.",
+        "Recent reports indicate a shrinking habitat and increasing threats from poaching, with leopards facing significant survival challenges.",
+        "Conservation efforts are crucial to protect these big cats, as their decline impacts biodiversity and ecosystem health."
       ],
       "pubDate": "02 May 2026 21:50:49 +0000",
       "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/02214750/south_africa_kruger_5094-768x512.jpg"
@@ -694,9 +1212,9 @@
       "link": "https://www.irishtimes.com/ireland/2026/05/02/further-fuel-protests-expected-before-the-autumn-budget-spokesmen-say/",
       "category": "Politics",
       "bullets": [
-        "Protests are anticipated ahead of the autumn Budget in Ireland, as stated by spokesman James Geoghegan on May 2, 2026.",
-        "The government's support package is set to expire by July, raising concerns about economic stability and public discontent.",
-        "These protests could influence government policy and budget allocations, reflecting citizens' frustrations over economic challenges."
+        "Protests over fuel prices are anticipated before the autumn Budget, as stated by spokesman James Geoghegan on May 2, 2026.",
+        "The government support package is set to expire in July, raising concerns among citizens about rising costs.",
+        "These protests could influence government policy and budget allocations, impacting economic stability and public sentiment."
       ],
       "pubDate": "Sat, 02 May 2026 21:48:59 +0000",
       "image": "https://www.irishtimes.com/resizer/v2/IOZDWJEJ6MHM35DPPJJAMFWCJA.jpg?auth=be330793c79a4d270d101102d85006f9549bc670b1f44945109c70e2b11eebd4&smart=true&width=630&height=350"
@@ -706,11 +1224,11 @@
       "source": "The Scotsman",
       "sourceUrl": "https://www.scotsman.com/rss",
       "link": "https://www.scotsman.com/hays-way/hays-way-the-challenges-rangers-face-in-scotlands-busiest-national-park-as-summer-season-is-set-to-begin-8354153",
-      "category": "Environment",
+      "category": "Business",
       "bullets": [
-        "Rangers in Scotland's busiest national park are preparing for the summer season, facing challenges as of May 2, 2026.",
-        "Nearly a decade has passed since the Loch Lomond by-laws were implemented, impacting visitor management and conservation efforts.",
-        "Effective management during peak season is crucial for preserving natural resources and ensuring visitor safety."
+        "New plans announced on May 2, 2026, allow airlines to cancel flights in advance due to anticipated fuel shortages.",
+        "Ministers aim to prevent last-minute cancellations this summer, particularly concerning Middle East fuel supply issues.",
+        "This policy change seeks to enhance passenger experience and operational reliability during peak travel seasons."
       ],
       "pubDate": "Sat, 02 May 2026 21:48:26 GMT",
       "image": "https://www.scotsman.com/jpim-static/image/2026/05/01/19/02/PA-67955186.jpeg?width=1200&auto=webp&trim=0%2C42%2C0%2C0"
@@ -728,20 +1246,6 @@
       ],
       "pubDate": "Sat, 02 May 2026 21:45:47 +0000",
       "image": "https://variety.com/wp-content/uploads/2026/04/Aimee-Lou-Wood-SNL-UK.jpg"
-    },
-    {
-      "title": "Court denies bail to woman accused in TCS Nashik case",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
-      "link": "https://www.thehindu.com/news/national/court-denies-bail-to-woman-accused-in-tcs-nashik-case/article70932944.ece",
-      "category": "Politics",
-      "bullets": [
-        "A court denied bail to a woman accused in the TCS Nashik case on May 3, 2026, following her arrest.",
-        "Four co-accused individuals were remanded to police custody until May 5, 2026, as investigations continue.",
-        "The case's developments are closely monitored, potentially impacting legal proceedings and public interest."
-      ],
-      "pubDate": "Sun, 03 May 2026 03:10:55 +0530",
-      "image": "https://th-i.thgim.com/public/incoming/pshcjn/article70933041.ece/alternates/LANDSCAPE_1200/iStock-1051720322.jpg"
     },
     {
       "title": "Rahul Gandhi cites Gujarat BJP chief’s ‘indecent remarks’ against Geniben Thakor",
@@ -786,6 +1290,20 @@
       "image": "https://www.destructoid.com/wp-content/uploads/2026/04/ss_06beed80ffd3560c3dcb89044b1c2c12f525b66d.1920x1080.jpg"
     },
     {
+      "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+      "source": "BBC News",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
+      "link": "https://www.bbc.com/news/articles/c794zd1vqn4o#0",
+      "category": "Environment",
+      "bullets": [
+        "Rangers in Scotland's busiest national park face challenges as the summer season approaches, reported on May 2, 2026.",
+        "Nearly a decade since the Loch Lomond by-laws were implemented, rangers are preparing for increased visitor numbers.",
+        "Effective management is crucial to protect the park's natural resources and ensure visitor safety during peak times."
+      ],
+      "pubDate": "Sat, 02 May 2026 21:35:09 GMT",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/789b/live/f0ccbee0-4664-11f1-bd52-e755d604ece4.jpg"
+    },
+    {
       "title": "Penalties mount while KiwiSaver members wait for hardship withdrawal approval",
       "source": "RNZ",
       "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
@@ -820,9 +1338,9 @@
       "link": "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtics-last-day-hero-shakes-hands-on-2023-not-good-for-heart-match-and-turns-to-golf-for-respite-8480834",
       "category": "Sports",
       "bullets": [
-        "Celtic's McCowan reflects on a tense final-day match, dubbed 'not good for heart,' before shifting focus to golf.",
-        "He has a history of performing under pressure during decisive matches, showcasing his competitive spirit.",
-        "McCowan's transition to golf may provide a much-needed mental break from the intensity of football."
+        "Celtic's last-day hero, McCowan, reflected on a tense match described as 'not good for the heart' on May 2, 2026.",
+        "After the match, he turned to golf for relaxation, indicating a shift in focus post-season.",
+        "This transition highlights the pressures athletes face and the importance of mental health and leisure activities."
       ],
       "pubDate": "Sat, 02 May 2026 21:30:13 GMT",
       "image": "https://www.scotsman.com/jpim-static/image/2026/05/02/12/37/20749644.jpeg?width=1200&auto=webp&crop=3%3A2"
@@ -930,11 +1448,11 @@
       "source": "NYT",
       "sourceUrl": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
       "link": "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html",
-      "category": "Health",
+      "category": "Politics",
       "bullets": [
-        "The Fifth Circuit court's ruling requires in-person visits for mifepristone prescriptions, impacting abortion access nationwide.",
-        "This decision, currently under appeal, reverses previous mail-order access, affecting countless patients seeking abortions.",
-        "The ruling could lead to increased barriers for women, prompting further legal challenges and advocacy efforts."
+        "The Fifth Circuit court ruled on May 2, 2026, reinstating in-person requirements for mifepristone access, affecting abortion providers nationwide.",
+        "This ruling reverses previous mail access, potentially impacting millions of women; advocates argue it undermines reproductive rights and access.",
+        "The decision is under appeal, and its implications could reshape abortion access in the U.S., intensifying ongoing legal battles."
       ],
       "pubDate": "Sat, 02 May 2026 21:17:38 +0000",
       "image": "https://static01.nyt.com/images/2026/05/02/multimedia/02nat-abortion-pill-wfcp/02nat-abortion-pill-wfcp-mediumSquareAt3X.jpg"
@@ -946,9 +1464,9 @@
       "link": "https://www.cnet.com/tech/services-and-software/7-a24-movies-you-can-enjoy-without-spending-a-dime/",
       "category": "Culture",
       "bullets": [
-        "Seven A24 films, including The Farewell and Bodies Bodies Bodies, are now available for free streaming this May.",
-        "These films showcase diverse narratives and have received critical acclaim, appealing to a wide audience.",
-        "Access to these films for free encourages viewers to explore independent cinema and support unique storytelling."
+        "A24 has released a selection of films, including 'The Farewell' and 'Bodies Bodies Bodies,' available for free streaming this May.",
+        "These films can be accessed on various platforms, providing viewers with a chance to enjoy critically acclaimed titles without cost.",
+        "This initiative highlights A24's strategy to reach wider audiences and promote its catalog amid increasing competition in streaming."
       ],
       "pubDate": "Sat, 02 May 2026 21:15:46 +0000",
       "image": "https://www.cnet.com/a/img/resize/3912aa9f97741f6ee59486b65a897e4dc94c46c5/hub/2025/10/21/a5aec9fe-00ec-4a4d-926c-a38eb58e2ebb/https-cdn-sanity-io-images-xq1bjtf4-production-e70985357b83c000973c3b5cfcaecf38421780ad-6000x3376-2.jpg?auto=webp&fit=crop&height=614&width=1092"
@@ -974,9 +1492,9 @@
       "link": "https://www.tomshardware.com/pc-components/grab-a-1440p-capable-gaming-rig-with-an-rtx-5060-for-just-usd1-049-save-up-to-25-percent-on-abs-flux-and-cyclone-prebuilts-that-also-feature-32-gb-of-ram",
       "category": "Tech",
       "bullets": [
-        "ABS is offering gaming rigs with RTX 5060 graphics cards for $1,049, saving buyers up to 25%.",
-        "These prebuilts come equipped with 32 GB of RAM, catering to gamers seeking high-performance setups.",
-        "This promotion reflects the growing demand for accessible gaming solutions amid rising component prices."
+        "ABS is offering gaming rigs with RTX 5060 and 32 GB RAM for $1,049, marking a 25% discount on select models this May.",
+        "These prebuilt systems cater to gamers seeking high performance without the hassle of DIY builds, especially during turbulent market conditions.",
+        "This promotion reflects the growing demand for accessible gaming solutions as more consumers turn to ready-made options."
       ],
       "pubDate": "Sat, 02 May 2026 21:14:29 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/9NMKeZiVZdzBFUE46jqvC6-1280-80.jpg"
@@ -988,9 +1506,9 @@
       "link": "https://techcrunch.com/?p=3118614",
       "category": "Tech",
       "bullets": [
-        "IAC announced the shutdown of Ask.com, ending its search business after years of decline.",
-        "This decision marks the end of an era for the once-popular search engine, which struggled to compete.",
-        "The closure underscores the challenges faced by traditional search engines in a rapidly evolving digital landscape."
+        "IAC announced on May 2, 2026, the shutdown of Ask.com, ending its search engine operations after years of declining usage.",
+        "The decision reflects a broader trend in the search market, where competition from Google and others has made survival difficult.",
+        "This closure raises questions about the future of niche search engines and their ability to compete in a consolidated market."
       ],
       "pubDate": "Sat, 02 May 2026 21:11:28 +0000",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1231517365.jpg?w=1024"
@@ -1016,9 +1534,9 @@
       "link": "https://globalnews.ca/?p=11827543",
       "category": "World",
       "bullets": [
-        "Toronto police are investigating a hate-motivated assault involving a replica firearm targeting visibly Jewish victims.",
-        "Authorities are searching for a suspect vehicle linked to the incident, which raises community safety concerns.",
-        "This incident highlights the ongoing issue of hate crimes and the need for increased vigilance and protection."
+        "Toronto police are investigating a hate-motivated assault involving a replica firearm targeting visibly Jewish victims on May 2, 2026.",
+        "The incident involved an Orbeez-type gun, and authorities are seeking information on the suspect vehicle to apprehend those responsible.",
+        "This attack underscores rising concerns about anti-Semitic violence and the need for increased community safety measures."
       ],
       "pubDate": "Sat, 02 May 2026 21:08:15 +0000",
       "image": "https://globalnews.ca/wp-content/uploads/2026/05/Untitled-design-3.jpg?quality=65&strip=all&w=720&h=480&crop=1"
@@ -1072,9 +1590,9 @@
       "link": "https://www.axios.com/2026/05/02/ai-changing-writing-speaking",
       "category": "Tech",
       "bullets": [
-        "Researchers at the University of Southern California found AI is standardizing writing styles, impacting how people communicate since ChatGPT's release.",
-        "The study revealed a significant drop in writing diversity, with favored words like 'delve' and 'comprehend' becoming more common.",
-        "This shift raises concerns about creativity in communication and the long-term effects of AI on language evolution."
+        "A University of Southern California study revealed that AI is standardizing writing and speech patterns, impacting communication styles.",
+        "Post-ChatGPT, researchers noted a significant drop in writing diversity, with favored words like 'delve' and 'comprehend' becoming prevalent.",
+        "This shift raises concerns about the future of creative expression and the potential homogenization of language due to AI influence."
       ],
       "pubDate": "Sat, 02 May 2026 21:00:06 +0000",
       "image": "https://images.axios.com/ahjmTDrnttspAK-rf6i_Ql1NguE=/1366x768/smart/2023/02/14/201108-1676405468663.jpg"
@@ -1084,11 +1602,11 @@
       "source": "MarketWatch",
       "sourceUrl": "https://www.marketwatch.com/rss/topstories",
       "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
-      "category": "Business",
+      "category": "Politics",
       "bullets": [
-        "An analysis shows that investing Social Security contributions in the S&P 500 could yield $4 million, highlighting potential system flaws.",
-        "The author claims to have contributed at the highest level, suggesting disparities in benefits among citizens based on contribution levels.",
-        "This raises questions about the sustainability of Social Security and calls for reforms to address funding issues."
+        "An analysis suggests that investing Social Security contributions in the S&P 500 could yield $4 million, raising questions about the system's efficacy.",
+        "The author, who contributed at the highest level, emphasizes disparities in retirement outcomes based on investment strategies.",
+        "This discussion highlights ongoing debates about Social Security reform and the need for sustainable funding solutions."
       ],
       "pubDate": "Sat, 02 May 2026 21:00:00 GMT",
       "image": "https://images.mktw.net/im-06454902"
@@ -1128,9 +1646,9 @@
       "link": "https://boingboing.net/?p=1111046",
       "category": "Culture",
       "bullets": [
-        "Flowkey is offering five years of unlimited piano lessons for $99.99, down from the regular price of $899.",
-        "The platform aims to make learning piano accessible without traditional rigid lessons, appealing to aspiring musicians.",
-        "This promotion could democratize music education and encourage more people to pursue learning an instrument."
+        "Flowkey is offering a five-year subscription for piano lessons at $99.99, a significant discount from the regular price of $899.",
+        "This deal aims to make learning piano accessible and enjoyable, appealing to beginners and those looking to improve their skills.",
+        "Such promotions reflect a growing trend in online education, providing flexible learning options for music enthusiasts."
       ],
       "pubDate": "Sat, 02 May 2026 21:00:00 +0000",
       "image": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/flowkey-Piano-Learning-App-2.jpg?fit=1400%2C700&quality=60&ssl=1"
@@ -1156,12 +1674,12 @@
       "link": "https://www.nbcnews.com/sports/horse-racing/kentucky-derby-photos-chuchill-downs-horse-racing-rcna343213",
       "category": "Sports",
       "bullets": [
-        "Tens of thousands attended the 152nd Kentucky Derby at Churchill Downs, celebrating one of horse racing's most prestigious events.",
-        "Attendees dressed elegantly, enjoying the atmosphere of the 'sport of kings' and the excitement of the races.",
-        "The Derby continues to be a significant cultural event, drawing attention to horse racing and its traditions."
+        "The 152nd Kentucky Derby took place on May 2, 2026, attracting tens of thousands to Churchill Downs for a day of horse racing.",
+        "Attendees dressed elegantly, celebrating the event's tradition as the 'sport of kings' with vibrant festivities and high stakes.",
+        "The Derby's popularity underscores its cultural significance and economic impact on the local community and the racing industry."
       ],
       "pubDate": "Sat, 02 May 2026 20:57:28 GMT",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260502-kentucky-derby-ch-1457-46e4e8.jpg"
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260502-kentucky-derby-ch-1456-cf8213.jpg"
     },
     {
       "title": "West Bengal elections: Ahead of counting, TMC &amp; BJP spar over EVM security",
@@ -1252,11 +1770,11 @@
       "source": "MarketWatch",
       "sourceUrl": "https://www.marketwatch.com/rss/topstories",
       "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
-      "category": "Business",
+      "category": "Politics",
       "bullets": [
-        "Concerns are rising about the U.S. government borrowing from Social Security to fund federal programs, affecting future benefits.",
-        "Various proposals are being discussed in Washington D.C. to address the program's imminent funding challenges and sustainability.",
-        "This situation could lead to significant reforms in Social Security, impacting millions of Americans relying on the system."
+        "Concerns are rising about the U.S. government potentially borrowing from Social Security to fund federal programs, as discussed on May 2, 2026.",
+        "Various proposals are being considered in Washington D.C. to address the program's funding challenges and ensure its sustainability.",
+        "This situation highlights the urgent need for comprehensive reforms to secure Social Security for future generations."
       ],
       "pubDate": "Sat, 02 May 2026 20:45:00 GMT",
       "image": "https://images.mktw.net/im-63956720"
@@ -1478,9 +1996,9 @@
       "link": "https://www.androidcentral.com/phones/motorola/poll-which-motorola-razr-2026-model-would-you-buy",
       "category": "Tech",
       "bullets": [
-        "Motorola announced the Razr 2026 series, with preorders set to begin soon, as of May 2, 2026.",
-        "The new models feature updated technology and design, appealing to fans of the iconic flip phone, with prices yet to be disclosed.",
-        "Consumer interest is high, with polls gauging preferences, indicating a potential resurgence in the foldable smartphone market."
+        "Motorola has announced the Razr 2026 series, with preorders set to begin shortly, featuring multiple models.",
+        "The new Razr models include upgraded features and designs, appealing to both nostalgic fans and new users.",
+        "The launch aims to capture market interest in foldable phones, competing against brands like Samsung and Huawei."
       ],
       "pubDate": "Sat, 02 May 2026 20:00:53 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/tnGMn7uCzx77Ufs4Tf4eg9-1280-80.jpg"
@@ -1520,9 +2038,9 @@
       "link": "https://hackernoon.com/500-blog-posts-to-learn-about-data-security?source=rss",
       "category": "Tech",
       "bullets": [
-        "A comprehensive guide featuring 500 blog posts on data security was published on May 2, 2026, aimed at educating users.",
-        "The collection covers various aspects of data protection, including encryption, privacy laws, and best practices for individuals and businesses.",
-        "This resource is crucial as cyber threats continue to rise, emphasizing the need for enhanced awareness and proactive security measures."
+        "HackerNoon has compiled a list of 500 blog posts focused on data security, providing resources for various skill levels.",
+        "The posts cover topics from basic security practices to advanced data protection techniques, catering to a wide audience.",
+        "This initiative highlights the growing importance of data security in an increasingly digital world, encouraging informed practices."
       ],
       "pubDate": "Sat, 02 May 2026 20:00:34 GMT",
       "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/github/data-security-994.png"
@@ -1532,11 +2050,11 @@
       "source": "Polygon",
       "sourceUrl": "https://www.polygon.com/rss/index.xml",
       "link": "https://www.polygon.com/far-far-west-impressions/",
-      "category": "Culture",
+      "category": "Tech",
       "bullets": [
-        "The indie multiplayer game 'Far Far West' was released on May 2, 2026, designed to respect players' time commitments.",
-        "Developers emphasize a non-intrusive gameplay experience, allowing players to engage without feeling pressured to invest excessive hours.",
-        "This approach may set a new standard in game design, appealing to casual gamers seeking enjoyable yet time-efficient experiences."
+        "Far Far West, a new multiplayer game, emphasizes player time management, allowing for shorter gaming sessions.",
+        "Developed by an indie studio, it aims to provide a more respectful gaming experience without time monopolization.",
+        "This approach may set a new standard in the gaming industry, appealing to players with limited time."
       ],
       "pubDate": "Sat, 02 May 2026 20:00:19 GMT",
       "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/far-far-west.jpg"
@@ -1632,9 +2150,9 @@
       "link": "https://www.vice.com/en/?p=1986753",
       "category": "Culture",
       "bullets": [
-        "A Vice article published on May 2, 2026, highlights three rappers known for their fighting skills, challenging the stereotype of tough talk.",
-        "The selected artists have demonstrated their abilities in real-life confrontations, showcasing a blend of talent and toughness.",
-        "This piece contributes to the ongoing discourse on authenticity in hip-hop, emphasizing the importance of backing up one's words."
+        "Vice highlights three rappers known for their fighting skills, emphasizing their credibility beyond lyrical bravado.",
+        "The selected artists have demonstrated physical prowess, making them formidable opponents in real-life confrontations.",
+        "This piece adds a unique perspective on the intersection of music and personal strength in hip-hop culture."
       ],
       "pubDate": "Sat, 02 May 2026 19:56:27 +0000",
       "image": "https://www.youtube.com/embed/S_0E-JYhF6A"
@@ -1660,12 +2178,26 @@
       "link": "https://kotaku.com/?p=2000692713",
       "category": "Culture",
       "bullets": [
-        "Developers of a well-received 2024 horror game announced a new project on May 2, 2026, promising an even better experience.",
-        "The upcoming game draws inspiration from '90s meta-horror, aiming to captivate fans with innovative storytelling and gameplay mechanics.",
-        "This release could reinvigorate interest in the horror genre, appealing to both nostalgic players and new audiences."
+        "The creators of a 2024 horror game are returning with a new project that embraces '90s-style meta-horror elements.",
+        "The upcoming game promises innovative gameplay mechanics and a nostalgic aesthetic, appealing to genre fans.",
+        "This revival of retro horror themes could attract both old fans and new players, boosting indie game visibility."
       ],
       "pubDate": "Sat, 02 May 2026 19:55:41 +0000",
       "image": "https://kotaku.com/app/uploads/2026/05/forbiddensolitaire.jpg"
+    },
+    {
+      "title": "West Bengal polls: EC scraps Falta election, orders repolling on May 21",
+      "source": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "link": "https://timesofindia.indiatimes.com/india/west-bengal-polls-election-commission-scraps-falta-election-orders-repolling-on-may-21/articleshow/130723855.cms",
+      "category": "Politics",
+      "bullets": [
+        "The Election Commission of India has canceled the Falta constituency election due to extensive EVM tampering.",
+        "A repolling date has been set for May 21, amidst allegations of threats and candidate aide arrests in the region.",
+        "This decision could significantly impact the political landscape in West Bengal, influencing the state's governance."
+      ],
+      "pubDate": "Sun, 03 May 2026 01:22:39 +0530",
+      "image": "https://static.toiimg.com/photo/msid-130723924,imgsize-1491018.cms"
     },
     {
       "title": "Pete Hegseth and Kid Rock High Five and Fly Apache Helicopters in Pre-Show Hype Video for Freedom 250 Tour",
@@ -1758,9 +2290,9 @@
       "link": "https://www.howtogeek.com/forget-the-bmw-x6-infiniti-fastback-just-as-premium/",
       "category": "Business",
       "bullets": [
-        "A review on May 2, 2026, compares the Infiniti fastback to the BMW X6, highlighting a price difference of $23,000.",
-        "The Infiniti model offers a premium feel without the luxury tax, appealing to budget-conscious consumers seeking quality.",
-        "This comparison may influence buyer decisions in the luxury vehicle market, emphasizing value alongside performance."
+        "A new Infiniti fastback model is priced $23,000 less than the BMW X6, offering a competitive luxury alternative.",
+        "The Infiniti model provides similar premium features without the associated luxury tax, appealing to budget-conscious buyers.",
+        "This pricing strategy may disrupt the luxury vehicle market, attracting consumers seeking value without sacrificing quality."
       ],
       "pubDate": "Sat, 02 May 2026 19:45:16 GMT",
       "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/03/2027-infiniti-qx65-8.jpg"
@@ -1814,9 +2346,9 @@
       "link": "https://www.premiumtimesng.com/?p=876458",
       "category": "Politics",
       "bullets": [
-        "Bala Mohammed, the Governor of Bauchi State, defected from the Peoples Democratic Party (PDP) to the Allied Peoples Movement (APM) on May 2, 2026.",
-        "This political shift reflects ongoing instability within Nigeria's political landscape, with implications for upcoming elections and party dynamics.",
-        "The move may affect APM's influence in Bauchi State, potentially reshaping alliances and voter support ahead of future contests."
+        "Bala Mohammed, the Governor of Bauchi State, has officially defected from the Peoples Democratic Party to the Allied Peoples Movement.",
+        "This political shift reflects ongoing changes in Nigeria's political landscape, with implications for upcoming elections.",
+        "Mohammed's move could influence voter sentiment and party dynamics in Bauchi State as elections approach."
       ],
       "pubDate": "Sat, 02 May 2026 19:32:38 +0000",
       "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/04/586728242_18303283969249643_1225264573086310291_n.jpg?fit=1440%2C959&amp;ssl=1"
@@ -1828,9 +2360,9 @@
       "link": "https://www.engadget.com/2162796/openai-introduces-ai-generated-pets-for-its-codex-app/",
       "category": "Tech",
       "bullets": [
-        "OpenAI introduced AI-generated pets for its Codex app on May 2, 2026, enhancing user interaction with personalized virtual companions.",
-        "These AI pets are designed to assist users in a manner reminiscent of Microsoft's Clippy, but with improved functionality and engagement.",
-        "This innovation could redefine user experience in coding applications, making technology more approachable and enjoyable."
+        "OpenAI has introduced AI-generated pets for its Codex app, enhancing user interaction with personalized virtual companions.",
+        "These AI pets are designed to assist users in a more engaging manner, reminiscent of Microsoft's Clippy but more functional.",
+        "This innovation aims to improve user experience and could lead to broader applications of AI in everyday tasks."
       ],
       "pubDate": "Sat, 02 May 2026 19:31:53 +0000",
       "image": "https://www.engadget.com/img/gallery/openai-introduces-ai-generated-pets-for-its-codex-app/l-intro-1777749312.jpg"
@@ -1870,9 +2402,9 @@
       "link": "https://9to5mac.com/?p=1050657",
       "category": "Tech",
       "bullets": [
-        "The app 'This Day' was spotlighted on May 2, 2026, for simplifying photo cleanup into a daily habit for users.",
-        "It addresses the common issue of storage consumption by encouraging users to declutter their photo libraries gradually.",
-        "This app could significantly enhance digital organization practices, appealing to users overwhelmed by extensive photo collections."
+        "The app 'This Day' simplifies photo cleanup, encouraging users to declutter their libraries daily.",
+        "It addresses storage issues by promoting a habit of regular photo management, particularly for iCloud users.",
+        "This approach could help users maintain organized digital spaces, reflecting a growing trend in personal digital management."
       ],
       "pubDate": "Sat, 02 May 2026 19:30:10 +0000",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/This-Day-app.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -1984,7 +2516,7 @@
       "bullets": [
         "Nigeria's Falconets defeated Malawi 2-1 in Ikenne on May 2, 2026, boosting their FIFA U20 Women's World Cup qualification hopes.",
         "The Falconets have consistently qualified for the tournament since its inception in 2002, showcasing their dominance in women's youth football.",
-        "This victory positions Nigeria favorably in the qualifiers, with the next match critical for securing their spot in Poland."
+        "This victory positions Nigeria favorably for upcoming qualifiers, emphasizing their commitment to maintaining a strong presence in international competitions."
       ],
       "pubDate": "Sat, 02 May 2026 19:24:19 +0000",
       "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/1003109329-e1777749351525.jpg?fit=864%2C526&amp;ssl=1"
@@ -2053,8 +2585,8 @@
       "category": "World",
       "bullets": [
         "Ukrainian forces are utilizing advanced drones on the battlefield, raising concerns among Russian troops as of May 2, 2026.",
-        "Reports highlight the use of 'Martian drones' and their effectiveness in both combat and rescue operations, including evacuating a 77-year-old woman.",
-        "The evolving drone warfare is reshaping military strategies, indicating a significant shift in modern combat dynamics."
+        "Reports indicate the use of 'Martian drones' for both offensive operations and rescue missions, including evacuating a 77-year-old woman in Odesa.",
+        "The evolving drone warfare is reshaping military strategies, highlighting the importance of unmanned systems in modern conflicts."
       ],
       "pubDate": "Sat, 02 May 2026 19:11:46 GMT",
       "image": "https://s.france24.com/media/display/068222ca-4651-11f1-a82e-005056bf30b7/w:1024/p:16x9/EN-20260502-181349-182727-CS.jpg"
@@ -2094,9 +2626,9 @@
       "link": "https://www.popsci.com/?p=764310",
       "category": "Culture",
       "bullets": [
-        "Permanent Daylight Saving Time was attempted but ultimately failed due to public dissatisfaction and health concerns, as discussed on May 2, 2026.",
-        "Historical attempts revealed that many people struggled with the time change, leading to negative impacts on sleep and productivity.",
-        "The ongoing debate reflects broader societal challenges in balancing time management with health and well-being."
+        "Permanent Daylight Saving Time was attempted but failed due to widespread public dissatisfaction, as reported on May 2, 2026.",
+        "Historical attempts revealed that many people struggled with the time change, leading to health and productivity issues.",
+        "The ongoing debate over time changes continues to affect legislative discussions, with potential implications for future policies."
       ],
       "pubDate": "Sat, 02 May 2026 15:05:00 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/05/05-DST-thumb-v1.jpg?quality=85"
@@ -2108,9 +2640,9 @@
       "link": "https://kotaku.com/?p=2000692704",
       "category": "Culture",
       "bullets": [
-        "Tim Heidecker has taken over Infowars with a new format featuring The Onion, marking a significant shift in the media landscape on May 2, 2026.",
-        "This takeover comes amid legal challenges facing Alex Jones, indicating a potential end to his controversial media empire.",
-        "Heidecker's approach may redefine the narrative style of conspiracy media, attracting a different audience demographic."
+        "Tim Heidecker has taken over Infowars with a new format featuring The Onion, as announced on May 2, 2026.",
+        "This transition comes amid ongoing legal challenges for Alex Jones, marking a significant shift in the media landscape.",
+        "The new direction aims to attract a different audience while addressing the controversies surrounding the previous ownership."
       ],
       "pubDate": "Sat, 02 May 2026 19:00:38 +0000",
       "image": "https://kotaku.com/app/uploads/2026/05/infowarstim.jpg"
@@ -2164,9 +2696,9 @@
       "link": "https://sports.ndtv.com/football/psg-fringe-team-held-by-lorient-as-bayern-munich-return-leg-looms-11440886#publisher=newsstand",
       "category": "Sports",
       "bullets": [
-        "Paris Saint-Germain's second-string team drew 2-2 against Lorient on May 2, 2026, ahead of their Champions League semi-final against Bayern Munich.",
-        "PSG squandered a lead twice during the match, raising concerns about their preparedness for the crucial upcoming game.",
-        "The draw highlights the need for strategic adjustments as they aim to secure a place in the Champions League final."
+        "Paris Saint-Germain's second-string team drew 2-2 with Lorient on May 2, 2026, ahead of their Champions League semi-final against Bayern Munich.",
+        "PSG squandered a lead twice, raising concerns about their readiness for the crucial return leg of the tournament.",
+        "This match serves as a critical test for PSG's depth and strategy as they aim for European glory."
       ],
       "pubDate": "Sun, 03 May 2026 00:28:33 +0530",
       "image": "https://c.ndtvimg.com/2026-05/b7cucktk_psg-vs-lorient_625x300_03_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
@@ -2178,9 +2710,9 @@
       "link": "https://www.ndtv.com/health/beyond-glp-1-five-in-one-compound-more-effective-than-semaglutide-for-diabetes-and-weight-loss-11440894#publisher=newsstand",
       "category": "Health",
       "bullets": [
-        "A new 5-in-1 compound, combining GLP-1 and GIP receptor agonists, shows greater efficacy than Semaglutide for diabetes and weight loss as of May 2, 2026.",
-        "This 'quintuple agonist' could revolutionize treatment, addressing both weight management and blood sugar control effectively.",
-        "The compound's development represents a significant advancement in diabetes care, potentially improving patient outcomes."
+        "A new 5-in-1 compound has been developed, proving more effective than Semaglutide for diabetes and weight loss as of May 2, 2026.",
+        "This 'quintuple agonist' combines GLP-1 and GIP receptor agonists with lanifibranor, showing promising results in clinical trials.",
+        "The breakthrough could revolutionize treatment options for diabetes and obesity, potentially impacting millions of patients."
       ],
       "pubDate": "Sun, 03 May 2026 00:26:13 +0530",
       "image": "https://c.ndtvimg.com/2026-03/b6lo30u8_glp1-drugs_625x300_30_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
@@ -2220,9 +2752,9 @@
       "link": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f",
       "category": "Business",
       "bullets": [
-        "Greg Abel, Berkshire Hathaway's new CEO, urged shareholders to be patient as he transitions from Warren Buffett's leadership on May 2, 2026.",
-        "Abel emphasized a cautious approach to capital deployment, avoiding investments in subpar opportunities to maintain company integrity.",
-        "His leadership style may influence Berkshire's future investment strategies, focusing on long-term value creation."
+        "Greg Abel addressed Berkshire Hathaway shareholders on May 2, 2026, emphasizing patience in investment strategies post-Warren Buffett.",
+        "He stated he is not eager to invest in subpar opportunities, reflecting a cautious approach to capital deployment.",
+        "Abel's leadership marks a new era for Berkshire, with potential shifts in investment philosophy and company direction."
       ],
       "pubDate": "Sat, 02 May 2026 18:49:24 GMT",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9ce3433-2d40-4452-b503-a24ce2c85b96.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
@@ -2262,9 +2794,9 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "category": "World",
       "bullets": [
-        "Mali faces a severe crisis as jihadist fighters and Tuareg separatists threaten Bamako, with significant military struggles reported on May 2, 2026.",
-        "The Islamist group JNIM has captured two northern cities and killed the defense minister, exacerbating the security situation.",
-        "The involvement of Russian mercenaries raises questions about international support and the future stability of Mali."
+        "Mali faces escalating threats from jihadist fighters and Tuareg separatists, with significant unrest reported on May 2, 2026.",
+        "The military has arrested soldiers accused of collaborating with Al-Qaeda-linked militants, complicating the security situation.",
+        "The Islamist group JNIM has seized two northern cities and is attempting to blockade the capital, Bamako, increasing regional instability."
       ],
       "pubDate": "Sat, 02 May 2026 18:44:47 GMT",
       "image": "https://s.france24.com/media/display/b978e26a-4651-11f1-815c-005056bf30b7/w:1024/p:16x9/EN-20260502-183142-184343-CS.jpg"
@@ -2291,8 +2823,8 @@
       "category": "Culture",
       "bullets": [
         "Prime Video released a list of the 16 best movies to watch, highlighting new additions for May 2026.",
-        "The curated selection includes highly rated films, catering to diverse viewer preferences and enhancing the streaming experience.",
-        "This initiative aims to attract more subscribers by showcasing quality content and keeping the platform competitive."
+        "The curated selection includes critically acclaimed films, aiming to enhance viewer engagement and subscription retention.",
+        "This initiative reflects Prime Video's strategy to compete in the crowded streaming market by offering quality content."
       ],
       "pubDate": "Sat, 02 May 2026 18:33:15 +0000",
       "image": "https://www.cnet.com/a/img/resize/f418c984b5ffa8420ab14f2ae4dc403a1ca65bf5/hub/2026/05/02/9de58ad2-a803-4786-bf12-e7431bb160a6/jryn-2026-fg-00234902-still353rc-3000-5.jpg?auto=webp&fit=crop&height=614&width=1092"
@@ -2304,9 +2836,9 @@
       "link": "https://9to5mac.com/?p=1050644",
       "category": "Business",
       "bullets": [
-        "Apple Card is offering a $100 Daily Cash bonus for adding a co-owner until May 18, 2026, benefiting existing users.",
-        "The new co-owner must spend $100 within 30 days to qualify for the bonus, enhancing user engagement.",
-        "This promotion aims to increase Apple Card usage and strengthen customer loyalty amid competitive financial services."
+        "Apple Card is offering a limited-time promotion until May 18, 2026, providing $100 Daily Cash for adding a co-owner.",
+        "Existing users can benefit if the new co-owner spends $100 within their first 30 days, enhancing user engagement.",
+        "This promotion aims to attract more users to the Apple Card ecosystem, boosting customer loyalty and spending."
       ],
       "pubDate": "Sat, 02 May 2026 18:31:18 +0000",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-card-iphone-titanium.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -2570,9 +3102,9 @@
       "link": "https://9to5google.com/?p=713615",
       "category": "Tech",
       "bullets": [
-        "Google clarified that Android AICore's storage spikes are due to the large size of generative AI models like Gemini Nano.",
-        "These models require significant storage space, impacting device performance and user experience intermittently.",
-        "Understanding these storage needs is crucial for users and developers as AI integration in mobile devices expands."
+        "Google clarified that Android AICore's storage spikes occur due to the large size of generative AI models like Gemini Nano.",
+        "The storage increase can affect device performance, but Google aims to optimize this feature for better user experience.",
+        "Understanding these storage requirements is crucial as AI features become more integrated into mobile devices."
       ],
       "pubDate": "Sat, 02 May 2026 18:04:26 +0000",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Android-16-storage-settings-2.jpg?quality=82&#038;strip=all&#038;w=1600"
@@ -2808,9 +3340,9 @@
       "link": "https://www.androidcentral.com/phones/motorola/should-you-buy-motorola-razr-2026",
       "category": "Tech",
       "bullets": [
-        "The 2026 Motorola Razr flip phone series has been announced, highlighting innovative features and design.",
-        "Pros include a sleek design and advanced camera, while cons involve battery life and price concerns.",
-        "Preorders are set to begin soon, with consumer interest likely influencing the future of flip phone technology."
+        "The 2026 Motorola Razr series was announced, featuring a foldable design and advanced camera capabilities, available for preorder soon.",
+        "Pros include a nostalgic design and improved performance, while cons highlight battery life issues and high price points.",
+        "Consumer interest will determine the Razr's success in a competitive smartphone market dominated by other brands."
       ],
       "pubDate": "Sat, 02 May 2026 17:36:04 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/TDzANxtJedQ8cPsRiMPNAc-1280-80.jpg"
@@ -2920,9 +3452,9 @@
       "link": "https://abcnews.com/International/wireStory/activists-detention-deepens-spain-israel-tensions-aid-group-132603764",
       "category": "Politics",
       "bullets": [
-        "Spain's Foreign Minister José Manuel Albares demanded the release of a detained activist by Israel amid rising tensions.",
-        "The activist was part of an aid flotilla intercepted while attempting to reach Gaza, sparking international outcry.",
-        "This incident could escalate diplomatic relations between Spain and Israel, affecting future humanitarian efforts."
+        "Spanish-Swedish activist detained by Israel during an aid flotilla to Gaza has sparked tensions between Spain and Israel.",
+        "Spain's Foreign Minister José Manuel Albares demanded immediate release, emphasizing the activist's humanitarian mission.",
+        "The situation escalates diplomatic relations, as activists begin a hunger strike in protest of their detention."
       ],
       "pubDate": "Sat, 02 May 2026 13:24:04 -0400",
       "image": "https://s.abcnews.com/images/International/wirestory_acdbe7b00c0a1862627f8e7659d0bc62_16x9_1600.jpg"
@@ -2948,9 +3480,9 @@
       "link": "https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/",
       "category": "Business",
       "bullets": [
-        "Tesla has begun selling Chinese-made Model 3s in Canada, marking the vehicle's lowest price point at $39,490 CAD.",
-        "This price translates to approximately $29,000 USD for the Premium Rear-Wheel Drive variant, appealing to budget-conscious buyers.",
-        "The move aims to increase Tesla's market share in Canada, especially amidst growing competition in the EV sector."
+        "Tesla has begun selling Chinese-made Model 3s in Canada, priced at $39,490 CAD, the lowest ever for this model.",
+        "This price point translates to approximately $29,000 USD, making electric vehicles more accessible to Canadian consumers.",
+        "The move could significantly impact the Canadian EV market, increasing competition among manufacturers."
       ],
       "pubDate": "Sat, 02 May 2026 17:19:05 +0000",
       "image": "https://www.engadget.com/img/gallery/tesla-starts-selling-chinese-made-model-3s-in-canada-at-the-evs-lowest-price-ever/l-intro-1777741428.jpg"
@@ -3144,9 +3676,9 @@
       "link": "https://hackernoon.com/openai-o1-sentience-ethical-frontiers-and-functional-consciousness?source=rss",
       "category": "Tech",
       "bullets": [
-        "A discussion on OpenAI-o1's potential sentience highlights ethical considerations surrounding machine rights and consciousness.",
-        "The 2026 ethical shift raises questions about superintelligence and the implications for future AI societies.",
-        "This dialogue is crucial as AI technology evolves, prompting society to reconsider its relationship with intelligent machines."
+        "The discussion around OpenAI-o1's potential sentience raises ethical questions about machine rights and AI's future roles.",
+        "Experts are debating the implications of superintelligence and the responsibilities of creators towards sentient AI.",
+        "This ethical shift could lead to new regulations and societal norms regarding AI integration in daily life."
       ],
       "pubDate": "Sat, 02 May 2026 17:00:44 GMT",
       "image": "https://hackernoon.com/https://cdn.hackernoon.com/images/outer-space-galaxy-iiwg30xekp20l7gfcfe0gp9k.png"
@@ -3186,9 +3718,9 @@
       "link": "https://www.thedrive.com/?p=6611824",
       "category": "Culture",
       "bullets": [
-        "A 1996 Toyota 4Runner is gaining attention at Mecum's Indy Auction, noted for its pristine condition.",
-        "Experts speculate it could influence the collector-car market, potentially driving up prices for similar models.",
-        "The auction's outcome may reflect changing trends in classic car appreciation and investment among collectors."
+        "A 1996 Toyota 4Runner is gaining attention at Mecum's Indy Auction, noted for its pristine condition and rarity.",
+        "Experts predict this sale could influence collector-car values, especially for vintage SUVs in the market.",
+        "The auction's outcome may signal a resurgence in interest for classic vehicles among collectors."
       ],
       "pubDate": "Sat, 02 May 2026 13:00:00 -0400",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-12.45.32-PM.jpeg?quality=85"
@@ -3222,6 +3754,20 @@
       "image": "https://www.nzherald.co.nz/resizer/v2/Q5VOV5AN5BCI5GY4TFTPGAJQ5U.jpg?auth=70476c903041357d26508b44cc17e8161f55b8930af00955dc06da280d634458&smart=true&width=1280&height=720"
     },
     {
+      "title": "Maiki Sherman’s behaviour is damaging TVNZ’s credibility – Heather du Plessis-Allan",
+      "source": "NZ Herald",
+      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
+      "link": "https://www.nzherald.co.nz/nz/maiki-shermans-behaviour-is-damaging-tvnzs-credibility-heather-du-plessis-allan/premium/IQ2SFZQPBNAQNNLSOV6APA5OZA/",
+      "category": "Culture",
+      "bullets": [
+        "Heather du Plessis-Allan criticized Maiki Sherman for behavior damaging TVNZ's credibility amid public complaints.",
+        "Sherman faces scrutiny as her conduct raises concerns about professionalism and trust in media reporting.",
+        "This situation could lead to internal reviews and impact TVNZ's reputation in the broadcasting industry."
+      ],
+      "pubDate": "Sat, 02 May 2026 17:00:00 +0000",
+      "image": "https://www.nzherald.co.nz/resizer/v2/W6ZUIQXBSBE5BOB4FLUKZYPYBI.jpg?auth=82c6461b3373405f1d707b06865a958b2b1c15c7c4c98a529ae5f42b50efb23f&smart=true&width=1280&height=720"
+    },
+    {
       "title": "Prices surge, jobs disappear as war strains Iran’s economy",
       "source": "Al Jazeera",
       "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
@@ -3242,9 +3788,9 @@
       "link": "https://www.tomshardware.com/peripherals/docking-stations-hubs/this-must-have-miniature-macintosh-retro-dock-gives-your-m4-mac-mini-a-1980s-makeover-equipped-with-a-5-inch-hd-display-and-m-2-nvme-ssd-slot",
       "category": "Tech",
       "bullets": [
-        "The Wokyis M5 Retro Dock Station enhances M4 Mac Mini functionality with a retro design, featuring a 5-inch HD display and M.2 NVMe SSD slot.",
-        "The dock adds multiple USB ports and memory card readers, catering to users seeking nostalgia and modern performance in one device.",
-        "This product appeals to retro computing enthusiasts, potentially boosting sales for Wokyis and enhancing the Mac Mini's appeal in the market."
+        "The Wokyis M5 Retro Dock Station enhances the M4 Mac Mini with a nostalgic 1980s design and modern functionality.",
+        "It features a 5-inch HD display, USB ports, and an M.2 NVMe SSD slot, appealing to retro tech enthusiasts.",
+        "This product reflects a growing trend of blending vintage aesthetics with contemporary technology in consumer electronics."
       ],
       "pubDate": "Sat, 02 May 2026 16:57:48 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/aYmmLmvbySWgxxRr9PvcXT-1280-80.png"
@@ -3284,9 +3830,9 @@
       "link": "https://www.cbc.ca/news/world/nobel-peace-prize-laureate-narges-mohammadi-life-in-irans-hands-9.7185662?cmp=rss",
       "category": "Politics",
       "bullets": [
-        "Nobel Committee chief Berit Reiss-Andersen expressed grave concerns for Narges Mohammadi's health, currently imprisoned in Iran, on May 2, 2026.",
-        "Reiss-Andersen emphasized that Mohammadi's life is at risk without immediate medical attention, urging Iranian authorities for her release.",
-        "This situation highlights ongoing human rights issues in Iran, potentially impacting international relations and diplomatic efforts."
+        "Nobel committee chief warned that jailed laureate Narges Mohammadi's life is at risk due to deteriorating health in Iranian custody.",
+        "The committee called for her immediate release to receive proper medical care, emphasizing her critical condition.",
+        "This situation highlights ongoing human rights concerns in Iran and could provoke international diplomatic actions."
       ],
       "pubDate": "Sat, 02 May 2026 12:50:23 EDT",
       "image": "https://i.cbc.ca/ais/95a99754-36f9-4f21-b8f1-ff0de5c8a0bc,1777740561780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C763%2C7756%2C4362%29%3BResize%3D%28620%29"
@@ -3452,9 +3998,9 @@
       "link": "https://www.rfi.fr/en/podcasts/international-report/20260502-turkey-boosts-mali-defence-ties-after-separatist-and-jihadist-attacks",
       "category": "World",
       "bullets": [
-        "Turkey is strengthening defense ties with Mali following recent separatist and jihadist attacks on the military regime, aiming for increased influence in West Africa.",
-        "Ankara's support comes amid rising security cooperation with Bamako, which faces pressure from ongoing violence and instability in the region.",
-        "This partnership could reshape regional security dynamics, as Turkey seeks to expand its geopolitical presence in Africa amidst growing threats."
+        "Turkey is strengthening defense ties with Mali following recent separatist and jihadist attacks threatening the military regime.",
+        "Ankara's support includes military cooperation and training, aiming to stabilize the region amidst rising security challenges.",
+        "This partnership may enhance Turkey's influence in West Africa, but faces risks from ongoing conflicts."
       ],
       "pubDate": "Sat, 02 May 2026 16:27:20 GMT",
       "image": "https://s.rfi.fr/media/display/531d29c8-41f5-11f1-b4da-005056a90284/w:1024/p:16x9/AP26115387296781.jpg"
@@ -3550,9 +4096,9 @@
       "link": "https://www.eurogamer.net/hero-shooter-last-flag-halts-production-just-2-weeks-after-launch-but-vows-to-make-sure-that-the-game-doesnt-disappear",
       "category": "Culture",
       "bullets": [
-        "Last Flag, a third-person hero shooter, has halted production just two weeks post-launch due to unspecified challenges affecting its development.",
-        "The game's developers have committed to ensuring it remains available, despite the production pause, indicating potential future updates or changes.",
-        "This decision raises concerns about the game's viability and market reception, impacting both players and the studio's reputation in the gaming industry."
+        "Last Flag, a hero shooter, has halted production just two weeks after its launch on April 18, 2026.",
+        "The developers pledged to ensure the game remains available, despite the abrupt production stop.",
+        "This decision raises concerns about the game's future and its reception in the competitive gaming market."
       ],
       "pubDate": "Sat, 02 May 2026 16:14:44 +0000",
       "image": "https://assetsio.gnwcdn.com/ss_f88ef0dced198427d96485462629b3ce8288a9c7.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp"
@@ -3592,9 +4138,9 @@
       "link": "https://time.com/?p=blt1132c7424e495ba0",
       "category": "Business",
       "bullets": [
-        "Spirit Airlines has ceased operations due to skyrocketing jet fuel prices linked to the ongoing Iran War, affecting thousands of travelers.",
-        "Republicans have criticized the Biden Administration, blaming it for the airline's closure, while the airline cites a 50% increase in fuel costs since the conflict began.",
-        "This shutdown may signal further instability in the low-cost airline sector, prompting concerns about potential closures of other carriers facing similar challenges."
+        "Spirit Airlines has ceased operations due to soaring jet fuel prices linked to the ongoing Iran War.",
+        "Republicans criticized the Biden Administration, while the airline cited a 50% increase in fuel costs since the conflict began.",
+        "This closure may signal potential bankruptcies among other low-cost airlines facing similar fuel price pressures."
       ],
       "pubDate": "Sat, 02 May 2026 16:10:33 +0000",
       "image": "https://gcp-na-images.contentstack.com/v3/assets/bltea6093859af6183b/bltd9ab67287d78e226/69f633f4b1b33b0c52e43c9a/GettyImages-2273586768.jpg?branch=production&format=jpg&width=1024"
@@ -3634,9 +4180,9 @@
       "link": "https://consequence.net/?p=1579673",
       "category": "Culture",
       "bullets": [
-        "BTS is set to perform at Stanford Stadium on May 16, 17, and 19, 2026, as part of their 'ARIRANG World Tour,' attracting massive fan interest.",
-        "Last-minute tickets are expected to be in high demand, with prices likely fluctuating due to the band's immense popularity and limited availability.",
-        "This concert series highlights BTS's global influence and could significantly boost local tourism and economy during their performance dates."
+        "BTS is set to perform at Stanford Stadium on May 16, 17, and 19, 2026, as part of their 'ARIRANG World Tour.'",
+        "Last-minute tickets are expected to be in high demand, with prices ranging from $150 to $500.",
+        "The concerts are anticipated to draw massive crowds, further solidifying BTS's global popularity."
       ],
       "pubDate": "Sat, 02 May 2026 16:08:31 +0000",
       "image": "https://consequence.net/wp-content/uploads/2026/05/BTS-Stanford.jpg?quality=80"
@@ -3676,9 +4222,9 @@
       "link": "https://www.irishtimes.com/world/europe/2026/05/02/top-republicans-express-concern-after-us-orders-withdrawal-of-5000-troops-from-germany/",
       "category": "Politics",
       "bullets": [
-        "Top Republicans are expressing concern following the US government's order to withdraw 5,000 troops from Germany amid rising tensions over the Iran War.",
-        "Donald Trump responded to German Chancellor Merz's criticism of US military actions, emphasizing the need for strategic military presence in Europe.",
-        "This troop withdrawal could alter NATO dynamics and US-Germany relations, raising questions about future military commitments in Europe."
+        "The US has ordered the withdrawal of 5,000 troops from Germany, raising concerns among top Republicans.",
+        "Donald Trump responded to German Chancellor Merz's criticism of US military actions in Iran.",
+        "This troop reduction could impact US-Germany relations and NATO's strategic positioning in Europe."
       ],
       "pubDate": "Sat, 02 May 2026 16:05:39 +0000",
       "image": "https://www.irishtimes.com/resizer/v2/RXBWYOHL4YILQUROQYM6ZXJZWI.jpg?auth=3086eb15c550fb8d9ff369cd1ae71c0f3ab2813f5f774f917eb7cc3d464e923b&smart=true&width=630&height=350"
@@ -3788,9 +4334,9 @@
       "link": "https://slate.com/life/2026/05/word-game-slate-pears-261-for-may-2-2026.html",
       "category": "Culture",
       "bullets": [
-        "Today's Slate Pears Game features a puzzle with five pears, challenging players to solve it by identifying the correct answers.",
-        "The game engages users with its unique format, combining entertainment and cognitive skills to enhance user interaction.",
-        "This ongoing series continues to attract puzzle enthusiasts, contributing to Slate's reputation for innovative and engaging content."
+        "Today's Slate Pears Game features a puzzle with five pears, challenging players to solve it.",
+        "The game encourages critical thinking and problem-solving skills among its participants.",
+        "Engagement in such puzzles can enhance cognitive abilities and provide entertainment."
       ],
       "pubDate": "Sat, 02 May 2026 16:00:00 GMT",
       "image": "https://compote.slate.com/images/61d47363-da12-4f08-a295-7bf3f3f4f236.png"
@@ -3802,9 +4348,9 @@
       "link": "https://slate.com/advice/2026/05/sex-advice-female-orgasm-swinging-persistent-genital-arousal-disorder.html",
       "category": "Health",
       "bullets": [
-        "A personal account reveals the struggle of needing constant orgasms for functioning, highlighting a complex relationship dynamic with the author's husband.",
-        "The narrative discusses the emotional and physical toll of this need, emphasizing the husband's discomfort with the situation and its implications.",
-        "This story sheds light on intimate relationships and sexual health, prompting discussions about communication and understanding in partnerships."
+        "A personal account reveals the struggle of needing constant orgasms for functionality, complicating marital intimacy.",
+        "The author states that the only relief comes from a method that causes discomfort to her husband.",
+        "This highlights the challenges of balancing personal health needs with relationship dynamics."
       ],
       "pubDate": "Sat, 02 May 2026 16:00:00 GMT",
       "image": "https://compote.slate.com/images/5ac57896-9bde-47aa-8cd8-848521d791bc.gif?crop=1560%2C1040%2Cx0%2Cy0"
@@ -3842,11 +4388,11 @@
       "source": "The Drive",
       "sourceUrl": "https://www.thedrive.com/feed",
       "link": "https://www.thedrive.com/?p=6612155",
-      "category": "Business",
+      "category": "Culture",
       "bullets": [
-        "Aftermarket companies in the 1970s created snowmobile conversion kits that transformed sleds into trikes, expanding their usability year-round.",
-        "These kits allowed snowmobiles to be enjoyed in warmer months, appealing to outdoor enthusiasts and increasing the market for recreational vehicles.",
-        "The innovation reflects a trend in modifying vehicles for versatility, influencing current practices in the automotive and recreational vehicle industries."
+        "In the 1970s, aftermarket companies created conversion kits to transform snowmobiles into trikes for year-round use.",
+        "These kits allowed enthusiasts to enjoy snowmobiles beyond winter, appealing to a broader market.",
+        "The innovation reflects a trend in recreational vehicles adapting to diverse consumer needs."
       ],
       "pubDate": "Sat, 02 May 2026 12:00:00 -0400",
       "image": "https://www.thedrive.com/wp-content/uploads/2026/05/Skat-Trak-Hero-1.jpg?quality=85"
@@ -3858,9 +4404,9 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
       "category": "Tech",
       "bullets": [
-        "SpaceX is scheduled to launch 45 satellites into orbit from California early on May 3, 2026, marking another milestone in its space endeavors.",
-        "The launch will be streamed live, allowing viewers to witness the event, which is part of SpaceX's ongoing efforts to expand satellite networks.",
-        "This mission underscores SpaceX's commitment to advancing space technology and enhancing global communication infrastructure through satellite deployment."
+        "SpaceX is scheduled to launch 45 satellites into orbit from California early on May 3, 2026.",
+        "The launch can be viewed live, showcasing SpaceX's ongoing commitment to expanding satellite networks.",
+        "This mission is part of SpaceX's broader strategy to enhance global internet coverage and connectivity."
       ],
       "pubDate": "Sat, 02 May 2026 16:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg"
@@ -3872,9 +4418,9 @@
       "link": "https://www.space.com/stargazing/skywatching-kit/new-for-star-wars-day-grab-this-lego-star-wars-model-of-the-mandalorians-coolest-ship-and-get-the-darksaber-for-free",
       "category": "Culture",
       "bullets": [
-        "Lego launched a UCS set of The Mandalorian's N-1 starfighter on May 2, 2026, coinciding with Star Wars Day.",
-        "Customers who purchase the set can receive a free Darksaber model, enhancing the collectible's appeal among fans.",
-        "This promotion aims to boost sales and fan engagement, leveraging the popularity of the Star Wars franchise."
+        "In celebration of Star Wars Day, Lego is releasing a UCS model of The Mandalorian's N-1 starfighter.",
+        "Customers who purchase the model can receive a free Darksaber Lego set, enhancing the promotion's appeal.",
+        "This release taps into the enduring popularity of the Star Wars franchise among fans and collectors."
       ],
       "pubDate": "Sat, 02 May 2026 16:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/g7z5ZnhisaYLpzYD4Vs4zc-1280-80.jpg"
@@ -4012,9 +4558,9 @@
       "link": "https://www.macrumors.com/2026/05/02/ios-27-will-add-these-new-iphone-features/",
       "category": "Tech",
       "bullets": [
-        "Apple will unveil iOS 27 at WWDC 2026 on June 8, 2026, with new features for iPhones expected.",
-        "The first developer beta will be available immediately after the keynote, with a public beta likely in July.",
-        "The full release is anticipated in September, marking a significant update for millions of iPhone users."
+        "Apple plans to unveil iOS 27 during the WWDC 2026 keynote on June 8, 2026, with new features expected.",
+        "The first developer beta will likely be available immediately after the keynote, followed by a public beta in July.",
+        "The full release is anticipated in September, marking a significant update for iPhone users."
       ],
       "pubDate": "Sat, 02 May 2026 08:43:28 PDT",
       "image": "https://images.macrumors.com/article-new/2026/03/iOS-27-on-iPhone-17-1.jpg"
@@ -4194,9 +4740,9 @@
       "link": "https://www.eurogamer.net/full-metal-gear-solid-2-source-code-leaks-online-on-30th-april",
       "category": "Tech",
       "bullets": [
-        "The full source code for Metal Gear Solid 2 leaked online on April 30, 2026, raising concerns among developers.",
-        "This leak could lead to unauthorized modifications and remakes, impacting the game's legacy and future sales.",
-        "Konami may respond with legal action to protect its intellectual property and prevent further leaks."
+        "The full source code for Metal Gear Solid 2 leaked online on April 30, 2026, raising concerns among game developers and fans.",
+        "The leak includes all game assets and code, potentially impacting future remakes or re-releases of the franchise.",
+        "This incident highlights ongoing issues with digital security in the gaming industry, prompting calls for better protection measures."
       ],
       "pubDate": "Sat, 02 May 2026 15:26:52 +0000",
       "image": "https://assetsio.gnwcdn.com/thumbnail_METAL-GEAR-SOLID-2.jpg?width=690&quality=85&format=jpg&auto=webp"
@@ -4251,8 +4797,8 @@
       "category": "Politics",
       "bullets": [
         "The Pentagon announced plans to withdraw 5,000 troops from Germany, alarming Republican lawmakers on May 2, 2026.",
-        "This troop reduction coincides with ongoing tensions between President Biden and German Chancellor Olaf Scholz.",
-        "The move could strain NATO relations and alter U.S. military presence in Europe amid rising global tensions."
+        "This troop reduction coincides with rising tensions between President Biden and German Chancellor Olaf Scholz over NATO commitments.",
+        "The decision could alter U.S. military presence in Europe, affecting NATO's strategic posture amid ongoing global conflicts."
       ],
       "pubDate": "Sat, 02 May 2026 15:19:46 +0000",
       "image": ""
@@ -4388,11 +4934,11 @@
       "source": "Designboom",
       "sourceUrl": "https://www.designboom.com/feed/",
       "link": "https://www.designboom.com/?p=1188753",
-      "category": "Environment",
+      "category": "Culture",
       "bullets": [
-        "1-1 architects repurposed surplus timber to create a layered house and office in Japan, completed recently.",
-        "The project utilized decades of stockpiled timber from the client's warehouses, promoting sustainability in architecture.",
-        "This innovative design approach highlights the potential for reusing materials in modern construction."
+        "1-1 Architects transformed surplus timber into a layered house and office in Japan, completed in early May 2026.",
+        "The project utilized decades of stockpiled timber from the client's warehouses, showcasing sustainable building practices.",
+        "This innovative design emphasizes environmental responsibility and could inspire future architectural projects using reclaimed materials."
       ],
       "pubDate": "Sat, 02 May 2026 15:00:24 +0000",
       "image": "https://www.designboom.com/wp-content/uploads/2026/04/1-1-architects-house-office-japan-designboom-700-500x400-22b08q85r518.jpg"
@@ -4474,9 +5020,9 @@
       "link": "https://boingboing.net/?p=1111043",
       "category": "Business",
       "bullets": [
-        "A refurbished 2020 MacBook Air is now available for $289.99, down from its original price of $999.",
-        "This lightweight laptop is ideal for everyday tasks, offering a budget-friendly option for consumers.",
-        "The deal aims to attract users needing reliable technology without the high price tag."
+        "A refurbished 2020 MacBook Air is available for $289.99, down from its original price of $999, as of May 2, 2026.",
+        "This model offers essential functionality for everyday tasks, appealing to budget-conscious consumers needing reliable technology.",
+        "The deal highlights the growing market for refurbished electronics, providing affordable options amid rising tech prices."
       ],
       "pubDate": "Sat, 02 May 2026 15:00:00 +0000",
       "image": "https://i0.wp.com/boingboing.net/wp-content/uploads/2026/04/Apple-MacBook-Air.jpg?fit=1260%2C946&quality=60&ssl=1"
@@ -4600,9 +5146,9 @@
       "link": "https://consequence.net/?p=1585826",
       "category": "Culture",
       "bullets": [
-        "Kid Rock took a joyride in an Apache helicopter with Pete Hegseth to promote his new tour on May 2, 2026.",
-        "The video showcases Kid Rock's personality and military appreciation, appealing to his fanbase.",
-        "This stunt is part of a broader marketing strategy to generate buzz ahead of his upcoming concert series."
+        "Kid Rock took a joyride in an Apache helicopter with Secretary of War Pete Hegseth to promote his new tour on May 2, 2026.",
+        "The video showcases Kid Rock's tattoos and military appreciation, resonating with his fanbase and patriotic themes.",
+        "This stunt aims to boost ticket sales and visibility for his tour, leveraging celebrity and military connections."
       ],
       "pubDate": "Sat, 02 May 2026 14:44:11 +0000",
       "image": "https://consequence.net/wp-content/uploads/2026/05/Kid-Rock-Hegseth.jpeg?quality=80"
@@ -4740,9 +5286,9 @@
       "link": "https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/",
       "category": "Science",
       "bullets": [
-        "Recent research highlights various science stories, including soda can crushing and dolphin swimming speeds.",
-        "One study reveals how urine aids mushroom communication, showcasing the interconnectedness of ecosystems.",
-        "These findings emphasize the importance of ongoing scientific inquiry and its impact on understanding nature."
+        "Recent research highlights various scientific phenomena, including soda can crushing and dolphin swimming speed, published on May 2, 2026.",
+        "Studies reveal how urine aids mushroom communication and other intriguing biological interactions, expanding our understanding of nature.",
+        "These findings encourage further exploration in biology and environmental science, potentially leading to new discoveries."
       ],
       "pubDate": "Sat, 02 May 2026 14:23:31 +0000",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/dolphin1-1152x648.jpg"
@@ -4782,9 +5328,9 @@
       "link": "https://www.popsci.com/?p=764090",
       "category": "Environment",
       "bullets": [
-        "Yellowstone National Park biologists warned that a dead elk could attract grizzly bears during their annual research.",
-        "This caution is part of their efforts to monitor bear activity and maintain safety in the park.",
-        "Understanding predator-prey dynamics is crucial for wildlife management and conservation efforts."
+        "Yellowstone National Park biologists warn that a dead elk could attract grizzly bears, as research begins for the season on May 2, 2026.",
+        "This annual study aims to monitor bear populations and their interactions with the ecosystem, crucial for wildlife management.",
+        "Understanding these dynamics is vital for park safety and conservation efforts, especially with increasing visitor numbers."
       ],
       "pubDate": "Sat, 02 May 2026 10:13:00 -0400",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/grizzly-bear.png?quality=85"
@@ -5090,9 +5636,9 @@
       "link": "https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74",
       "category": "Business",
       "bullets": [
-        "Berkshire Hathaway's cash reserves reached $380 billion as of May 2, 2026, following a 14-quarter streak of stock sales.",
-        "Greg Abel will address shareholders for the first time since succeeding Warren Buffett, marking a leadership transition.",
-        "This financial milestone positions Berkshire for potential investments and acquisitions in a fluctuating market."
+        "Berkshire Hathaway's cash reserves reached $380 billion as of May 2, 2026, marking the 14th consecutive quarter of stock sales.",
+        "Greg Abel will address shareholders for the first time since succeeding Warren Buffett, highlighting the company's financial strategy.",
+        "This financial milestone raises questions about future investments and the company's direction under new leadership."
       ],
       "pubDate": "Sat, 02 May 2026 13:54:14 GMT",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F78ced219-e2f6-4c6c-a15a-8dc59295e008.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
@@ -5132,9 +5678,9 @@
       "link": "https://www.macrumors.com/2026/05/02/apples-2026-macbook-pro-low/",
       "category": "Tech",
       "bullets": [
-        "Amazon is offering record low prices on Apple's M5 Pro/M5 Max MacBook Pro, with discounts up to $216 on select models.",
-        "The 14-inch M5 Pro MacBook Pro is now priced at $1,983.94, down from $2,199.00, while M5 MacBook Air models are discounted by $150.",
-        "These deals are part of Amazon's ongoing sales strategy, potentially boosting MacBook sales ahead of the summer shopping season."
+        "Amazon is offering record low prices on Apple's 2026 MacBook Pro models, with discounts up to $216 as of May 2, 2026.",
+        "The 14-inch M5 Pro MacBook Pro is priced at $1,983.94, down from $2,199.00, appealing to tech-savvy consumers.",
+        "These discounts reflect competitive pricing strategies in the tech market, encouraging consumers to upgrade their devices."
       ],
       "pubDate": "Sat, 02 May 2026 06:47:33 PDT",
       "image": "https://images.macrumors.com/article-new/2026/04/macbook-pro-2026-pink.jpeg"
@@ -5216,9 +5762,9 @@
       "link": "https://www.rfi.fr/en/africa/20260502-mali-investigates-soldiers-over-role-in-coordinated-insurgent-attacks",
       "category": "World",
       "bullets": [
-        "Mali's prosecutor has initiated investigations into soldiers' involvement in coordinated attacks by al Qaeda-linked rebels on military bases.",
-        "The attacks resulted in multiple casualties, prompting the arrests of several soldiers as part of the ongoing inquiry.",
-        "This investigation highlights the ongoing security challenges in Mali, raising concerns about military loyalty and effectiveness."
+        "Mali is investigating soldiers for their involvement in coordinated insurgent attacks by al Qaeda-linked rebels on military bases on May 2, 2026.",
+        "The prosecutor confirmed initial arrests following the attacks, which raised concerns about military loyalty and security.",
+        "This investigation could lead to significant military reforms and impact the government's response to ongoing insurgent threats."
       ],
       "pubDate": "Sat, 02 May 2026 13:39:39 GMT",
       "image": "https://s.rfi.fr/media/display/377e5ab8-462b-11f1-985a-005056a97e36/w:1024/p:16x9/mali-2026-05-01-RTR-SECURITY.jpg"
@@ -5258,9 +5804,9 @@
       "link": "https://www.wired.com/review/tovala-oven-meal-kit-review-2026/",
       "category": "Culture",
       "bullets": [
-        "Tovala's new family meal kits come with a smart oven, enhancing convenience for users seeking easy meal preparation.",
-        "While the meals are praised for taste, they contain high sodium levels, raising health concerns among consumers.",
-        "The product's success could influence the meal kit market, emphasizing the need for healthier options in meal preparation."
+        "Tovala launched new family meal kits paired with a smart oven, enhancing meal preparation options for families as of May 2, 2026.",
+        "The meals are criticized for high sodium content, with some dishes containing over 1,000 mg of sodium per serving.",
+        "This product aims to capture the growing meal kit market, which is projected to reach $19.9 billion by 2027."
       ],
       "pubDate": "Sat, 02 May 2026 13:33:00 +0000",
       "image": "https://media.wired.com/photos/69f2b27bcb742af5b476ae38/master/pass/Review--Tovala-Family-Meals.jpg"
@@ -5328,9 +5874,9 @@
       "link": "https://petapixel.com/?p=852572",
       "category": "Culture",
       "bullets": [
-        "A photographer argues that sunsets, while visually stunning, hinder the growth of landscape photography skills.",
-        "The article discusses how reliance on dramatic skies can limit creativity and development in photography techniques.",
-        "This perspective encourages photographers to explore diverse lighting conditions, potentially enhancing their artistic growth."
+        "A landscape photographer argues that sunsets hinder artistic growth, as stated in a PetaPixel article on May 2, 2026.",
+        "The photographer emphasizes that while sunsets are visually appealing, they can overshadow more complex compositions and techniques.",
+        "This perspective encourages photographers to explore diverse lighting conditions, potentially enhancing their skills and portfolios."
       ],
       "pubDate": "Sat, 02 May 2026 13:30:07 +0000",
       "image": "https://petapixel.com/assets/uploads/2026/05/Sunsets-Are-Bad-for-Your-Landscape-Photography.jpg"
@@ -5384,9 +5930,9 @@
       "link": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
       "category": "Science",
       "bullets": [
-        "Engineering students at the University of Melbourne have recreated an 18th-century mechanical volcano design from 1775.",
-        "Using modern technology, they simulated volcanic eruptions, showcasing the historical significance of Sir William Hamilton's original concept.",
-        "This project highlights the intersection of history and engineering, inspiring future innovations in educational demonstrations."
+        "University of Melbourne students recreated an 18th-century mechanical volcano design, first envisioned by Sir William Hamilton in 1775.",
+        "Using modern technology, including LED lighting, they successfully simulated volcanic eruptions, showcasing historical engineering ingenuity.",
+        "This project highlights the intersection of history and technology, inspiring future innovations in educational demonstrations."
       ],
       "pubDate": "Sat, 02 May 2026 09:27:56 EDT",
       "image": "https://www.sciencedaily.com/images/1920/mount-vesuvios-artwork-erupts.webp"
@@ -5440,9 +5986,9 @@
       "link": "https://petapixel.com/?p=852592",
       "category": "Culture",
       "bullets": [
-        "The article discusses 'creative loneliness' in landscape photography, emphasizing the need for community and feedback.",
-        "It highlights the importance of building connections among photographers to enhance learning and creativity.",
-        "Addressing this issue could lead to more collaborative projects and a supportive network for artists."
+        "A PetaPixel article discusses the concept of 'Creative Loneliness' among landscape photographers, published on May 2, 2026.",
+        "The article stresses the importance of community and feedback in photography, which is often overlooked in solitary pursuits.",
+        "Encouraging collaboration could lead to improved artistic development and networking opportunities for photographers."
       ],
       "pubDate": "Sat, 02 May 2026 13:15:12 +0000",
       "image": "https://petapixel.com/assets/uploads/2026/05/Addressing-The-Sadness-of-Creative-Loneliness.jpg"
@@ -5482,9 +6028,9 @@
       "link": "https://qz.com/the-bloody-history-of-the-40-hour-work-week",
       "category": "Business",
       "bullets": [
-        "The history of the 40-hour work week is explored, detailing its origins from labor movements to current gig economy challenges.",
-        "The article notes that the work week has faced threats from various economic changes and societal shifts over time.",
-        "Understanding this history is crucial as discussions about work-life balance and labor rights continue to evolve."
+        "Quartz explores the historical context of the 40-hour work week, detailing its evolution and current challenges as of May 2, 2026.",
+        "The article highlights significant events, like the Haymarket affair, that shaped labor rights and the establishment of the work week.",
+        "With the rise of the gig economy, the future of the 40-hour work week faces renewed scrutiny and potential redefinition."
       ],
       "pubDate": "Sat, 02 May 2026 13:11:15 GMT",
       "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/api/media/file/GettyImages-3206087.jpg"
@@ -5538,8 +6084,8 @@
       "link": "https://www.404media.co/this-personality-trait-makes-dreams-more-bizarre-scientists-discover/",
       "category": "Science",
       "bullets": [
-        "Researchers found that personality traits significantly influence the bizarre nature of dreams, based on thousands of self-reports.",
-        "External factors, including the pandemic, were also shown to affect dream content and vividness.",
+        "Researchers found that personality traits significantly influence the nature of dreams, as reported on May 2, 2026.",
+        "The study analyzed thousands of dreams, revealing that external factors, like the pandemic, also affect dream content.",
         "These findings could lead to deeper insights into the relationship between personality, mental health, and dream analysis."
       ],
       "pubDate": "Sat, 02 May 2026 13:00:40 GMT",
@@ -5580,9 +6126,9 @@
       "link": "https://www.livescience.com/space/exoplanets/scientists-identify-10-000-impossible-exoplanet-candidates-potentially-tripling-the-number-of-known-alien-worlds",
       "category": "Science",
       "bullets": [
-        "A new study identified 10,000 potential exoplanet candidates, tripling the known number of alien worlds.",
-        "This breakthrough was achieved using a machine learning algorithm analyzing light curves from over 80 million stars.",
-        "The discovery could significantly advance our understanding of planetary systems and the potential for extraterrestrial life."
+        "A new study identified 10,000 potential exoplanet candidates, tripling the known alien worlds, as reported on May 2, 2026.",
+        "Using a machine learning algorithm, researchers analyzed light curves from over 80 million stars to find these candidates.",
+        "This discovery could significantly advance our understanding of planetary systems and the search for extraterrestrial life."
       ],
       "pubDate": "Sat, 02 May 2026 13:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/2ZNKmdnajRf7RmLsRsgJe9-1280-80.jpg"
@@ -5620,11 +6166,11 @@
       "source": "Creative Bloq",
       "sourceUrl": "https://www.creativebloq.com/feed",
       "link": "https://www.creativebloq.com/3d/video-game-design/why-splatoon-raiders-single-player-focus-is-a-ray-of-sunshine-in-a-sea-of-competitive-shooters",
-      "category": "Culture",
+      "category": "Tech",
       "bullets": [
-        "The upcoming Splatoon Raiders game focuses on single-player content, diverging from the competitive shooter trend.",
-        "This lower-priced spin-off is anticipated to attract players looking for engaging solo gameplay experiences.",
-        "Its success could reshape expectations for future titles in the competitive gaming landscape, emphasizing diverse gameplay options."
+        "Creative Bloq highlights the single-player focus of 'Splatoon Raiders,' a new game for the Switch 2, as of May 2, 2026.",
+        "The game is priced lower than competitors, potentially making it an attractive option for casual gamers this summer.",
+        "This shift towards single-player experiences may influence future game development trends in the competitive shooter genre."
       ],
       "pubDate": "Sat, 02 May 2026 13:00:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/NrznsVMVfMdcSVZ5fSUmKB-1280-80.jpg"
@@ -5634,11 +6180,11 @@
       "source": "Science Daily",
       "sourceUrl": "https://www.sciencedaily.com/rss/all.xml",
       "link": "https://www.sciencedaily.com/releases/2026/05/260502013550.htm",
-      "category": "Science",
+      "category": "Health",
       "bullets": [
-        "Researchers activated the Sox9 protein in mice, enhancing astrocyte activity to combat Alzheimer's plaques on May 2, 2026.",
-        "This method reduced plaque buildup and preserved cognitive function in memory-impaired mice, showcasing a potential breakthrough in Alzheimer's treatment.",
-        "The findings could lead to new therapeutic strategies for Alzheimer's, addressing a growing public health crisis as cases rise globally."
+        "Scientists discovered that boosting the protein Sox9 helps the brain combat Alzheimer's disease, as reported on May 2, 2026.",
+        "Increasing Sox9 activity in mice reduced harmful plaque buildup and preserved cognitive function, showing promising results.",
+        "This breakthrough could lead to new therapeutic strategies for Alzheimer's, impacting millions affected by the disease."
       ],
       "pubDate": "Sat, 02 May 2026 08:57:35 EDT",
       "image": "https://www.sciencedaily.com/images/1920/amyloid-plaques-forming-between-brain-neurons.webp"
@@ -5650,9 +6196,9 @@
       "link": "https://www.batimes.com.ar/news/opinion-and-analysis/i-warned-you.phtml",
       "category": "Politics",
       "bullets": [
-        "A warning regarding threats to journalism was ignored, highlighting internal conflicts within media organizations on May 2, 2026.",
-        "The article discusses the dangers posed by misinformation and the erosion of journalistic integrity, emphasizing the need for accountability.",
-        "This situation underscores the critical role of journalism in democracy, as public trust continues to wane amid rising disinformation."
+        "Buenos Aires Times reports on the challenges facing journalism, highlighting ignored warnings about its decline on May 2, 2026.",
+        "The article discusses the impact of misinformation and economic pressures on journalistic integrity and public trust.",
+        "Addressing these issues is crucial for the future of journalism and maintaining an informed society."
       ],
       "pubDate": "Sat, 02 May 2026 12:53:09 GMT",
       "image": "https://fotos.perfil.com/2026/05/02/trim/540/304/president-javier-milei-yells-at-the-press-2232158.jpg"
@@ -5956,11 +6502,9 @@
       "source": "Live Science",
       "sourceUrl": "https://www.livescience.com/feeds/all",
       "link": "https://www.livescience.com/planet-earth/volcanoes/yellowstones-volcano-may-be-fueled-in-a-very-different-way-than-we-thought",
-      "category": "Science",
+      "category": "World",
       "bullets": [
-        "A new study reveals that Yellowstone's volcanic eruptions may be caused by shifts in Earth's crust, not a magma reservoir, published on May 2, 2026.",
-        "This research challenges previous theories and suggests a more complex geological process, potentially altering volcanic risk assessments.",
-        "Understanding these mechanisms is crucial for predicting future eruptions and ensuring public safety in surrounding areas."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 12:15:00 +0000",
       "image": "https://cdn.mos.cms.futurecdn.net/z3zHj8bkLu2UCMNaWMWJ4Q-1280-80.jpg"
@@ -5970,11 +6514,9 @@
       "source": "Quartz",
       "sourceUrl": "https://qz.com/feed",
       "link": "https://qz.com/best-travel-apps-readers-digest",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "Reader's Digest highlighted five travel apps on May 2, 2026, that streamline flight bookings, planning, navigation, and road trips.",
-        "These apps aim to reduce travel costs and chaos, enhancing the overall travel experience for users seeking convenience.",
-        "As travel resumes post-pandemic, these tools could significantly impact how travelers plan and execute their journeys."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 12:10:54 GMT",
       "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/dino-reichmuth-A5rCN8626Ck-unsplash%2520(1).jpg"
@@ -6068,11 +6610,9 @@
       "source": "Buenos Aires Times",
       "sourceUrl": "https://www.batimes.com.ar/feed",
       "link": "https://www.batimes.com.ar/news/opinion-and-analysis/who-we-really-are.phtml",
-      "category": "Culture",
+      "category": "World",
       "bullets": [
-        "An article discusses cultural values that define identity, emphasizing historical and social characteristics on May 2, 2026.",
-        "It argues that these values, rather than genetic differences, shape human identity and societal mobilization across cultures.",
-        "This perspective encourages a deeper understanding of cultural diversity and the factors that unite or divide societies."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 12:02:08 GMT",
       "image": "https://fotos.perfil.com/2026/05/02/trim/540/304/hamas-fighters-stock-2232150.jpg"
@@ -6362,11 +6902,9 @@
       "source": "STAT News",
       "sourceUrl": "https://www.statnews.com/feed/",
       "link": "https://www.statnews.com/?p=1467688",
-      "category": "Politics",
+      "category": "World",
       "bullets": [
-        "A federal appeals court ruled on May 2, 2026, that mifepristone can only be distributed in-person at clinics, limiting access to the abortion pill.",
-        "This decision affects the majority of abortions in the U.S., raising concerns about reproductive rights and healthcare access.",
-        "The ruling could lead to increased legal battles over abortion access, impacting women's health services nationwide."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 11:36:17 +0000",
       "image": "https://www.statnews.com/wp-content/uploads/2026/05/AP26099558539961-1024x576.jpg"
@@ -6376,11 +6914,9 @@
       "source": "Dutch News",
       "sourceUrl": "https://www.dutchnews.nl/feed/",
       "link": "https://www.dutchnews.nl/?p=267243",
-      "category": "Politics",
+      "category": "World",
       "bullets": [
-        "Approximately 18,000 protestors marched in Amsterdam on May 2, 2026, demanding an equal-pay law during Labour Day celebrations.",
-        "The Dutch trade union FNV organized the event, highlighting ongoing wage disparities and advocating for legislative change.",
-        "This protest reflects growing public pressure on the government to address income inequality and labor rights in the Netherlands."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 11:36:00 +0000",
       "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/05/ANP-557208731-360x240.jpg"
@@ -6418,11 +6954,9 @@
       "source": "Globe and Mail",
       "sourceUrl": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/",
       "link": "https://www.theglobeandmail.com/business/international-business/article-spirit-airlines-shuts-down-iran-war-oil-price-spike/",
-      "category": "Business",
+      "category": "World",
       "bullets": [
-        "Spirit Airlines announced on May 2, 2026, that it has shut down operations following an oil price spike that disrupted its restructuring plan.",
-        "The bankrupt airline has canceled all flights, affecting thousands of passengers and leaving many stranded.",
-        "This closure highlights the volatility of the airline industry and the challenges faced by budget carriers amid rising operational costs."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 11:30:41 +0000",
       "image": "https://www.theglobeandmail.com/resizer/v2/FFE3YPNTC5CEBLM2ZBFVOL2GKU.JPG?auth=1295a912ddb203ab45aeaa286d71a3541c2c8272a99e71c58981e414244e3952&smart=true&width=5355&height=3570"
@@ -6432,11 +6966,9 @@
       "source": "Outside",
       "sourceUrl": "https://www.outsideonline.com/feed/",
       "link": "https://www.outsideonline.com/?p=2739706",
-      "category": "Environment",
+      "category": "World",
       "bullets": [
-        "A list published on May 2, 2026, details ten common items that could lead to expulsion from national parks, including fireworks and drones.",
-        "Violating these regulations can result in hefty fines or even jail time, emphasizing the importance of park conservation.",
-        "This information serves as a reminder for visitors to respect park rules to protect wildlife and natural resources."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 11:30:27 +0000",
       "image": "https://cdn.outsideonline.com/wp-content/uploads/2026/04/GettyImages-1640308480.jpg?width=1200"
@@ -6446,11 +6978,9 @@
       "source": "Ars Technica",
       "sourceUrl": "https://feeds.arstechnica.com/arstechnica/index",
       "link": "https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/",
-      "category": "Tech",
+      "category": "World",
       "bullets": [
-        "A new commercial technology using infrasound waves for fire suppression was announced on May 2, 2026, potentially replacing traditional sprinklers.",
-        "This acoustic method aims to extinguish kitchen fires without water, offering a novel solution for fire safety in homes.",
-        "If successful, this innovation could revolutionize fire prevention strategies, reducing property damage and enhancing safety."
+        "Summary unavailable"
       ],
       "pubDate": "Sat, 02 May 2026 11:30:26 +0000",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1472054212-1152x648.jpg"
@@ -8472,6 +9002,18 @@
       "image": "https://i.cbc.ca/ais/fc1650a6-a8a5-45ac-96e5-02f0034cbb1f,1777586358020/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1031%2C3024%2C1701%29%3BResize%3D%28620%29"
     },
     {
+      "title": "'Not going to stop me': Online violence against women in the media is a growing problem",
+      "source": "CBC",
+      "sourceUrl": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+      "link": "https://www.cbc.ca/news/world/women-journalists-online-violence-report-9.7183037?cmp=rss",
+      "category": "World",
+      "bullets": [
+        "Summary unavailable"
+      ],
+      "pubDate": "Sat, 02 May 2026 04:00:00 EDT",
+      "image": "https://i.cbc.ca/ais/eb8d87f3-9e2d-4549-9bd9-148369bdf060,1777571850345/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4724%2C2657%29%3BResize%3D%28620%29"
+    },
+    {
       "title": "US company Spirit Airlines shuts down, cancelling all flights as jet fuel costs hit hard",
       "source": "NZ Herald",
       "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
@@ -9966,650 +10508,16 @@
       ],
       "pubDate": "Sat, 02 May 2026 01:57:00 GMT",
       "image": "https://images.mktw.net/im-71591631"
-    },
-    {
-      "title": "Qatar-donated 747 ready for Trump's use as fill-in Air Force One this summer: USAF",
-      "source": "CBC",
-      "sourceUrl": "https://www.cbc.ca/webfeed/rss/rss-topstories",
-      "link": "https://www.cbc.ca/news/world/qatar-donated-747-trump-summer-readiness-9.7185378?cmp=rss",
-      "category": "Politics",
-      "bullets": [
-        "The U.S. Air Force announced on May 1, 2026, that a Boeing 747 donated by Qatar will be ready for Trump's use this summer.",
-        "The aircraft has undergone modifications and testing, ensuring it meets the requirements for presidential travel.",
-        "This development highlights ongoing international partnerships and the logistical aspects of presidential air travel."
-      ],
-      "pubDate": "Fri, 01 May 2026 21:30:18 EDT",
-      "image": "https://i.cbc.ca/ais/96144a2c-7b20-4fb4-ae9b-47c06307caaf,1777684136361/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C228%2C3059%2C1720%29%3BResize%3D%28620%29"
-    },
-    {
-      "title": "Rapidly ageing Japan’s ‘macho carers’ lend muscles to benefit elderly, disabled",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/rss/91/feed",
-      "link": "https://www.scmp.com/week-asia/health-environment/article/3352178/rapidly-ageing-japans-macho-carers-lend-muscles-benefit-elderly-disabled?utm_source=rss_feed",
-      "category": "Health",
-      "bullets": [
-        "Tatsumi Hokuto, a 27-year-old bodybuilder, works as a 'macho carer' in a Nagoya care home, assisting elderly residents.",
-        "Visionary, the company employing Hokuto, aims to address Japan's aging population by hiring physically strong caregivers.",
-        "This initiative highlights the need for innovative solutions in elder care as Japan's population continues to age rapidly."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:30:13 +0000",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/01/4c84ac45-2f97-4c7d-a965-19dac090bc41_be8a7a0b.jpg?itok=dilM1t1b&v=1777639617"
-    },
-    {
-      "title": "In China at a time of geopolitical flux, I feel right at home",
-      "source": "South China Morning Post",
-      "sourceUrl": "https://www.scmp.com/rss/91/feed",
-      "link": "https://www.scmp.com/opinion/china-opinion/article/3351898/china-time-geopolitical-flux-i-feel-right-home?utm_source=rss_feed",
-      "category": "Culture",
-      "bullets": [
-        "A law firm partner suggested international exposure in China, prompting reflections on cultural assumptions and xenophobia.",
-        "The author grapples with feelings of inadequacy and the pressure to conform to professional expectations regarding international experience.",
-        "This personal narrative underscores the complexities of cultural perceptions in a globalized work environment."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:30:09 +0000",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/05/01/ad6edec7-665d-44a3-a081-208c10530a3a_6e5dae45.jpg?itok=1Sc78ea5&v=1777606245"
-    },
-    {
-      "title": "The New Resident Evil Movie Takes A Page From The Series' Least-Liked Game",
-      "source": "GameSpot",
-      "sourceUrl": "https://www.gamespot.com/feeds/mashup/",
-      "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-takes-a-page-from-the-series-least-liked-game/1100-6539756/?ftag=CAD-01-10abi2f",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 18:24:00 -0700",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4691413-residentevilmovie.jpg"
-    },
-    {
-      "title": "U.S. approves military sales of over $8.6 billion to West Asia allies",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/feeder/default.rss",
-      "link": "https://www.thehindu.com/news/international/us-approves-military-sales-of-over-86-billion-to-west-asia-allies/article70930665.ece",
-      "category": "Politics",
-      "bullets": [
-        "The U.S. government approved military sales exceeding $8.6 billion to allies in West Asia amid ongoing conflict with Iran.",
-        "This announcement coincides with the nine-week mark of the U.S. and Israel's military operations against Iran since March.",
-        "The sales are part of a broader strategy to strengthen regional alliances and counter Iranian influence in the area."
-      ],
-      "pubDate": "Sat, 02 May 2026 06:49:11 +0530",
-      "image": "https://th-i.thgim.com/public/incoming/m0mdpp/article70930667.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Military_Aid_12587.jpg"
-    },
-    {
-      "title": "Court issues nationwide order blocking distribution of abortion pill by mail",
-      "source": "ABC News",
-      "sourceUrl": "https://abcnews.go.com/abcnews/topstories",
-      "link": "https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239",
-      "category": "Health",
-      "bullets": [
-        "An appeals court has issued a nationwide order prohibiting the distribution of the abortion pill mifepristone by mail.",
-        "This ruling affects telehealth providers, restricting access to the medication for women seeking abortions across the country.",
-        "The decision may lead to increased legal battles and further debates over reproductive rights in the US."
-      ],
-      "pubDate": "Fri, 01 May 2026 21:18:21 -0400",
-      "image": "https://s.abcnews.com/images/US/mifepristone-01-gty-jt-251209_1765303392723_hpMain_16x9_1600.jpg"
-    },
-    {
-      "title": "Magic's new Hobbit dragon has a wild MTG combo with a D&D card",
-      "source": "Polygon",
-      "sourceUrl": "https://www.polygon.com/rss/index.xml",
-      "link": "https://www.polygon.com/magics-new-smaug-card-makes-one-classic-dragon-completely-busted/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 01:10:28 GMT",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/magiccon-live-magiccon-las-vegas-2026-day-1-official-panels-29-45-screenshot.png"
-    },
-    {
-      "title": "Karen Bass Joins Mayoral Rival Nithya Raman in Supporting Unlimited Film Incentive",
-      "source": "Variety",
-      "sourceUrl": "https://variety.com/feed/",
-      "link": "https://variety.com/?p=1236735920",
-      "category": "Politics",
-      "bullets": [
-        "Lethbridge city council rejected a provincial proposal to increase funding for its integrated fire and emergency services.",
-        "The proposal aimed to secure the 114-year-old service, which combines fire and paramedic operations in southern Alberta.",
-        "This decision raises concerns about public safety and resource allocation as the city faces budgetary pressures."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:09:18 +0000",
-      "image": "https://variety.com/wp-content/uploads/2026/05/Karen-Bass-Nithya-Raman.jpg"
-    },
-    {
-      "title": "Japan determined to prop up yen through intervention",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/feed/",
-      "link": "https://www.japantimes.co.jp/article/640866/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 10:09:00 +0900",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538402.jpg"
-    },
-    {
-      "title": "Lethbridge could lose 114-year-old integrated fire, emergency service",
-      "source": "Global News",
-      "sourceUrl": "https://globalnews.ca/feed/",
-      "link": "https://globalnews.ca/?p=11826936",
-      "category": "Politics",
-      "bullets": [
-        "President Trump notified Congress that the ceasefire with Iran has extended the 60-day deadline under the War Powers Act.",
-        "This letter marks 60 days since military operations began in Iran, emphasizing the ongoing complexities of U.S. foreign policy.",
-        "The extension may influence congressional discussions on military engagement and oversight regarding Iran."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:05:25 +0000",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/FIREFIGHTER-UNION-SHIRT.bmp?w=720&h=480&crop=1"
-    },
-    {
-      "title": "Live updates: Trump tells Congress Iran ceasefire stopped 60-day clock",
-      "source": "The Hill",
-      "sourceUrl": "https://thehill.com/feed/",
-      "link": "https://thehill.com/?p=5858291",
-      "category": "Tech",
-      "bullets": [
-        "FBI Assistant Director Brett Leatherman stated that Chinese hackers risk arrest if they travel outside China.",
-        "He emphasized that protections for these hackers do not apply once they cross international borders, increasing their vulnerability.",
-        "This statement underscores the ongoing tensions between the U.S. and China regarding cybersecurity and international law enforcement."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:04:00 +0000",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26121613056097-e1777659424425.jpg?w=900"
-    },
-    {
-      "title": "Chinese hackers vulnerable to US arrest if they travel, FBI official says",
-      "source": "CNA",
-      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-      "link": "https://www.channelnewsasia.com/world/chinese-hackers-possible-us-arrest-fbi-6095506",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 09:01:24 +0800",
-      "image": "https://dam.mediacorp.sg/image/upload/s--Z9Zikdtg--/c_crop,h_450,w_800,x_0,y_54/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-04-01T205027Z_2_LYNXMPEM302UT_RTROPTP_3_USA-TRUMP-FBI.JPG?itok=8O6x4cdS"
-    },
-    {
-      "title": "African-born father to be deported to New Zealand from Australia as a 501",
-      "source": "NZ Herald",
-      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
-      "link": "https://www.nzherald.co.nz/nz/african-born-father-to-be-deported-to-new-zealand-from-australia-as-a-501/AQBTQBYVTRE3LMOPMKGREVWUUI/",
-      "category": "Politics",
-      "bullets": [
-        "An African-born man is set to be deported from Australia to New Zealand under section 501 due to criminal activity.",
-        "The man attributed his offenses to gang involvement, which influenced his legal troubles and subsequent deportation.",
-        "This case highlights Australia's strict immigration policies regarding criminal behavior, impacting many foreign nationals."
-      ],
-      "pubDate": "Sat, 02 May 2026 01:00:00 +0000",
-      "image": "https://www.nzherald.co.nz/resizer/v2/CGFQDHJQGVA77K42Q52VHLR7NU.jpg?auth=76c77a1bb22c15f9f499a9520d6ec817851bb2470fd70d2570e65813a83f6891&smart=true&width=1280&height=720"
-    },
-    {
-      "title": "[NEIGHBORS] ‘Kumusta ka na?’ — the question we all need to hear",
-      "source": "Rappler",
-      "sourceUrl": "https://www.rappler.com/feed/",
-      "link": "https://www.rappler.com/people/neighbors-how-are-you-mental-well-being/",
-      "category": "Culture",
-      "bullets": [
-        "Journalists express a need for genuine care and connection, particularly during challenging times, as highlighted in a recent article.",
-        "The phrase 'Kumusta ka na?' symbolizes the importance of checking in on others' well-being, especially among media professionals.",
-        "This call for compassion emphasizes the mental health challenges faced by journalists in today's fast-paced news environment."
-      ],
-      "pubDate": "Sat, 02 May 2026 09:00:00 +0800",
-      "image": "https://www.rappler.com/tachyon/2026/05/rappler-activities-may-1-2026.jpg"
-    },
-    {
-      "title": "Of mothers, nurses, and ‘The Pitt’",
-      "source": "Rappler",
-      "sourceUrl": "https://www.rappler.com/feed/",
-      "link": "https://www.rappler.com/people/mothers-nurses-the-pitt-hbo/",
-      "category": "Culture",
-      "bullets": [
-        "A new medical series showcases the vital roles of Filipino mothers and nurses in hospitals, resonating with audiences.",
-        "The show emphasizes the emotional and professional challenges faced by these caregivers, reflecting their impact on healthcare.",
-        "This representation aims to foster greater appreciation for the contributions of Filipinos in the medical field."
-      ],
-      "pubDate": "Sat, 02 May 2026 09:00:00 +0800",
-      "image": "https://www.rappler.com/tachyon/2026/04/Screenshot-2026-04-29-at-9.44.45-AM.png"
-    },
-    {
-      "title": "Coinbase says deal reached on key provision of crypto bill",
-      "source": "CNA",
-      "sourceUrl": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-      "link": "https://www.channelnewsasia.com/business/coinbase-says-deal-reached-key-provision-crypto-bill-6095546",
-      "category": "Business",
-      "bullets": [
-        "Coinbase announced a deal on a key provision of the crypto bill, facilitating regulatory clarity for the cryptocurrency industry.",
-        "This agreement is expected to enhance compliance and foster innovation, benefiting both businesses and consumers in the crypto space.",
-        "The outcome could influence future legislation and the overall landscape of cryptocurrency regulation in the U.S."
-      ],
-      "pubDate": "Sat, 02 May 2026 08:59:22 +0800",
-      "image": "https://dam.mediacorp.sg/image/upload/s--7bvFhfle--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-02T005922Z_2_LYNXMPEM4100D_RTROPTP_3_COINBASE-GEMINI-NEW-YORK-LAWSUITS.JPG?itok=Un_FlXqE"
-    },
-    {
-      "title": "Canada out of gold medal contention after loss at World Mixed Doubles Curling Championship",
-      "source": "Global News",
-      "sourceUrl": "https://globalnews.ca/feed/",
-      "link": "https://globalnews.ca/?p=11827063",
-      "category": "Sports",
-      "bullets": [
-        "Canada's mixed doubles curling team, Kadriana S. and Colton L., lost in the semifinals, ending their gold medal hopes.",
-        "The defeat came during the World Mixed Doubles Curling Championship, where they aimed for Canada's first gold in this event.",
-        "This loss highlights the competitive nature of international curling and sets the stage for future Canadian teams."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:51:49 +0000",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/5b5b98f7293465b1c2d573f3e7a55f8db88275c1607b9a0acd47975a36889d42.jpg?quality=65&strip=all&w=720&h=480&crop=1"
-    },
-    {
-      "title": "Middle East, Europe Would Have Blown To Pieces: Trump On Iran Nuclear Threat",
-      "source": "NDTV",
-      "sourceUrl": "https://feeds.feedburner.com/ndtv/latest",
-      "link": "https://www.ndtv.com/world-news/middle-east-europe-would-have-blown-to-pieces-trump-on-iran-nuclear-threat-11437876#publisher=newsstand",
-      "category": "Politics",
-      "bullets": [
-        "Former President Donald Trump stated military action was necessary to counter Iran's nuclear threat, protecting the Gulf region.",
-        "He emphasized that failure to act could have led to catastrophic consequences for countries like Israel and Saudi Arabia.",
-        "Trump's comments reflect ongoing tensions in U.S.-Iran relations and the geopolitical stakes surrounding nuclear proliferation."
-      ],
-      "pubDate": "Sat, 02 May 2026 06:16:38 +0530",
-      "image": "https://c.ndtvimg.com/2026-05/gl149dnc_donald-trump_625x300_02_May_26.jpeg"
-    },
-    {
-      "title": "NASA Laser Terminal enhances views during Artemis II mission",
-      "source": "Phys.org",
-      "sourceUrl": "https://phys.org/rss-feed/",
-      "link": "https://phys.org/news/2026-05-nasa-laser-terminal-views-artemis.html",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 20:40:01 EDT",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-laser-terminal-en.jpg"
-    },
-    {
-      "title": "Unusual ant interaction hints at mutualistic ‘cleaning’ system",
-      "source": "Mongabay",
-      "sourceUrl": "https://news.mongabay.com/feed/",
-      "link": "https://news.mongabay.com/?post_type=short-article&p=318612",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "02 May 2026 00:36:21 +0000",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/05/01191210/Low-Res_cleaner-ants.jpg"
-    },
-    {
-      "title": "Fugees rapper Pras turns himself in to begin 14-year prison sentence",
-      "source": "The Independent",
-      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
-      "link": "https://www.independent.co.uk/news/world/americas/crime/fugees-pras-michel-prison-sentence-b2969283.html",
-      "category": "Politics",
-      "bullets": [
-        "Fugees rapper Pras Michel has begun serving a 14-year prison sentence after being convicted of conspiracy and foreign agent charges.",
-        "His conviction stemmed from actions taken in 2023, involving illegal lobbying for a foreign government without registration.",
-        "This case underscores the legal repercussions of foreign influence in U.S. politics and the importance of compliance."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:36:03 GMT",
-      "image": "https://static.independent.co.uk/2026/05/02/00/Fugees_Rapper_Prison_79551.jpg?width=1200&auto=webp&crop=3%3A2"
-    },
-    {
-      "title": "The eye-opening results of a study on kids’ mouthguards",
-      "source": "RNZ",
-      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
-      "link": "https://www.rnz.co.nz/life/wellbeing/we-studied-the-bacteria-on-kids-sports-mouthguards-the-results-were-eye-opening",
-      "category": "Health",
-      "bullets": [
-        "A recent study revealed that improper care of kids' mouthguards can lead to harmful bacterial growth and health risks.",
-        "The research highlights the need for better education on mouthguard hygiene among parents and young athletes.",
-        "These findings stress the importance of oral health practices in sports, potentially influencing guidelines for youth sports."
-      ],
-      "pubDate": "Sat, 02 May 2026 12:33:38 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--1LcxRtNf--/t_tohu-badge-facebook/f_auto/q_auto/4JPBF5H_kiros_amin_WCH8Dx_0hgI_unsplash_jpg"
-    },
-    {
-      "title": "U.S. to close its flagship Gaza mission as Trump plan stalls",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/feed/",
-      "link": "https://www.japantimes.co.jp/article/640862/",
-      "category": "Politics",
-      "bullets": [
-        "The U.S. is closing its Gaza mission due to stalled diplomatic efforts, as reported on May 2, 2026.",
-        "Diplomats indicate this closure highlights challenges in overseeing the truce and coordinating humanitarian aid.",
-        "This move may further complicate U.S. relations in the region and hinder future peace negotiations."
-      ],
-      "pubDate": "Sat, 02 May 2026 09:33:00 +0900",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538397.JPG"
-    },
-    {
-      "title": "Jamieson’s fiery send-off to Sooryavanshi sparks outrage, debate erupts",
-      "source": "Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-does-not-make-for-a-pretty-sight-jamiesons-fiery-send-off-to-sooryavanshi-sparks-outrage-debate-erupts/articleshow/130684891.cms",
-      "category": "Sports",
-      "bullets": [
-        "Kyle Jamieson confronted 15-year-old Vaibhav Sooryavanshi during an IPL 2026 match on May 2, sparking outrage.",
-        "Jamieson's aggressive send-off followed his dismissal of Sooryavanshi, while Rajasthan scored 225 and Delhi Capitals achieved their highest IPL chase.",
-        "The incident has ignited a debate on sportsmanship and player conduct in cricket, especially towards younger players."
-      ],
-      "pubDate": "Sat, 02 May 2026 06:00:00 +0530",
-      "image": "https://static.toiimg.com/photo/msid-130684955,imgsize-44524.cms"
-    },
-    {
-      "title": "Rising fuel costs won't impact use of search and rescue helicopters - Rescue Coordination Centre",
-      "source": "RNZ",
-      "sourceUrl": "https://www.rnz.co.nz/rss/national.xml",
-      "link": "https://www.rnz.co.nz/news/emergency/594047/rising-fuel-costs-won-t-impact-use-of-search-and-rescue-helicopters-rescue-coordination-centre",
-      "category": "Health",
-      "bullets": [
-        "Rescue Coordination Centre confirmed that rising fuel costs will not affect search and rescue helicopter operations as of May 2, 2026.",
-        "The new rate already incorporates fuel costs, calculated prior to the recent spikes due to the Iran war.",
-        "This assurance is crucial for maintaining emergency response capabilities despite ongoing geopolitical tensions."
-      ],
-      "pubDate": "Sat, 02 May 2026 12:28:53 +1200",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--iwG1a3Tq--/t_tohu-badge-facebook/v1746939436/4K7KAAB_PhilipsS_RTrust_Waikato_jpg?_a=BACCd2AD"
-    },
-    {
-      "title": "Spirit Airlines preparing to shut down if bailout deal isn’t reached: Reports",
-      "source": "The Hill",
-      "sourceUrl": "https://thehill.com/feed/",
-      "link": "https://thehill.com/?p=5859903/",
-      "category": "Business",
-      "bullets": [
-        "Spirit Airlines is reportedly preparing to shut down if a bailout deal is not reached, as of May 2, 2026.",
-        "The airline's financial struggles have intensified, raising concerns about job losses and travel disruptions.",
-        "This situation underscores the ongoing challenges in the aviation industry post-pandemic and the need for government support."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:24:06 +0000",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/spirit-e1777663974260.jpg?w=900"
-    },
-    {
-      "title": "Trump's attacks on Europe's leaders worsen transatlantic frost",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/feed/",
-      "link": "https://www.japantimes.co.jp/article/640861/",
-      "category": "Politics",
-      "bullets": [
-        "Trump's recent criticisms of European leaders have escalated tensions, particularly regarding the Iran war, as reported on May 2, 2026.",
-        "These broadsides have prompted questions about the U.S.'s approach to managing its alliances with European nations.",
-        "The fallout may affect future diplomatic negotiations and cooperation on international security issues."
-      ],
-      "pubDate": "Sat, 02 May 2026 09:23:00 +0900",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/02/538394.jpg"
-    },
-    {
-      "title": "Nissan drops plans to make EVs in the US—here's why",
-      "source": "How-To Geek",
-      "sourceUrl": "https://www.howtogeek.com/feed/",
-      "link": "https://www.howtogeek.com/nissan-drops-us-ev-manufacturing-plan/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 00:12:28 GMT",
-      "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/02/nissan-ariya-2021-front_three-quarter-9ccc7ff4.jpg"
-    },
-    {
-      "title": "Two more Southern states move toward adding Republican House seats",
-      "source": "Washington Post",
-      "sourceUrl": "https://feeds.washingtonpost.com/rss/politics",
-      "link": "https://www.washingtonpost.com/politics/2026/05/01/alabama-tennessee-gerrymandering-congress-vra/",
-      "category": "Politics",
-      "bullets": [
-        "Two Southern states are advancing plans to add Republican House seats, as reported on May 2, 2026.",
-        "These GOP-led initiatives aim to exploit the Supreme Court's recent decision limiting the Voting Rights Act.",
-        "This could significantly alter the political landscape, potentially ending the careers of several Black Democratic representatives."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:09:38 +0000",
-      "image": ""
-    },
-    {
-      "title": "Trump orders US to pull thousands of troops out of Germany after row with Merz",
-      "source": "The Independent",
-      "sourceUrl": "https://www.independent.co.uk/news/world/rss",
-      "link": "https://www.independent.co.uk/news/world/americas/us-politics/us-pulling-troops-germany-iran-war-eu-b2969237.html",
-      "category": "Politics",
-      "bullets": [
-        "Trump has ordered the withdrawal of thousands of U.S. troops from Germany following tensions with German leader Merz, reported on May 2, 2026.",
-        "A Pentagon official described recent German rhetoric as 'unhelpful,' contributing to the decision.",
-        "This troop reduction may strain U.S.-Germany relations and impact NATO's strategic posture in Europe."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:08:18 GMT",
-      "image": "https://static.independent.co.uk/2026/04/30/16/2026-04-30T122119Z_1114874644_RC24XJA447H0_RTRMADP_3_USA-TRUMP-GERMANY-MERZ.jpg?width=1200&auto=webp&crop=3%3A2"
-    },
-    {
-      "title": "Super shoes won't be banned despite 'technological doping' claims",
-      "source": "ABC Australia",
-      "sourceUrl": "https://www.abc.net.au/news/feed/2942460/rss.xml",
-      "link": "https://www.abc.net.au/news/2026-05-02/sebastian-coe-world-athletics-president-shoe-marathon-record/106634252",
-      "category": "Sports",
-      "bullets": [
-        "World Athletics has decided not to ban super shoes despite claims of 'technological doping,' as stated on May 2, 2026.",
-        "Lord Sebastian Coe emphasized the organization's duty to support innovation in athletic footwear.",
-        "This decision will likely influence future competitions and athlete performance standards in track and field."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:07:11 +0000",
-      "image": "https://live-production.wcms.abc-cdn.net.au/dfee7ff583957f4881b3345d80da802b?impolicy=wcms_watermark_news&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=361&amp;width=862&amp;height=485&amp;imformat=generic"
-    },
-    {
-      "title": "Apple just made the Mac mini more expensive without raising its price",
-      "source": "Digital Trends",
-      "sourceUrl": "https://www.digitaltrends.com/feed/",
-      "link": "https://www.digitaltrends.com/?p=5970317",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Sat, 02 May 2026 00:05:25 +0000",
-      "image": "https://www.digitaltrends.com/tachyon/2024/10/M4-Mac-mini-5.jpg?resize=440%2C292"
-    },
-    {
-      "title": "Queensland sovereign citizen known as ‘His Serene Highness’ loses appeal for return of gun licence",
-      "source": "Guardian AU",
-      "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-      "link": "https://www.theguardian.com/australia-news/2026/may/02/queensland-sovereign-citizen-serene-highness-gun-licence-ntwnfb",
-      "category": "Politics",
-      "bullets": [
-        "Kent Jenkinson, a Queensland sovereign citizen known as 'His Serene Highness', lost his appeal to regain his firearms licence on May 2, 2026.",
-        "The tribunal upheld a 2023 police decision citing Jenkinson's ideologies as making him unfit to possess firearms.",
-        "This ruling reinforces police authority in regulating firearm ownership among individuals with extremist beliefs."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:00:10 GMT",
-      "image": "https://i.guim.co.uk/img/media/965cf9e74c597c42d26767ecbbe5750b37e3cddd/0_601_1911_1528/master/1911.jpg?width=700&quality=85&auto=format&fit=max&s=2dceca82feacf9917164053ffdb1e13b"
-    },
-    {
-      "title": "Father of Zachary Rolfe tells inquest more must be done to fight ‘widespread racist behaviour’ in NT police",
-      "source": "Guardian AU",
-      "sourceUrl": "https://www.theguardian.com/australia-news/rss",
-      "link": "https://www.theguardian.com/australia-news/2026/may/02/kumanjayi-walker-killing-inquest-rolfe-racism-nt-police-northern-territory-ntwnfb",
-      "category": "Politics",
-      "bullets": [
-        "Richard Rolfe, father of former NT police officer Zachary Rolfe, testified on May 2, 2026, about racism in the Northern Territory police force.",
-        "He criticized the NT government for failing to adequately investigate allegations of institutional racism within the police.",
-        "This testimony may prompt further inquiries into police conduct and accountability in Australia."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:00:10 GMT",
-      "image": "https://i.guim.co.uk/img/media/1fd74bb4800dc908ca167743dada21521f2dd2d9/289_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3c5fc4704cbd707e83d76ad8550e6543"
-    },
-    {
-      "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/xml/rss/all.xml",
-      "link": "https://www.aljazeera.com/?t=1777676649",
-      "category": "Politics",
-      "bullets": [
-        "President Trump stated on May 2, 2026, that there will be no early end to the ongoing war with Iran despite Congress being informed of 'terminated' hostilities.",
-        "The White House's stance indicates a continued U.S. military presence in the Middle East amid ongoing tensions.",
-        "This declaration may influence U.S. foreign policy and military strategy in the region moving forward."
-      ],
-      "pubDate": "Sat, 02 May 2026 00:00:00 +0000",
-      "image": "https://www.aljazeera.com/images/logo_aje_social.png"
-    },
-    {
-      "title": "\"Blast Or Make Deal\": Trump Outlines Iran War Options",
-      "source": "NDTV",
-      "sourceUrl": "https://feeds.feedburner.com/ndtv/latest",
-      "link": "https://www.ndtv.com/world-news/donald-trump-outlines-iran-war-options-11437855#publisher=newsstand",
-      "category": "Politics",
-      "bullets": [
-        "On May 1, 2026, President Trump outlined two options regarding Iran: pursue a negotiated settlement or escalate military action.",
-        "He emphasized the urgency of the decision, reflecting the high stakes involved in U.S.-Iran relations.",
-        "This statement could lead to significant shifts in U.S. diplomatic efforts and military readiness in the region."
-      ],
-      "pubDate": "Sat, 02 May 2026 05:29:21 +0530",
-      "image": "https://c.ndtvimg.com/2025-07/qupml394_donald-trump-afp_625x300_23_July_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
-    },
-    {
-      "title": "Mumbai family deaths: FDA finds no additives in watermelon; experts probe poison angle",
-      "source": "Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-      "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-family-deaths-fda-finds-no-additives-in-watermelon-experts-probe-bacteria-or-poison-angle/articleshow/130708055.cms",
-      "category": "Health",
-      "bullets": [
-        "The FDA reported on May 2, 2026, that no artificial additives were found in the watermelon linked to the Dokadia family's deaths in Mumbai.",
-        "Forensic tests are ongoing to investigate potential bacterial contamination or toxins as causes of the tragic incident.",
-        "The findings may influence food safety regulations and public health responses in India."
-      ],
-      "pubDate": "Sat, 02 May 2026 05:27:56 +0530",
-      "image": "https://static.toiimg.com/photo/msid-130708059,imgsize-42686.cms"
-    },
-    {
-      "title": "Best Red Light Therapy Devices of 2026, Tested and FDA-Cleared",
-      "source": "CNET",
-      "sourceUrl": "https://www.cnet.com/rss/news/",
-      "link": "https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 23:51:00 +0000",
-      "image": "https://www.cnet.com/a/img/resize/2297fe1e30832c83e9cf76aec80d43527200dc41/hub/2026/04/20/68d5eb27-5b65-47c2-a689-5d91f9325b8f/image-4-1-17-32pm.png?auto=webp&fit=crop&height=614&width=1092"
-    },
-    {
-      "title": "Jetstar email addresses passenger with curse words, airline blames account change",
-      "source": "NZ Herald",
-      "sourceUrl": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
-      "link": "https://www.nzherald.co.nz/travel/travel-news/jetstar-email-addresses-passenger-with-curse-words-airline-blames-account-change/DFI5P4JS6BEAJFU4MZDFSLLGZ4/",
-      "category": "Business",
-      "bullets": [
-        "Jetstar mistakenly addressed a passenger with curse words in an email on May 1, 2026, due to an account change error.",
-        "The airline apologized for the incident, which raised concerns about customer service and data management.",
-        "This incident may lead to increased scrutiny of Jetstar's communication practices and customer relations."
-      ],
-      "pubDate": "Fri, 01 May 2026 23:50:22 +0000",
-      "image": "https://www.nzherald.co.nz/resizer/v2/RQ7MEA2JCHDSJBH44PZ2H2DJHM.jpg?auth=123c12043107e17e15b648ff963842ba4b1712b1f1f4a7f835bd39e811f3894e&smart=true&width=1280&height=720"
-    },
-    {
-      "title": "Ghana becomes the latest African country to reject a US health deal",
-      "source": "ABC News",
-      "sourceUrl": "https://abcnews.go.com/abcnews/internationalheadlines",
-      "link": "https://abcnews.com/International/wireStory/ghana-latest-african-country-reject-us-health-deal-132587967",
-      "category": "World",
-      "bullets": [
-        "Ghana rejected a proposed health deal with the U.S. on May 1, 2026, citing concerns over data privacy and sovereignty.",
-        "This decision reflects growing apprehensions among African nations regarding foreign health agreements and data security.",
-        "The rejection may influence future U.S. health diplomacy efforts in Africa and similar negotiations."
-      ],
-      "pubDate": "Fri, 01 May 2026 19:49:04 -0400",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg"
-    },
-    {
-      "title": "I think I just vibe coded Lil Finder Guy onto my Mac",
-      "source": "9to5Mac",
-      "sourceUrl": "https://9to5mac.com/feed/",
-      "link": "https://9to5mac.com/?p=1050626",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 23:47:33 +0000",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Codex-Finder-Pal.webp?w=1600"
-    },
-    {
-      "title": "Spirit Airlines prepares to shut down after failing to reach deal for bailout lifeline",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
-      "category": "Business",
-      "bullets": [
-        "Spirit Airlines is preparing to shut down after failing to secure a government bailout from bondholders this week.",
-        "The airline's financial struggles have intensified, with no viable rescue plan in place, risking thousands of jobs.",
-        "This closure could disrupt travel plans for many and highlights ongoing challenges in the aviation industry post-pandemic."
-      ],
-      "pubDate": "Fri, 01 May 2026 23:42:19 GMT",
-      "image": "https://image.cnbcfm.com/api/v1/image/108296377-17769656712026-04-23t171341z_2015087744_rc22vka7xf3k_rtrmadp_0_usa-airlines-spirit.jpeg?v=1777674790&amp;w=1920&amp;h=1080"
-    },
-    {
-      "title": "Another Quebec-based furniture company to shut down operations due to U.S. tariffs",
-      "source": "Global News",
-      "sourceUrl": "https://globalnews.ca/feed/",
-      "link": "https://globalnews.ca/?p=11826941",
-      "category": "Business",
-      "bullets": [
-        "A Quebec-based furniture company announced its shutdown due to U.S. tariffs, affecting jobs immediately and over the coming weeks.",
-        "The closure will result in significant job losses, although exact numbers have not been disclosed by the company.",
-        "This shutdown highlights the ongoing impact of tariffs on Canadian businesses, prompting calls for policy changes."
-      ],
-      "pubDate": "Fri, 01 May 2026 23:40:45 +0000",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/bestar.png?w=720&h=480&crop=1"
-    },
-    {
-      "title": "Okanagan residents urged to be vigilant as warmer temperatures increase fire risk",
-      "source": "Global News",
-      "sourceUrl": "https://globalnews.ca/feed/",
-      "link": "https://globalnews.ca/?p=11826916",
-      "category": "Environment",
-      "bullets": [
-        "Okanagan residents are warned of increased fire risks as temperatures rise this weekend, with outdoor activities on the rise.",
-        "Local authorities emphasize vigilance, as warmer weather could lead to potential fire starts in the region.",
-        "This warning comes as the area prepares for a busy outdoor season, raising concerns about fire safety."
-      ],
-      "pubDate": "Fri, 01 May 2026 23:40:19 +0000",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/05/fire-danger-knox.jpg?quality=65&strip=all&w=720&h=480&crop=1"
-    },
-    {
-      "title": "‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
-      "source": "MarketWatch",
-      "sourceUrl": "https://www.marketwatch.com/rss/topstories",
-      "link": "https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories",
-      "category": "Health",
-      "bullets": [
-        "A 48-year-old individual earning $65,000 faces $48,000 in debt and no retirement savings, expressing concern about their financial future.",
-        "The person has no expected inheritance due to losing most family members at a young age, complicating their financial situation.",
-        "This case highlights the challenges many face in planning for retirement, especially without family support or savings."
-      ],
-      "pubDate": "Fri, 01 May 2026 23:40:00 GMT",
-      "image": "https://images.mktw.net/im-91829718"
-    },
-    {
-      "title": "Stretch Armstrong: the gloriously goo-filled toy that shouldn't have worked (but did)",
-      "source": "Boing Boing",
-      "sourceUrl": "https://boingboing.net/feed",
-      "link": "https://boingboing.net/?p=1111392",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 23:38:02 +0000",
-      "image": "https://i0.wp.com/boingboing.net/wp-content/uploads/2016/01/1D274907460659-stretch-armstrong-toy.jpg?fit=575%2C378&quality=60&ssl=1"
-    },
-    {
-      "title": "Apple escalates fight with India antitrust watchdog over access to global financials",
-      "source": "9to5Mac",
-      "sourceUrl": "https://9to5mac.com/feed/",
-      "link": "https://9to5mac.com/?p=1050630",
-      "category": "World",
-      "bullets": [
-        "Summary unavailable"
-      ],
-      "pubDate": "Fri, 01 May 2026 23:35:57 +0000",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/More-great-wallpaper-in-the-run-up-to-two-more-Apple-Stores-in-India.jpg?quality=82&#038;strip=all&#038;w=1600"
     }
   ],
   "finance": {
     "BTC": {
-      "price": 78706.01,
-      "change": 0.63
+      "price": 78261.73,
+      "change": -0.52
     },
     "ETH": {
-      "price": 2317.8,
-      "change": 0.99
+      "price": 2304.1,
+      "change": -0.54
     },
     "GOLD": {
       "price": 4644.5,
@@ -10644,8 +10552,8 @@
       "change": -0.14
     },
     "GBP/USD": {
-      "price": 1.3575,
-      "change": -0.22
+      "price": 1.3576,
+      "change": -0.21
     },
     "USD/CAD": {
       "price": 1.3588,
